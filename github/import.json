@@ -1,0 +1,119 @@
+{
+  "schema": [
+    {
+      "label": "repo",
+      "type": "VERTEX",
+      "primary": "name",
+      "properties" : [
+        {"name" : "name", "type":"STRING"},
+        {"name" : "full_name", "type":"STRING"},
+        {"name" : "created_at", "type":"DATETIME"},
+        {"name" : "updated_at", "type":"DATETIME"},
+        {"name" : "homepage", "type":"STRING"},
+        {"name" : "stargazers_count", "type":"INT64"},
+        {"name" : "watchers_count", "type":"INT64"},
+        {"name" : "language", "type":"STRING"},
+        {"name" : "forks_count", "type":"INT64"}
+      ]
+    },
+    {
+      "label": "user",
+      "type": "VERTEX",
+      "primary": "login",
+      "properties" : [
+        {"name" : "login", "type":"STRING", "index": true},
+        {"name" : "id", "type":"STRING", "optional": true},
+        {"name" : "node_id", "type":"STRING", "optional": true},
+        {"name" : "avatar_url", "type":"STRING", "optional": true},
+        {"name" : "url", "type":"STRING", "optional": true},
+        {"name" : "name", "type":"STRING", "optional": true},
+        {"name" : "company", "type":"STRING", "optional": true},
+        {"name" : "email", "type":"STRING", "optional": true},
+        {"name" : "location", "type":"STRING", "optional": true},
+        {"name" : "hireable", "type":"STRING", "optional": true},
+        {"name" : "created_at", "type": "DATETIME", "optional": true},
+        {"name" : "lng", "type":"FLOAT", "optional": true},
+        {"name" : "lat", "type":"FLOAT", "optional": true}
+      ]
+    },
+    {
+      "label" : "star",
+      "type" : "EDGE",
+      "properties" : [
+        {"name": "starred_at", "type": "DATETIME", "optional": true}
+      ],
+      "constraints": [["user", "repo"]]
+    },
+    {
+      "label" : "contribute",
+      "type" : "EDGE",
+      "constraints": [["user", "repo"]]
+    },
+    {
+      "label" : "commit",
+      "type" : "EDGE",
+      "properties" : [
+        {"name": "sha", "type": "STRING", "optional": true},
+        {"name": "message", "type": "STRING", "optional": true},
+        {"name": "url", "type": "STRING", "optional": true},
+        {"name": "html_url", "type": "STRING", "optional": true},
+        {"name": "date", "type": "DATETIME", "optional": true}
+      ],
+       "constraints": [["user", "repo"]]
+    },
+    {
+      "label" : "follow",
+      "type" : "EDGE",
+      "constraints": [["user", "user"]]
+    }
+  ],
+  "files": [
+    {
+      "path" : "data/users.csv",
+      "format" : "CSV",
+      "label" : "user",
+      "columns" : ["SKIP", "SKIP", "login", "id", "node_id", "avatar_url", "url", "name", "company", "email", "location", "hireable", "created_at", "SKIP", "lng", "lat"],
+      "header" : 1
+    },
+    {
+      "path" : "data/repo-detailed-small.csv",
+      "format" : "CSV",
+      "label" : "repo",
+      "columns" : ["name", "full_name", "created_at", "updated_at", "homepage", "stargazers_count", "watchers_count", "language", "forks_count"],
+      "header" : 1
+    },
+    {
+      "path" : "data/follow-detailed-small.csv",
+      "format" : "CSV",
+      "label" : "follow",
+      "SRC_ID": "user",
+      "DST_ID": "user",
+      "columns" : ["SKIP","SRC_ID", "DST_ID"],
+      "header" : 1
+    },
+    {
+      "path" : "data/starred_at.json",
+      "format" : "JSON",
+      "label" : "star",
+      "SRC_ID": "user",
+      "DST_ID": "repo",
+      "columns" : ["SRC_ID", "starred_at", "DST_ID"]
+    },
+    {
+      "path" : "data/contributors.json",
+      "format" : "JSON",
+      "label" : "contribute",
+      "SRC_ID": "user",
+      "DST_ID": "repo",
+      "columns" : ["SRC_ID", "SKIP", "SKIP", "SKIP", "SKIP", "DST_ID"]
+    },
+    {
+      "path" : "data/commits.json",
+      "format" : "JSON",
+      "label" : "commit",
+      "SRC_ID": "user",
+      "DST_ID": "repo",
+      "columns" : ["SRC_ID", "sha", "message", "url", "html_url", "date", "DST_ID"]
+    }
+  ]
+}
