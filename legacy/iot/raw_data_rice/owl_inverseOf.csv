@@ -1,0 +1,12 @@
+bf_hasTagSet,bf_isTagSetOf
+bf_hasInput,bf_isInputOf
+bf_hasTag,bf_isTagOf
+bf_hasPoint,bf_isPointOf
+bf_usesDimension,bf_usedByDimension
+bf_controls,bf_isControlledBy
+bf_contains,bf_isLocatedIn
+bf_feeds,bf_isFedBy
+bf_hasToken,bf_isTokenOf
+bf_hasOutput,bf_isOutputOf
+bf_hasMeasurement,bf_isMeasuredBy
+bf_hasPart,bf_isPartOf

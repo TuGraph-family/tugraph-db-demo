@@ -1,0 +1,5457 @@
+brick_HWS_Medium_Temperature_Hot_Water_Return_Temperature_Sensor
+AHU Exhaust Air Static Pressure Dead Band Setpoint
+brick_Discharge_Air_Static_Pressure_Increase_Decrease_Step_Setpoint
+brick_Economizer_Enable_Fixed_Dew_Point
+Supply Air Static Pressure Sensor
+VAV Occupied Cooling Max Discharge Air Flow Setpoint
+btag_Air
+brick_CRAC_Low_Humidity_Alarm_Setpoint
+User's delta command to control temperature setpoint in thermostat
+AHU Heating Request Setpoint
+btag_Stop
+brick_Discharge_Air_Temperature_Sensor
+brick_Outside_Air_Flow_Sensor
+bf_usedBy
+brick_Medium_Temperature_Hot_Water_Supply_Temperature_Load_Shed_Status
+brick_Occupied_Heating_Discharge_Air_Flow_Setpoint
+CWS Min Chilled Water Differential Pressure Setpoint
+btag_Booster
+Solar Zenith Angle Sensor
+brick_Temperature_Setpoint
+brick_AHU_Heat_Exchanger_System_Enable_Status
+CRAC Low Suction Pressure Alarm
+FCU Return Air Humidity Sensor
+Lead
+rice_occupiedOffsetABasement_Area2
+brick_CRAC_Humidity_Sensor
+brick_AHU_Exhaust_Air_Stack_Flow_Setpoint
+Unoccupied Cooling Temperature Setpoint
+btag_HWS
+Setpoint for deceleration
+rice_RMI526_Zone_Temp_5
+brick_Emergency_Power_Off_Activated_By_Leak_Detection_System_Status
+AHU Exhaust Bypass Damper Command
+brick_Drive_Ready_Status
+btag_Dead
+brick_Return_Air_Enthalpy
+AHU Discharge Air Temperature Reset High Setpoint
+Thermostat Adjust
+Differential Temperature Sensor
+rice_Active_Heat_DAT_Stptscc2AV005
+Economizer Enthalpy Setpoint
+brick_VAV_Supply_Air_Temperature_Sensor
+Supply Air Static Pressure Dead Band Setpoint
+brick_Domestic_Hot_Water_Supply_Temperature_Sensor
+Return Air Enthalpy
+brick_CRAC_Low_Suction_Pressure_Alarm
+AHU Cooling Discharge Air Temperature Dead Band Setpoint
+brick_Lowest_Exhaust_Air_Static_Pressure
+btag_Humidify
+Return Discharge Fan Differential Speed
+brick_Discharge_Air_Static_Pressure_Dead_Band_Setpoint
+brick_Domestic_Hot_Water_Valve_Command
+rice_5th_Floor_Avg_Space_Humidity
+brick_DemandResponse_Zone_Unoccupied_Load_Shed_Command
+brick_Fume_Hood_Emergency_Air_Flow_Status
+Lockout
+brick_VFD_Last_Fault_Code_Status
+brick_Discharge_Air_Flow_Demand
+brick_Supply_Air_Flow_Setpoint
+Valve Command
+brick_Chilled_Water_Pump_Command
+rice_Room150
+rice_Room156
+rice_TEMP1_Space_Temperature_RMIC150A
+rice_Room154
+brick_Low_Suction_Pressure_Alarm
+btag_Discharge
+btag_Switch
+Exhaust Air
+Motor Direction Status
+Reference
+Cooling Min Discharge Air Flow
+AHU Min Supply Air Temperature Setpoint
+Min
+Load Shed
+brick_Temperature_Alarm
+Occupied Cooling Max Supply Air Flow
+brick_Emergency_Power_Loss
+brick_Water_System_Water_Supply_Temperature_Sensor
+AHU Return Fan Air Flow Sensor
+Occupied Cooling Discharge Air Flow Setpoint
+rice_RMIC160_Space_Relative_Humidity_Local
+btag_Conditioning
+brick_VFD_Running_Hour_Sensor
+btag_Stream
+brick_Supply_Air_Temperature_Increase_Decrease_Step
+brick_AHU_Return_Air_Temperature_Low_Limit_Alarm
+HWS High Temperature Hot Water Discharge Temperature Sensor
+Occupied Command
+brick_Motor_Start_Stop_Command
+brick_Preheat_Coil_Entering_Air_Temperature_Sensor
+brick_HWS_Heat_Exchanger_Discharge_Water_Temperature_Dead_Band_Setpoint
+rice_economizerDisableFixedEnthalpyAAuditorium_Area4
+brick_Economizer_Disable_Fixed_Enthalpy_Setpoint
+brick_FCU_Chilled_Valve_Pressure_Sensor
+CO2 Level
+brick_Hot_Water_Flow_Meter
+rice_Cooling_Stpt_Localdac3AV008
+brick_Solar_Panel
+brick_Chilled_Water_Differential_Pressure_Sensor
+Medium Temperature Hot Water Supply Temperature Load Shed Status
+VAV Occupied Cooling Temperature Setpoint
+brick_Chiller_On_Off_Status
+brick_AHU_Return_Fan_Differential_Speed_Sensor
+Warm
+brick_Max_Supply_Air_Static_Pressure_Setpoint
+brick_Acceleration_Time_Setpoint
+Dehumidification
+Bypass
+Heating water for domestic or commercial purposes other than space heating and process requirements.
+brick_Weather_Rain_Duration_Sensor
+btag_Auto
+Motor Torque
+rice_Return_Air_CFM
+brick_VAV_CO2_Sensor
+CRAC Temperature Sensor
+rice_diagCalculationA5th_Floor_Area1
+Exhaust Fan Overridden Off
+brick_AHU_Lowest_Exhaust_Air_Static_Pressure_Sensor
+brick_VFD_Enable_Command
+Max Discharge Air Static Pressure Setpoint
+btag_Required
+Medium Temperature Hot Water Differential Pressure Load Shed
+Economizer Disable Fixed Dewpoint Setpoint
+Heating Max Supply Air Flow
+brick_Heating_On_Off_Status
+AHU Outside Air Damper Position Sensor
+rice_heatCoolModeStatusAAuditorium_Area4
+VFD Hand Auto Status
+HWS Hot Water Differential Pressure Sensor
+brick_Exhaust_Fan_Disable_Command
+brick_AHU_Exhaust_Fan_Status
+rice_RMI501_Zone_Temp_5
+brick_Temperature_Low_Limit_Setpoint
+brick_Occupied_Cooling_Temperature_Setpoint
+brick_Discharge_Fan_VFD_Speed_Status
+brick_AHU_Heating_Valve_Command
+brick_AHU_Heating_Request_Percent_Setpoint
+brick_Cooling_Discharge_Air_Temperature_Dead_Band
+brick_Humidity_Tolerance_Setpoint
+brick_Fan_Overload_Alarm
+rice_AHU_2
+rice_Discharge_Air_Temperaturedac2
+brick_Voltage_Sensor
+FCU Supply Air Temperature Sensor
+AHU Outside Air Flow Sensor
+CWS Chilled Water System Enable Command
+HVAC Warmest Zone Temperature Sensor
+Integral Gain Setpoint
+AHU Discharge Air Temperature Setpoint
+Chilled Water Pump Differential Pressure Integration Time Setpoint
+Exhaust Fan Start Stop Command
+brick_Medium_Temperature_Hot_Water_Discharge_Temperature_Load_Shed
+brick_CRAC_Smoke_Detected_Alarm
+DHWS Domestic Hot Water System Start Stop Command
+brick_UndefinedMeasurement
+Average Discharge Air Flow Sensor
+AHU Supply Air Static Pressure Proportional Band Setpoint
+Water_System Perimeter Heating Valve Command
+brick_Air
+DC
+AHU Min Discharge Air Static Pressure Setpoint
+VAV Occupied Cooling Min Discharge Air Flow Setpoint
+brick_AHU_Discharge_Air_Temperature_Sensor
+brick_Chilled_Water_System
+brick_Reheat_Valve
+AHU Exhaust Air Stack Flow Sensor
+btag_Integration
+rice_AHU_8
+brick_Overridden_Off
+Steam On Off
+Hail
+brick_Damper_Command
+Water_System Water Supply Temperature Sensor
+brick_VAV_Room_Temperature_Sensor
+Hood
+brick_Chilled_Water_Pump_Alarm_Delay
+brick_Outside_Air_Damper_Min_Position_Setpoint
+Entering Water Temperature Sensor
+brick_HVAC_Highest_Zone_Temperature_Sensor
+Output Voltage Sensor
+brick_AHU_Underfloor_Temperature_Sensor
+Air Lockout Temperature
+Filter Reset
+Average
+Current Limit
+brick_HWS_Hot_Water_Coil_Entering_Temperature_Sensor
+rice_economizerDisableFixedEnthalpyABasement_Area2
+Return_Fan Fan Air Flow Sensor
+brick_Supply_Air_Flow_Demand
+AHU Occupied Mode Status
+btag_Stages
+rice_RMI1071_Space_Temperature_Local
+brick_VFD_Motor_Speed_Sensor
+CRAC High Humidity Alarm
+Compressor Overload
+AHU Economizer Supply Air Temperature Dead Band Setpoint
+brick_Humidification_On_Off
+rice_FPVAV_Hot_Water_Supply_Temp
+Chilled Water Pump Alarm Delay Setpoint
+Cooling Coil Valve Pressure Sensor
+brick_Piezoelectric
+brick_Supply_Fan_Air_Flow_Sensor
+bf_hasPoint
+rice_Zone_Temp_2_RMI007
+brick_EconCycle_On_Off
+btag_City
+Supply Fan VFD Speed
+HWS Hot Water Discharge Temperature Sensor
+Unoccupied Cooling Supply Air Flow
+brick_VFD_Start_Stop_Status
+Preheat Valve Command
+VFD Manual Auto Status
+brick_Exhaust_Fan_Overridden_On_Status
+rice_HW_Supply_Mag_Temp1
+brick_AHU_VFD_Speed_Command
+Heating Max Supply Air Flow Setpoint
+rice_CHW_Coil_Entering_Tempscc2UIP06
+rice_RMI534_Space_Temperature_Perimeter
+Tells the VFD to run at certain % of its capacity
+AHU Exhaust Air Static Pressure Integral Time Setpoint
+bf_Equipment
+brick_AHU_Supply_Fan_Command
+CRAC System Enable Command
+brick_Occupied_Heating_Max_Discharge_Air_Flow_Setpoint
+brick_Deionised_Water_Conductivity_Sensor
+Chilled Water Pump Differential Pressure Dead Band Setpoint
+FCU Heating Valve Command
+Smoke Detected Alarm
+brick_Mode_Setpoint
+brick_PreHeat_Coil_Leaving_Air_Temperature_Sensor
+HWS Hot Water Coil Entering Temperature Sensor
+brick_Cooling_Temperature_Setpoint
+brick_Occupied_Cooling_Discharge_Air_Flow
+Integrative
+brick_Monthly_Steam_Usage_Meter
+Fault Reset
+Exhaust Fan Disable Status
+rice_Space_Relative_Humidity_RMI306
+rice_Space_Relative_Humidity_RMI305
+btag_Liquid
+rice_Zone_Temp_6_RM_I201
+btag_Input
+brick_Exhaust_Fan_VFD_Status
+VAV Occupied Heating Temperature Setpoint
+Heating Demand
+brick_Trace_Heat_Sensor
+brick_VFD_Drive_Ready_Status
+AHU Max Discharge Air Temperature Setpoint
+brick_AHU_Discharge_Air_Static_Pressure_Sensor
+brick_VAV_Occupied_Heating_Temperature_Setpoint
+Discharge Fan Air Flow Sensor
+brick_Fume_Hood_Alarm
+Point
+bf_isFedBy
+Steam System
+rice_economizerEnableDifferentialDryBulbABasement_Area2
+rice_AHU3_CHW_Return_Temppgm2UIP09
+FCU Chilled Valve Pressure Sensor
+CRAC Condensate Leak Alarm
+Position
+brick_Frequency_Sensor
+rice_RMI503_Zone_Temp_3
+rice_Leaving_Water_Temperaturewshp1
+Disable
+Environment Box Temperature Sensor
+VAV Occupied Heating Max Discharge Air Flow Setpoint
+brick_Maintenance_Mode_Command
+rice_Enter_CDQ_Regen_Humidityscc2UIP24
+brick_Air_Humidity
+brick_Enable_Hot_Water_System_Outside_Air_Temperature_Setpoint
+brick_Heating_Command
+brick_HWS_Hot_Water_Differential_Pressure_Integral_Time_Setpoint
+Chilled Water Differential Pressure Setpoint
+brick_Heating_Min_Supply_Air_Flow
+btag_Enable
+Zone Unoccupied Load Shed Command
+brick_Return_Air
+Return Fan Differential Speed Setpoint
+brick_Current_Steam_Usage
+brick_Fire_Control_Panel_AHU_Off_Status_LED
+Digital
+brick_Unoccupied_Heating_Temperature
+rice_RMI511A_Space_Temperature_Perimeter
+Solar Panel
+Run Enable Status
+brick_Cooling_Tower_Fan
+Min Supply Air Static Pressure Setpoint
+brick_HWS_Supply_Water_Temperature_Setpoint
+rice_RMI511B_Zone_Temp_2
+AHU Discharge Air Humidity Sensor
+brick_Fan_Run_Request_Status
+Temperature sensor in the thermostat to measure the actual zone temperature
+brick_AHU_VFD_Status
+rice_Enter_CDQ_Regen_Tempscc2UIP23
+Velocity
+Point at which the desired property is set. (modified from ASHRAE dictionary)
+btag_Proportional
+brick_HVAC_Zone
+Fans Stage Command
+brick_Heating_Discharge_Air_Temperature_Integral_Time
+btag_Hot
+Enable
+brick_Discharge_Air_Temperature_Reset_Low
+brick_Fault
+brick_Chiller_Discharge_Water_Temperature_Alarm
+Deceleration Time
+Domestic Hot Water Supply Temperature Sensor
+Thermal Energy Storage
+brick_Supply_Fan_Piezoelectric_Sensor
+brick_CWS_Chilled_Water_Pump_Start_Stop_Status
+Max Static Pressure in the supply duct (per Design)
+Lighting_System Luminance Setpoint
+brick_Air_CO2
+btag_Heat_Exchanger
+VAV Heating Request Setpoint
+brick_CWS_Chilled_Water_Pump_Lead_Lag_Status
+Air Dewpoint
+FCU Supply Air Temperature Cooling Setpoint
+btag_CWS
+Max Supply Air Temperature
+rice_HVAC_Zone8
+rice_HVAC_Zone7
+rice_HVAC_Zone6
+rice_HVAC_Zone5
+rice_HVAC_Zone4
+rice_HVAC_Zone3
+rice_HVAC_Zone2
+brick_VFD_Heating_Valve_Command
+Proportional
+CRAC Temperature Setpoint
+brick_AHU_Heating_Supply_Air_Temperature_Integral_Time_Setpoint
+brick_Supply_Air
+brick_Chilled_Water_Differential_Pressure_Integral_Time_Setpoint
+DI Water Alarm
+rice_diagnosticAlarmPresentA5th_Floor_Area1
+rice_TEMP1_Space_TemperatureRMI050
+Room Temperature
+rice_occupiedDifferenceAAuditorium_Area4
+brick_Economizer_Disable_Differential_Temperature
+brick_Return_Fan_Air_Flow_Sensor
+brick_Discharge_Fan_VFD_Speed
+brick_Solar_Azimuth_Angle
+Supply Air Temperature Reset Low
+brick_System
+brick_Supply_Fan_Discharge_Air_Static_Pressure_Proportional_Band_Setpoint
+rice_DA_Humiditydac4UIP17
+Emergency Generator
+brick_DHWS_Domestic_Hot_Water_System_Enable_Command
+HWS
+brick_AHU_Outside_Min_Air_Flow_Setpoint
+brick_Fan_Speed_Reset_Command
+Condenser Condensor Temperature Sensor
+High Temperature
+Exhaust Fan On Status LED
+rice_economizerDisableDifferentialDryBulbA2nd_Floor_Area1
+Drive Ready Status
+rice_RMI542_Zone_Temp_2
+Humidity Tolerance
+Maximum speed specified by manufacturer
+Velocity Pressure Setpoint
+brick_VFD_Power_Meter
+btag_Off
+brick_Even_Month_Status
+Capacity Sensor
+Chilled Water Pump Lead Lag Command
+Chiller Max Load Setpoint
+brick_Supply_Fan_Supply_Air_Static_Pressure_Integral_Time_Setpoint
+bf_isLocatedIn
+btag_Steam
+AHU Supply Fan Start Stop Status
+brick_Occupied_Cooling_Min_Supply_Air_Flow
+Enable Status
+Chiller Failure Alarm
+btag_Timer
+brick_AHU_Exhaust_Fan_Fire_Control_Panel_Off_Command
+brick_Economizer_Mode_Status
+FCU Supply Fan VFD Speed Command
+Request Command
+brick_Unoccupied_Cooling_Discharge_Air_Flow
+Chiller Discharge Water Temperature Alarm
+brick_Min_VFD_Speed_Setpoint
+Differential Pressure Integral Time Setpoint
+Fire_Control_Panel Exhaust Fan On Status LED
+brick_AHU_Supply_Air_Temperature_Reset_High_Setpoint
+Economizer Enable Differential Enthalpy Setpoint
+Coldest
+brick_Unoccupied_Heating_Temperature_Setpoint
+Economizer Disable Fixed Enthalpy
+rice_RMI_524_Zone_Temp_4
+Yearly
+bf_hasInput
+rice_occupancyStatusARoom_324_Area5
+brick_Disable_Hot_Water_System_Air_Temperature
+brick_Domestic_Hot_Water_Discharge_Temperature_Sensor
+Unoccupied Cooling Discharge Air Flow
+rice_Room561
+brick_Mixed_Air_Damper_Position_Sensor
+Economizer Temperature Setpoint
+Emergency Power Off System Enable Status
+bf_usedByPoint
+AHU Exhaust Air Stack Flow Dead Band Setpoint
+brick_Liquid_Detected_Alarm
+btag_Box
+brick_Supply_Air_Damper_Max_Position
+brick_AHU_Heat_Wheel_Supply_Air_Temperature_Sensor
+brick_Max_Frequency
+Control
+brick_HWS_Medium_Temperature_Hot_Water_Supply_Temperature_Low_Reset_Setpoint
+AHU Outside Air Lockout Temperature Setpoint
+Reset Command
+Unoccupied Mode Setpoint
+brick_DC_Bus_Voltage
+brick_Min_Supply_Air_Static_Pressure
+VFD Rated Speed Setpoint
+brick_Chilled_Water_Pump_Start_Stop_Status
+AHU Return Discharge Fan Differential Speed Setpoint
+AHU Exhaust Fan Air Flow Setpoint
+Low Humidity
+Occupied Heating Supply Air Flow Setpoint
+Medium Temperature Hot Water Discharge Temperature Load Shed
+FCU Humidity Sensor
+brick_Occupied_Cooling_Max_Supply_Air_Flow_Setpoint
+brick_Fire_Control_Panel_Exhaust_Fan_Off_Status_LED
+Electrical
+brick_Power_Meter
+brick_AHU_Preheat_Valve_Command
+Zone Air Temperature Sensor
+Water_System DI Water Level Sensor
+CRAC Dehumidification On Off Status
+Economizer Damper Min Position
+Humidification
+brick_CRAC_Emergency_Power_Off_Command
+brick_DemandResponse_Medium_Temperature_Hot_Water_Discharge_Temperature_Load_Shed_Status
+Economizer Differential Air Temperature
+Percent
+Discharge Air Temperature Setpoint
+CRAC On Off Status
+brick_Supply_Water_Differential_Pressure_Proportional_Band
+brick_AHU_Return_Fan_Start_Stop_Status
+Override Command
+rice_RMI507_Zone_Temp_6
+rice_averageSpaceTemperatureA5th_Floor_Area1
+Factor
+Fume Hood
+brick_Economizer_Disable_Fixed_Enthalpy
+brick_Medium_Temperature_Hot_Water_Discharge_Temperature_Low_Reset_Setpoint
+brick_Speed_Reset_Command
+brick_Exhaust_Fan_Off_LED
+Room
+rice_occupiedDifferenceA1st_Floor_Area1
+rice_TEMP2_Space_Temperature_RMI105
+brick_Vent_Operating_Mode
+brick_Cooling_Max_Supply_Air_Flow
+Occupied Cooling Max Supply Air Flow Setpoint
+btag_Isolation
+rice_unoccupiedDifferenceABasement_Area2
+brick_Chilled_Water_Differential_Pressure_Proportional_Band
+brick_VFD_Speed_Setpoint
+Chilled Water Pump Lead Lag Status
+Reset Setpoint
+brick_HWS_Hot_Water_Discharge_Temperature_Sensor
+Exhaust Air Static Pressure Sensor
+Emergency Power Off Switch Command
+VAV Booster Fan Start Stop Command
+Curtailment Override Command
+Discharge
+Hold
+Effective Cooling Temperature Setpoint
+brick_Zone_Humidity_Sensor
+Pump Lead On Off Command
+Exhaust Air Temperature Sensor
+rice_averageSpaceTemperatureARoom_306_Area3
+Booster Fan Start Stop
+btag_Fan
+Hot Water Differential Pressure
+brick_Return_Fan_VFD_Speed_Status
+btag_Percent
+brick_Return_Air_Humidity
+rice_VAV_26_HW_Supply_Temp
+Current Limit Setpoint
+HWS Hot Water Differential Pressure Dead Band Setpoint
+rice_ductPressOptMaxPos2nd_Floor_Chilled_Beam_Source_VAS2
+btag_Lighting_System
+FCU Exhaust Fan VFD Speed Command
+btag_HVAC
+rice_Room32
+Exhaust Air Velocity Pressure Sensor
+brick_Exhaust_Air_Stack_Flow_Integral_Time
+rice_ventOptVavAirflowGross5th_Floor_Chilled_Beam_VAS1
+rice_RMI509_Space_Temperature_Perimeter
+rice_outdoorAirHumidityA2nd_Floor_Area1
+brick_AHU_Exhaust_Fan_System_Enable_Command
+Discharge Air Humidity Sensor
+brick_Heating_Min_Discharge_Air_Flow
+brick_VFD_Output_Voltage_Sensor
+Supply Air Temperature Reset Low Setpoint
+brick_AHU_Discharge_Fan_Air_Flow_Sensor
+brick_Run_Request_Command
+Emergency Power Off Enable
+HWS Hot Water Differential Pressure Integral Time Setpoint
+btag_Leak
+brick_Average_Cooling_Demand
+brick_AHU_Economizer_Discharge_Air_Temperature_Proportional_Band_Setpoint
+brick_Chilled_Water_Pump_Status
+AHU Cooling Supply Air Temperature Dead Band Setpoint
+rice_economizerEnableDifferentialDryBulbA5th_Floor_Area1
+btag_Fire
+brick_Heating
+btag_Current
+Chair
+brick_Enable_Hot_Water_System_Air_Temperature
+rice_Space_Humidity
+CRAC Zone Humidity Sensor
+brick_AHU_Zone_Air_Temperature_Sensor
+rice_occupancyABasement_Area2
+brick_AHU_Exhaust_Fan_Disable_Status
+brick_Economizer_Dewpoint_Setpoint
+Exhaust Fan Air Flow
+Lead On Off
+Supply Air Temperature High Limit
+brick_Occupied_Cooling_Max_Discharge_Air_Flow_Setpoint
+btag_Point
+rice_economizerEnableFixedDryBulbA1st_Floor_Area1
+rice_Discharge_Air_Temperaturescc2
+Power Meter
+Humidify
+Bypass Damper Position
+brick_Hot_Water_Differential_Pressure_Proportional_Band_Setpoint
+brick_Temperature_Tolerance_Setpoint
+brick_Heat_Exchanger_Supply_Water_Temperature_Sensor
+brick_Energy
+Run Time
+Command to turn on/off VFD
+brick_AHU_Exhaust_Fan_Disable_Command
+Discharge Fan Start Stop Command
+brick_VAV_Cooling_Min_Supply_Air_Flow_Setpoint
+Supply Air Temperature Reset High
+brick_Outside_Air_Lockout_Temperature_Differential_Sensor
+Heat Exchanger Supply Water Temperature Integral Time Setpoint
+brick_VAV_Unoccupied_Heating_Temperature_Setpoint
+Steam Usage Today
+rice_occupancyStatusARoom_305_Area2
+Steam Usage Today Meter
+Medium Temperature Hot Water Supply Temperature High Reset
+AHU Exhaust Fan Fire Control Panel Off Command
+brick_Curtailment_Override_Command
+Supply Water Flow Sensor
+brick_AHU_Heat_Exchanger_Start_Stop_Command
+Static Pressure
+brick_AHU_Exhaust_Air_Static_Pressure_Proportional_Band_Setpoint
+brick_Warm_Cool_Adjust
+brick_Economizer_Differential_Air_Temperature_Setpoint
+Return Fan Start Stop
+brick_Static_Pressure_Min
+AHU Current Cooling Setpoint
+brick_Hot_Water_Differential_Pressure_Integral_Time
+Unoccupied Cooling Temperature
+rice_TEMP3_Space_Temperature_Perm_RM_I224
+rice_Freeze_Protect_Low_Limitpgm1AV013
+brick_Economizer_Differential_Air_Temperature
+brick_Static_Pressure
+Air Damper Min Position
+brick_Failure
+rice_spaceHumidityA1st_Floor_Area1
+Min Chilled Water Differential Pressure
+AHU Run Request Command
+btag_Heat
+Remotely
+Mixed Air Filter
+Return Air Temperature Sensor
+Schedule Temperature Setpoint
+brick_Emergency_Air_Flow
+brick_Chilled_Water_Supply_Temperature_Sensor
+Low Temperature Alarm
+rice_economizerDisableDifferentialEnthalpyA1st_Floor_Area1
+rice_Zone_Temp_2_RMI122
+rice_FP_VAV_Hot_Water_Return_Temp
+Standby Load Shed Command
+Response
+btag_Reheat
+btag_EconCycle
+rice_operatingModeA1st_Floor_Area1
+Motor Power Meter
+CRAC Locally On Off Status
+brick_Run_Status
+brick_Low_Suction_Pressure
+rice_RMI505_Space_Temperature_Perimeter
+brick_VFD_Alarm
+brick_Shutdown_Command
+rice_RMI511B_Space_Temperature_Perimeter
+DI Water
+Voltage measured on the communication/control lines
+brick_AHU_Exhaust_Air_Static_Pressure_Sensor
+brick_AHU_Economizer_Damper_Command
+rice_economizerEnableDifferentialDryBulbA2nd_Floor_Area1
+rice_ventOptStatusV5th_Floor_Chilled_Beam_VAS1
+brick_Heat_Exchanger
+brick_Air_Dewpoint
+rice_CB_Supply_Temp
+brick_Steam
+brick_Discharge_Fan_Start_Stop
+rice_HWS_Temp
+Ventilation Air Flow Ratio Limit
+bf_Point
+AHU Fan Run Request Status
+Running Hour Sensor
+btag_Exchanger
+Motor Start Stop Command
+brick_Chilled_Water_Discharge_Flow_Sensor
+brick_Supply_Air_Temperature_Reset_Differential
+brick_CRAC_Disable_Command
+Warm Cool Adjust Sensor
+HVAC
+brick_AHU_Return_Supply_Fan_Differential_Speed_Setpoint
+brick_VFD_Maintenance_Required_Alarm
+High Static Pressure Cutout Limit Setpoint
+brick_Open_Heating_Valve_Outside_Air_Temperature_Setpoint
+brick_Supply_Air_Flow_Demand_Setpoint
+at the inlet of the AHU
+brick_CRAC_Low_Temperature_Alarm_Setpoint
+Indicator
+Cooling Command
+brick_Energy_Meter
+Temperature Low
+brick_Pump_Lead_Lag_Command
+btag_To
+Boiler On Off Status
+brick_Pump_Start_Stop
+brick_Mixed_Air
+brick_Turn_Off_Status
+btag_Time
+brick_VAV_Discharge_Air_Flow_Setpoint
+Current Steam Usage
+Disable Command
+brick_Condensor_Temperature_Sensor
+btag_Return_Fan
+brick_System_Mode_Status
+Pump Lead Lag Status
+brick_CWS_Chilled_Water_Differential_Pressure_Sensor
+On Timer
+brick_Return_Air_Damper
+Alarm
+brick_Solar_Panel_Photovoltaic_Current_Output_Sensor
+Humidity
+brick_CWS_Chilled_Water_Differential_Pressure_Increase_Decrease_Step_Setpoint
+AHU Exhaust Fan Overridden Off Status
+brick_Room_Temperature_Setpoint
+Azimuth
+brick_AHU_Mixed_Air_Damper_Position_Command
+Mode
+brick_High_Head_Pressure_Alarm
+brick_Heat_Wheel_Voltage_Sensor
+brick_Heat_Wheel_Discharge_Air_Temperature
+brick_VAV_Discharge_Air_Duct_Pressure_Status
+Supply Water Differential Pressure Proportional Band Setpoint
+brick_Dehumidification_On_Off
+brick_Min_Air_Flow
+Condensor Temperature
+Fan Status
+Filter Differential Pressure Sensor
+brick_Peak_Energy_Today_Meter
+Freeze Status
+Humidifier Alarm
+rice_Occupied_Offsetscc2
+Return Air CO2
+btag_Manual
+HWS High Temperature Hot Water Return Temperature Sensor
+AHU Return Supply Fan Differential Speed Setpoint
+Min VFD Speed Setpoint
+VAV Discharge Air Velocity Pressure Sensor
+brick_Heat_Wheel_Discharge_Air_Temperature_Sensor
+Underfloor Temperature Sensor
+brick_HVAC_Average_Supply_Air_Flow_Sensor
+Average Exhaust Air Static Pressure Sensor
+Hot Water Coil Entering Temperature Sensor
+CRAC Enable Command
+Static Pressure Dead Band Setpoint
+rice_2_Mag_CHW_Supply_Temp
+brick_Piezoelectric_Sensor
+brick_Outside_Air_Humidity_Sensor
+CWS Chilled Water Pump Lead Lag Command
+AHU Heat Wheel Discharge Air Temperature Sensor
+Water used as a cooling medium (particularly in air-conditioning systems or in processes) at below ambient temperature.
+rice_Leaving_Water_Temperaturewshp2
+Auto Cooling Temperature
+brick_Water_System_Pump_Start_Stop_Status
+rice_operatingMode1st_Foor_Perimeter_Devices_VAS1
+AHU Heating Supply Air Temperature Dead Band Setpoint
+brick_Even_Month
+brick_Resource
+rice_HW_Return_Temperature_Local
+brick_Effective_Heating_Temperature_Setpoint
+Device or instrument designed to detect and measure a variable.
+btag_Generator
+brick_CO2_High
+Discharge Air Temperature High Limit
+Fire Control Panel LED Status
+brick_High_Temperature_Hot_Water
+AHU System Enable Command
+brick_Enthalpy
+brick_Hot_Water_Supply_Temperature_Setpoint
+CRAC Start Stop Command
+brick_Run_Enable
+rice_Corridor_Humidity_BAS
+rice_Max_CoolMin_Ht_DAT_Stptscc2TrAV03
+brick_Fume_Hood
+btag_Turned
+Sensor that indicates the button on thermostat has been pressed on weekend/nights. Typically turns On HVAC for a set number of hours.
+rice_HW_Return_Temp_RM_I324
+Outside Air Temperature High Reset Setpoint
+brick_Cooling_Demand_Setpoint
+brick_Heat_Exchanger_Outside_Air_Temperature_Low_Reset_Setpoint
+brick_Warmest_Zone_Temperature_Sensor
+FCU Return Air CO2 Sensor
+Exhaust Air Velocity Pressure
+rice_RMIC557_Zone_Temp_6
+brick_AHU_Discharge_Fan_VFD_Speed_Sensor
+brick_Outside_Air_Damper_Position_Sensor
+Furniture
+Mixed Air Temperature Setpoint
+brick_Exhaust_Fan
+rice_Zone_Temp_4_RM_I203
+brick_Load_Shed_Differential_Pressure_Setpoint
+Overridden Off
+Level
+brick_Medium_Temperature_Hot_Water_Return_Temperature_Sensor
+brick_Flow_Setpoint
+Cooling Max Discharge Air Flow Setpoint
+btag_Emergency
+CWS Chilled Water Discharge Temperature Sensor
+AHU Lowest Zone Temperature Sensor
+FCU VFD Speed Command
+Chilled Water Supply Temperature
+rice_economizerEnableDifferentialEnthalpyA2nd_Floor_Area1
+brick_EconCycle_On_Off_Status
+rice_Zone_Temp_5_RMIC154A
+High Head Pressure Alarm
+Sash
+brick_Start_Stop
+btag_Torque
+Water Supply Temperature
+FCU Supply Air Temperature Heating Setpoint
+Shutdown Command
+Discharge Air Duct Pressure Status
+Medium Temperature Hot Water Discharge Temperature High Reset Setpoint
+CWS Discharge Water Temperature Setpoint
+rice_Return_Air_CO2scc2UIP17
+Pump Alarm Delay Setpoint
+brick_Average_Exhaust_Air_Static_Pressure_Sensor
+brick_Discharge_Air_Temperature_Reset_Differential_Setpoint
+Average Supply Air Flow Sensor
+HWS Heat Exchanger Supply Water Temperature Sensor
+Measures VFD temperature
+brick_AHU_System_Shutdown_Status
+brick_Heating_Supply_Air_Temperature_Dead_Band_Setpoint
+AHU Exhaust Air Humidity Sensor
+Outside Air Flow Sensor
+brick_Overridden_Off_Status
+Exhaust Air Stack Flow Dead Band
+brick_AHU_Supply_Air_Static_Pressure_Increase_Decrease_Step_Setpoint
+rice_Room224
+btag_DemandResponse
+brick_Coil
+rice_Room552
+rice_Room222
+HWS Hot Water Pump Lead Lag Command
+brick_Cooling_Supply_Air_Temperature_Integral_Time
+brick_VFD_Current_Sensor
+brick_Discharge_Air_Static_Pressure_Integral_Time
+rice_Room228
+brick_Return_Fan_VFD_Speed
+brick_Standby_Unit_On_Off
+Short
+CO2 Setpoint
+rice_Zone_Temp_4_RMI102
+brick_Capacity_Sensor
+brick_AHU_Cooling_Request_Setpoint
+btag_Analog
+brick_Enthalpy_Sensor
+Medium Temperature Hot Water Differential Pressure
+btag_Usage
+VAV Heating Min Discharge Air Flow Setpoint
+Run
+btag_Detection
+brick_Lowest_Zone_Temperature_Sensor
+VFD Frequency Command
+owl_Restriction
+Fault Status
+brick_Run
+brick_System_Shutdown_Command
+btag_Stack
+brick_AHU_Outside_Air_Lockout_Temperature_Differential_Sensor
+UndefinedMeasurement
+VAV Discharge Air Flow Setpoint
+brick_AHU_Supply_Fan_Start_Stop_Command
+brick_Emergency_Power_Off_Activated_By_High_Temperature
+brick_CO2_High_Alarm
+AHU Discharge Fan Start Stop Status
+brick_Thumbwheel_Temperature_High_Limit_Setpoint_
+brick_Photovoltaic_Current_Output
+Economizer Enable Fixed Temperature Setpoint
+Rain Duration
+brick_DHWS_Domestic_Hot_Water_Supply_Temperature_Sensor
+brick_Fault_Indicator
+Speed Reset
+brick_Medium_Temperature_Hot_Water_Discharge_Temperature_High_Reset
+AHU CO2 Sensor
+Emergency Power Off
+rice_Room326
+Load Current Sensor
+rice_operatingMode5th_Floor_Chilled_Beam_VAS1
+rice_PreheatCoilLeave_AirTempscc2UIP02
+brick_VFD_Fault_Status
+Supply Air Proportional Gain Factor
+brick_Energy_Storage
+Return Fan Air Flow
+HWS Discharge Water Temperature Setpoint
+AHU Economizer Supply Air Temperature Proportional Band Setpoint
+brick_Lighting_System_Luminance_Sensor
+Chilled Water Pump Start Stop Status
+Cooling Temperature Setpoint
+CWS Chilled Water Supply Flow Sensor
+DemandResponse Load Shed Command
+brick_Occupied_Heating_Temperature_Dead_Band_Setpoint
+rice_economizerEnableDifferentialEnthalpyA5th_Floor_Area1
+brick_Heat_Exchanger_Supply_Water_Temperature_Dead_Band_Setpoint
+Chilled Water Static Pressure
+VAV Freeze Protect Temperature Low Limit Setpoint
+Max Discharge Air Temperature
+Thumbwheel Temperature Low Limit
+rice_Active_Cool_DAT_Stptscc2AV003
+rice_Temp_3_BAS
+Unoccupied Load Shed
+Return Air Temperature High Limit
+rice_operatingModeABasement_Area2
+brick_DemandResponse_Load_Shed_Status
+Supply Air Damper Max Position Setpoint
+VFD Status
+brick_Preheat_Demand
+btag_Flow
+brick_Max_Discharge_Air_Temperature_Setpoint
+Reheat Valve Command
+rice_economizerEnableFixedDryBulbA2nd_Floor_Area1
+rice_Room108
+Exhaust Fan Disable Command
+Locally
+Manual Auto
+rice_PreheatLeavingWaterTempdac3UIP15
+brick_Exhaust_Air_Stack_Flow_Proportional_Band
+Motor Direction
+rice_RMI108_Space_Temperature_Local
+brick_Unoccupied_Load_Shed_Command
+btag_Entering
+brick_Heat_Exchanger_Valve_Status
+Minimum
+brick_Curtailment_Override
+brick_Medium_Temperature_Hot_Water_Supply_Temperature_Load_Shed_Setpoint
+CRAC Unit Failed Alarm
+VFD Fault Indicator Status
+brick_Heating_Ventilation_Air_Conditioning_System
+brick_FCU_Supply_Air_Temperature_Heating_Setpoint
+brick_AHU_Discharge_Air_Flow_Reset_Low_Setpoint
+btag_Azimuth
+AHU Economizer Damper Command
+brick_Building
+Occupied Heating Temperature Dead Band Setpoint
+brick_Heat_Wheel_Speed_Sensor
+brick_AHU_Bypass_Damper_Position_Sensor
+brick_Heating_Valve_Command
+Chilled Water Temperature Differential Sensor
+HWS Medium Temperature Hot Water Supply Temperature Low Reset Setpoint
+Return Fan Differential Speed Sensor
+brick_AHU_Exhaust_Air_Static_Pressure_Integral_Time_Setpoint
+System Mode Status
+brick_Highest_Temperature
+VAV Outside Air Damper Close Limit Setpoint
+Economizer Enable Fixed Temperature
+Manual Auto Status
+Velocity Pressure
+Unoccupied Heating Temperature Setpoint
+brick_Economizer_Enable_Fixed_Enthalpy_Setpoint
+Failed
+<null>
+rice_Zone_Temp_3_RMI052
+Flow
+Shed
+brick_VFD_Speed_Command
+Warm Cool Adjust
+brick_Motor_Direction_Command
+rice_heatCoolModeStatusARoom_324_Area5
+Preheat Discharge Air Temperature Sensor
+Cooling Discharge Air Temperature Integral Time
+Solar_Panel Photovoltaic Current Output Sensor
+Discharge Water Temperature
+btag_Overload
+Output
+rice_Room512
+Min Chilled Water Differential Pressure Setpoint
+brick_Alarm
+CRAC Emergency Power Off Enable Status
+VFD On Timer Sensor
+brick_Steam_On_Off_Command
+Economizer Discharge Air Temperature Proportional Band
+Adjust
+brick_Air_Enthalpy
+rice_AHU_4
+rice_Space_CO2_Limit
+rice_AHU_6
+rice_AHU_7
+Discharge Air Temperature Setpoint Increase Decrease Step
+rice_AHU_1
+brick_Chilled_Water_Pump_Start_Stop
+rice_Zone_Temp_6_RMIC156
+Average Zone Temperature Sensor
+brick_Box_Operating_Mode
+brick_Differential_Temperature_Sensor
+brick_Box_Mode
+brick_Zone_Cooling_Temperature_Setpoint
+Supply Water Differential Pressure Integral Time
+Building
+Heating Temperature
+Supply Fan Air Flow Sensor
+VFD Motor Start Stop Command
+rice_Space_Stpt_Activescc2AV017
+CRAC Stages Status
+brick_Heat_Wheel_Speed
+rice_Return_CO2_Diffdac2TrAV04
+brick_VAV_Zone_Temperature_Setpoint
+brick_Exhaust_Air_Humidity_Sensor
+brick_VAV_Discharge_Air_Temperature_Sensor
+brick_Occupied_Heating_Max_Supply_Air_Flow_Setpoint
+Air Flow
+brick_Discharge_Air_Damper_Max_Position
+VAV Booster Fan Air Flow Setpoint
+Last
+rice_spaceSensorA2nd_Floor_Area1
+rice_RMI561_Zone_Temp_3
+brick_AHU_Discharge_Air_Humidity_Sensor
+btag_Damper
+Hot Water Differential Pressure Integral Time Setpoint
+brick_HVAC_Highest_Zone_Cooling_Command
+btag_Luminance
+brick_HWS_Hot_Water_Pump_Start_Stop_Command
+Heat Wheel Discharge Air Temperature
+Cooling Max Supply Air Flow Setpoint
+AHU Economizer Discharge Air Temperature Proportional Band Setpoint
+rice_Space_Humidity_High_Limit
+brick_Solar_Azimuth_Angle_Sensor
+AHU System Shutdown Command
+Stop
+Air Temperature
+rice_deltaTemperatureA2nd_Floor_Area1
+brick_Domestic_Hot_Water_System
+brick_CRAC_Humidification_On_Off_Status
+brick_Preheat_Valve_Command
+brick_Booster_Fan_Command
+rice_Return_Air_Humidityscc2UIP14
+HWS Medium Temperature Hot Water Return Temperature Sensor
+AHU Heating Discharge Air Temperature Proportional Band Setpoint
+rice_ductPressOptStatusV2nd_Floor_Perimeter_Devices_VAS1
+brick_Current_Steam_Usage_Meter
+AHU Supply Air Temperature Sensor
+btag_Min
+Voltage
+VFD Heating Valve Command
+brick_Unoccupied_Cooling_Supply_Air_Flow
+rice_occupancyStatusARoom_322_Area4
+brick_Running_Hour
+brick_VAV_Unoccupied_Cooling_Discharge_Air_Flow_Setpoint
+rice_operatingModeChilled_Beam_Source_VAS3
+rice_spaceSensorARoom_324_Area5
+brick_Humidifier_Panel_No_Water
+Average of cooling demand across thermal zones. This could be for one AHU or one floor or entire building
+brick_Economizer_Enable_Fixed_Dewpoint
+brick_Environment_Box
+Outside Air Enthalpy Sensor
+brick_Humidity_Sensor
+brick_Water_Supply_Temperature
+brick_Exhaust_Fan_Disable
+Thumbwheel
+btag_Lead
+Exhaust Fan Overridden On
+Photovoltaic
+AHU Heating Demand Setpoint
+brick_Velocity_Pressure_Sensor
+brick_Return_Heat_Valve_Command
+Occupancy Sensor
+Warmest Temperature
+https://brickschema.org/schema/1.0.2/BrickFrame
+Discharge Fan Start Stop
+PIR
+Exhaust Fan On LED
+rice_ventOptVavAirflowGross5th_Floor_Perimeter_Devices_VAS2
+brick_Discharge_Air_Flow_Reset_Setpoint
+brick_Unoccupied_Cooling_Supply_Air_Flow_Setpoint
+brick_Heating_Coil
+brick_VFD_Hand_Auto_Status
+brick_FCU_Discharge_Air_Temperature_Setpoint
+brick_Pump_Enable_Status
+rice_Space_Humidity_BAS
+Heat Exchanger Discharge Water Temperature
+Duration
+Discharge Air Flow
+brick_Valve
+brick_Run_Request
+HWS Enable Hot Water System Outside Air Temperature Setpoint
+Temperature Low Limit Setpoint
+Hour
+rice_Zone_Temp_2_RMI209
+rice_1st_Floor_Avg_Space_Humidity
+brick_HVAC_Enable_Command
+Box Operating Mode
+Occupied Heating Max Supply Air Flow
+btag_Cold
+btag_Velocity
+AHU Bypass Damper Position Sensor
+brick_VAV_Occupied_Cooling_Min_Supply_Air_Flow_Setpoint
+rice_heatCoolModeStatusARoom_305_Area2
+Supply Fan Piezoelectric
+rice_ChilledBeamCHWSupplyTemppgm2UIP13
+VFD Motor Direction Status
+brick_Discharge_Fan_VFD_Speed_Command
+AHU Heating Request Percent Setpoint
+btag_Loss
+rice_RMI516_Space_CO2_Concentration_Zone_2
+brick_CWS_Chilled_Water_Return_Temperature_Sensor
+brick_Air_Flow_Sensor
+brick_Supply_Fan_VFD_Status
+Heat_Exchanger Outside Air Temperature High Reset Setpoint
+Pump Enable Status
+High Temperature Alarm
+Conductivity Sensor
+Supply Air Temperature Heating Setpoint
+brick_VFD_Motor_Current_Sensor
+AHU Return Air Enthalpy Sensor
+brick_Supply_Air_Temperature_Reset_Low_Setpoint
+Gas
+Low Temperature
+brick_Water_Supply_Temperature_Sensor
+brick_CWS_Chilled_Water_Differential_Pressure_Dead_Band_Setpoint
+AHU Unoccupied Mode Setpoint
+btag_MeasurementProperty
+Exhaust Air Flow Dead Band Setpoint
+rice_Zone_Temp_3_RM210
+brick_Exhaust_Air_Stack_Flow_Dead_Band
+Occupied Heating Discharge Air Flow Setpoint
+brick_Supply_Water_Differential_Pressure_Integral_Time
+Supply Air Temperature Reset High Setpoint
+brick_Chilled_Water_Differential_Pressure_Increase_Decrease_Step
+brick_AHU_Exhaust_Air_Stack_Flow_Dead_Band_Setpoint
+brick_Zone
+TBD
+Deionised Water Level
+bf_isTagOf
+Emergency Power Off Activated By High Temperature
+brick_Weather_Wind_Speed_Sensor
+brick_Leaving_Water_Temperature_Sensor
+Supply Water Differential Pressure Integral Time Setpoint
+Chilled Water Pump Differential Pressure Integration Time
+On Off
+brick_Max_Supply_Air_Static_Pressure
+"State, position, or condition of an item. (adopted from ASHRAE dictionary) Technically, this value should not be arbitrarily written by users or other systems as it is an observation."
+brick_AHU_Supply_Fan_Start_Stop_Status
+brick_Return_Supply_Fan_Differential_Speed_Setpoint
+btag_Band
+VFD Motor Torque Sensor
+Average Exhaust Air Static Pressure
+Water_System Pump Status
+Wing
+Wind
+rice_operatingModeA3rd_Floor_Area1
+rice_TEMP1_Space_Temperature_RMI013
+brick_Supply_Air_Temperature_Reset_High_Setpoint
+CRAC Emergency Power Off System Enable Status
+Low Suction Pressure
+brick_Schedule_Temperature_Setpoint
+rice_systemMode5th_Floor_Perimeter_Devices_VAS2
+brick_Return_Fan_Differential_Speed_Sensor
+Discharge Air Static Pressure Integral Time
+brick_Acceleration_Time
+Required
+Economizer Supply Air Temperature Dead Band Setpoint
+brick_AHU_Cooling_Valve_Command
+brick_VAV_Occupied_Heating_Supply_Air_Flow_Setpoint
+brick_Chilled_Water_Supply_Temperature
+brick_Preheat_Valve_VFD
+AHU Mixed Air Temperature Sensor
+Fan Command
+Emergency Generator Status
+brick_CWS_Chilled_Water_Meter
+brick_Hot_Water_Pump_Lead_Lag
+VFD Current Limit Setpoint
+brick_VAV_Ventilation_Air_Flow_Ratio_Limit_Setpoint
+brick_Exhaust_Bypass_Damper
+brick_VFD_Speed_Reset_Command
+brick_VAV_Supply_Air_Flow_Command
+brick_Supply_Air_Temperature_Reset_High
+rice_occupancyAAuditorium_Area4
+brick_AHU_Supply_Fan_VFD_Speed_Sensor
+Supply Air Temperature Setpoint
+rice_RMI522_Zone_Temp_3
+brick_Exhaust_Air_Stack_Flow_Setpoint
+rice_RMI502_Space_Temperature_Perimeter
+Freezer
+btag_WS
+CO2 Sensor
+brick_Thermal_Energy_Storage_Discharge_Water_Differential_Pressure_Integral_Time_Setpoint
+brick_VAV_Damper_Command
+brick_Supply_Fan_Supply_Air_Proportional_Gain_Factor
+Run Direction Status
+AHU Supply Air Temperature Reset Low Setpoint
+Hot Water Return Temperature
+rice_economizerDisableFixedDryBulbAAuditorium_Area4
+Hot Water Meter
+brick_Supply_Air_Velocity_Pressure_Sensor
+brick_Velocity_Pressure
+brick_Economizer_Enable_Fixed_Temperature
+rice_Zone_Temp_2_RME222
+rice_Room530
+rice_Room19
+Chilled Water System
+brick_Medium_Temperature_Hot_Water_Supply_Temperature_Low_Reset_Setpoint
+rice_Room15
+Humidifier Panel No Water Alarm
+rice_Room17
+Last Fault Code
+brick_Standby_Fan
+Temporary Occupancy Status
+rice_Room13
+brick_Low_Humidity_Alarm_Setpoint
+Delay
+rice_operatingModeBasement_Perimeter_Devices2
+brick_Water_System_Supply_Water_Temperature_Setpoint
+brick_Average_Discharge_Air_Flow_Sensor
+brick_Underfloor_Temperature
+Outside Air Temperature Low Reset Setpoint
+brick_Discharge_Fan_VFD_Speed_Sensor
+brick_Hot_Water_Return_Temperature
+brick_Time
+rice_Zone_Temp_4_RM211
+brick_Chilled_Water_Differential_Pressure_Load_Shed
+rice_diagVasSystemFailureVChilled_Beam_Source_VAS3
+Chilled Water Differential Pressure Proportional Band
+btag_Battery
+brick_Freezer
+Emergency Power Loss Alarm
+rice_Room232
+brick_Chiller_On_Timer_Sensor
+rice_Room230
+rice_ductPressOptMaxPos5th_Floor_Chilled_Beam_VAS1
+rice_RMI502_Zone_Temp_4
+brick_CO2_Differential_Sensor
+bf_Location
+Hand Auto Status
+brick_AHU_On_LED
+virtual point used for controls
+Supply Water Differential Pressure Dead Band Setpoint
+brick_Exhaust_Fan_Disable_Status
+rice_unoccupiedDifferenceA5th_Floor_Area1
+Discharge Air Temperature Cooling Setpoint
+Discharge Fan VFD Speed
+brick_Booster_Fan_Air_Flow_Sensor
+brick_AHU_Change_Filter_Alarm
+brick_AHU_Exhaust_Air_Velocity_Pressure_Sensor
+Heating Supply Air Temperature Proportional Band
+brick_Humidity
+Medium Temperature Hot Water Differential Pressure Load Shed Status
+FCU
+rice_economizerDisableFixedDryBulbA5th_Floor_Area1
+AHU Exhaust Air Stack Flow Integral Time Setpoint
+rice_economizerEnableFixedDewPointA5th_Floor_Area1
+VFD Current Sensor
+brick_FCU_Run_Time_Sensor
+Exhaust Air Stack Flow
+rice_CoolingEnteringWaterTempdac2UIP16
+Occupied Cooling Min Supply Air Flow
+rice_TEMP1_Space_Temperature_RMIC259
+brick_Medium_Temperature_Hot_Water_Supply_Temperature_High_Reset_Setpoint
+AHU Supply Fan Piezoelectric Sensor
+Fume Hood Alarm
+Enable switch for a collection of exhaust fans
+rice_Room308
+Static
+DC Bus Voltage Sensor
+Heat Wheel Supply Air Temperature
+brick_FCU_Zone_Temperature_Sensor
+VAV Effective Heating Temperature Setpoint
+bf_controls
+Discharge Air Damper Max Position
+Hot Water System Enable
+rice_Room306
+rice_Room305
+Deionised
+brick_HWS
+btag_Grains
+Discharge Air Temperature Reset Differential Setpoint
+rice_Return_Air_Tempscc2UIP15
+rice_Zone_Temp_4_RM_C252
+brick_Water_Discharge_Temperature
+brick_Water_System_Alarm_Delay_Setpoint
+Heat Exchanger Discharge Water Temperature Sensor
+brick_Supply_Air_Temperature_Sensor
+AHU Outside Air CO2 Sensor
+Run Enable Command
+HX
+Environment
+rice_Room122
+Heating Max Discharge Air Flow
+FCU Discharge Air Temperature Heating Setpoint
+VFD Run Direction Status
+Damper
+VFD Max Frequency Command
+Heating Discharge Air Temperature Dead Band
+rice_Room128
+brick_Hot_Water_Pump_Start_Stop_Command
+brick_Economizer_Enable_Differential_Temperature_Setpoint
+CWS Chilled Water Pump Differential Pressure Integration Time Setpoint
+Return Air Grains
+brick_AHU_Mixed_Air_Temperature_Setpoint
+Direction Command
+owl_AsymmetricProperty
+brick_AHU_Return_Air_CO2_Sensor
+rice_Zone_Humidity_Corr_SESHS
+Increase Decrease Step Setpoint
+brick_HVAC_Average_Zone_Temperature_Sensor
+brick_FCU_Fault_Indicator_Status
+rice_RmI532_Zone_Temp_2
+brick_Compressor_Overload_Alarm
+brick_Turn_Off
+btag_Electrical
+brick_DHWS
+rice_Zone_Temp_2_RMI015
+AHU Condensate Leak Alarm
+AHU Discharge Air Temperature Reset Low Setpoint
+VAV Reheat Valve Command
+rice_economizerEnableFixedDryBulbA5th_Floor_Area1
+brick_Thumbwheel_Temperature_High_Limit_Setpoint
+rice_Room1072
+rice_Room1071
+Hot Water Return Temperature Sensor
+rice_unoccupiedDifferenceA1st_Floor_Area1
+brick_Lighting_System_Luminance_Command
+brick_Pump_Lead_Lag_Status
+AHU Return Air Preheat Valve Command
+rice_CoolingEnterngWaterTempdac3UIP16
+Even Month
+Exhaust Fan
+Stages
+brick_Current_Cooling_Setpoint
+brick_High_Static_Pressure_Cutout_Limit
+brick_Cooling_Tower_Fan_Speed_Setpoint
+brick_Supply_Air_Temperature_High_Limit_Alarm
+rice_ventOptVavAirflowGross1st_Foor_Perimeter_Devices_VAS1
+brick_Emergency_Power_Loss_Alarm
+System
+Return Air Preheat Valve
+Ventilation
+brick_AHU_Supply_Air_Flow_Demand_Setpoint
+brick_On_Timer_Sensor
+rice_occupiedDifferenceABasement_Area2
+AHU Discharge Air Static Pressure Increase Decrease Step Setpoint
+Low Humidity Alarm Setpoint
+VAV Heating Supply Air Flow Setpoint
+rice_Discharge_Air_Flow
+Thermal Energy Storage Discharge Water Differential Pressure Integral Time Setpoint
+brick_Exhaust_Air_Static_Pressure_Integral_Time
+Min Discharge Air Static Pressure Setpoint
+CRAC Remotely On Off Status
+Current Cooling
+brick_Occupied_Cooling_Max_Supply_Air_Flow
+rice_TEMP2_Space_Temperature_RMI015
+brick_Outside_Air_Grains_Sensor
+Fixed
+Combined outdoor air and return air.
+brick_Emergency_Power_Off_Command
+btag_Ratio
+Emergency Power Off Command
+rice_occupancyStatusA1st_Floor_Area1
+Return Water Temperature Sensor
+rice_economizerDisableDifferentialEnthalpyABasement_Area2
+Lowest Zone Temperature Sensor
+brick_Humidify
+brick_DHWS_Domestic_Hot_Water_Discharge_Temperature_Setpoint
+brick_Medium_Temperature_Hot_Water_Differential_Pressure
+brick_CWS_Chilled_Water_Pump_Status
+Exhaust Air Flow Proportional Band Setpoint
+brick_Chilled_Water_Pump
+rice_FPVAV_Hot_Water_Return_Temp
+brick_VAV_Discharge_Air_Velocity_Pressure_Sensor
+btag_Heater
+brick_Chilled_Water_Pump_Differential_Pressure_Proportional_Band
+rice_CoolingLeavingWaterTempdac1UIP16
+brick_Heating_Supply_Air_Temperature_Proportional_Band_Setpoint
+rice_occupancyStatus2nd_Floor_Perimeter_Devices_VAS1
+Supply Air Velocity Pressure Sensor
+brick_Steam_Usage_Today
+Maintenance Required
+VFD Run Status
+rice_systemMode2nd_Floor_Chilled_Beam_Source_VAS2
+brick_AHU_Min_Supply_Air_Temperature_Setpoint
+Chilled Water Pump Differential Pressure Dead Band
+Yearly Steam Usage Meter
+Discharge Air Humidity
+brick_Motor_Current
+brick_Min_Fresh_Air
+Supply Fan Air Flow
+brick_Cooling_Coil_Valve_Pressure_Sensor
+brick_Position
+btag_Solar
+brick_VAV_Cooling_Min_Discharge_Air_Flow_Setpoint
+brick_AHU_Supply_Air_Static_Pressure_Setpoint
+Heating Min Supply Air Flow
+brick_VFD_Maintenance_Mode_Command
+brick_Domestic_Hot_Water_System_Start_Stop_Command
+brick_Cooling_Request_Setpoint
+brick_AHU_Outside_Air_CO2_Sensor
+Running
+Cooling Tower Fan
+btag_HX
+brick_AHU_Unoccupied_Mode_Setpoint
+rice_ventRatioLimitVavV5th_Floor_Chilled_Beam_VAS1
+brick_AHU_Outside_Air_Damper_Position_Sensor
+Return Supply Fan Differential Speed
+Chilled Water Pump Lead Lag
+rice_operatingModeARoom_322_Area4
+AHU Heat Exchanger Start Stop Command
+Supply Fan VFD Speed Sensor
+btag_Maintenance
+Effective
+brick_VAV_Cooling_Command
+Air Flow Loss Alarm
+rice_Space_Relative_Humidity_Local
+AHU Return Air Temperature Sensor
+btag_Exhaust
+Drive
+Terminal Unit
+Alarm Delay Setpoint
+brick_Damper
+Medium Temperature Hot Water Supply Temperature High Reset Setpoint
+btag_Hour
+brick_Average_Cooling_Demand_Sensor
+Cold
+brick_AHU_Discharge_Fan_Piezoelectric_Sensor
+VFD Alarm
+brick_Cooling_Min_Supply_Air_Flow
+Detected
+AHU Exhaust Air Flow Sensor
+Timer
+VAV Cooling Max Discharge Air Flow Setpoint
+Outside Enthalpy Sensor
+Exhaust Air Stack Flow Setpoint
+Weather Wind Speed Sensor
+Discharge Air Damper Max Position Setpoint
+rice_Return_Air_CO2_Sensordac2UIP36
+brick_Emergency_Push_Button_Status
+Highest Temperature
+brick_Water_System_Valve_Command
+brick_Enthalpy_Setpoint
+brick_Heat_Exchanger_Discharge_Water_Temperature_Setpoint
+rice_Zone_Temp_5_RMIC057
+brick_Occupied_Command
+brick_Hot_Water_Differential_Pressure_Integral_Time_Setpoint
+rice_Zone_Temp_5_RMIC054
+brick_Cooling_Discharge_Air_Temperature_Proportional_Band_Setpoint
+brick_Hot_Water_Differential_Pressure_Sensor
+brick_Cooling_Discharge_Air_Temperature_Integral_Time
+brick_HWS_Heat_Exchanger_Discharge_Water_Temperature_Integral_Time_Setpoint
+rice_heatCoolModeStatusA2nd_Floor_Area1
+rice_Zone_Temp_5_RMIC059
+Supply Air Static Pressure Dead Band
+Outside Air Temperature Sensor
+brick_Fan_Overload
+VFD Fault Reset Command
+Fault Indicator
+AHU Highest Zone Temperature Sensor
+brick_Preheat_Coil
+btag_Tower
+brick_FCU_Discharge_Fan_VFD_Speed_Status
+HVAC Average Supply Air Flow Sensor
+rice_Room11
+brick_Air_Damper_Position
+AHU Discharge Fan VFD Speed Setpoint
+Pump Alarm
+brick_AHU_Discharge_Air_Temperature_Setpoint
+brick_AHU_Discharge_Air_Static_Pressure_Integral_Time_Setpoint
+rice_CB_Supply_Temp_RMI308
+brick_VAV_Supply_Air_Temperature_Heating_Setpoint
+brick_Temperature_High
+Booster Fan Start Stop Command
+brick_HWS_Hot_Water_Pump_Status
+Today
+brick_CRAC_Enable_Command
+rice_ventRatioLimitAhuVChilled_Beam_Source_VAS3
+rice_Space_Relative_Humidity_RMI308
+Dewpoint
+Fire Control Panel Off Command
+bf_isMeasuredBy
+brick_Supply_Air_Static_Pressure_Proportional_Band
+Percentage of damper open
+brick_Temperature
+brick_AHU_Static_Pressure_Sensor
+brick_CRAC_Temperature_Tolerance_Setpoint
+brick_Speed_Setpoint
+brick_Preheat_Coil_Entering_Air_Temperature
+brick_AHU_Heating_Supply_Air_Temperature_Dead_Band_Setpoint
+brick_AHU_Outside_Air_Enthalpy_Sensor
+brick_Highest_Zone_Cooling_Command
+AHU System Status
+brick_Space_Heater
+brick_Cooling_Request
+brick_Chilled_Water_Temperature_Differential
+brick_Min_Supply_Air_Static_Pressure_Setpoint
+brick_Overridden_On_Status
+Rated Speed
+rice_Zone_Temp_3_RMI007A
+Economizer Damper Min Position Setpoint
+Cooling Discharge Air Temperature Dead Band Setpoint
+HWS Hot Water Pump Start Stop Command
+brick_Supply_Water_Differential_Pressure_Proportional_Band_Setpoint
+btag_Dual
+DemandResponse Unoccupied Load Shed Command
+brick_AHU_Return_Fan_Command
+brick_Load_Current
+FCU Return Fan VFD Speed Sensor
+brick_Cooling_Max_Discharge_Air_Flow
+Relative Humidity
+Differential Pressure Load Shed Status
+Max Supply Air Static Pressure Setpoint
+System Enable Command
+btag_Schedule
+Exhaust Air Static Pressure Dead Band
+brick_Condensate_Leak
+brick_Short_Cycle_Alarm
+Exhaust Air Stack Flow Proportional Band
+Occupancy Command
+brick_AHU_Discharge_Air_Static_Pressure_Dead_Band_Setpoint
+AHU commands its return fans to run at specified % of its capacity
+Static Pressure Integral Time Setpoint
+Supply
+CWS Chilled Water Pump Command
+brick_AHU_Max_Discharge_Air_Static_Pressure_Setpoint
+brick_AHU_Heating_Supply_Air_Temperature_Proportional_Band_Setpoint
+btag_Occupied
+brick_Frost_Sensor
+brick_VFD_Motor_Torque_Sensor
+brick_Supply_Air_Humidity_Sensor
+Exhaust Air Temperature
+Exhaust Air Static Pressure Dead Band Setpoint
+Air Grains Sensor
+Domestic Hot Water Discharge Temperature
+rice_WTS1_Chiller_CHWS_Temppgm3UIP07
+High Temperature Hot Water Discharge Temperature Sensor
+brick_Static_Pressure_Sensor
+Heat Exchanger System Enable
+Disable Hot Water System Air Temperature
+Chilled Water Differential Pressure Sensor
+Discharge Air Temperature Reset Low Setpoint
+City
+CWS Max Chilled Water Differential Pressure Setpoint
+brick_Economizer_Disable_Differential_Enthalpy
+brick_Emergency_Power_Off_Activated_By_Leak_Detection_System
+rice_Room542
+brick_Mixed_Air_Temperature_Setpoint
+btag_Highest
+brick_Deceleration_Time
+brick_Freeze
+CWS Supply Water Temperature Setpoint
+brick_Average_Supply_Air_Flow_Sensor
+Return Fan Start Stop Command
+High Temperature Hot Water Supply Temperature
+brick_AHU_Zone_Temperature_Sensor
+Head
+brick_Motor_Direction
+rice_economizerDisableFixedDewPointA2nd_Floor_Area1
+AHU Discharge Air Smoke Detected Alarm
+brick_VFD_Output_Frequency_Sensor
+brick_DemandResponse_Load_Shed_Command
+CRAC Smoke Detected Alarm
+brick_Thermal_Power_Meter
+AHU Overridden Off Status
+brick_AHU_CO2_Sensor
+VAV Unoccupied Heating Temperature Setpoint
+brick_VAV_Freeze_Protect_Temperature_Low_Limit_Setpoint
+Heat
+Economizer Disable Differential Temperature
+AHU Static Pressure Sensor
+CRAC Emergency Power Off Activated By High Temperature Status
+brick_CO2_Level
+brick_Demand_Sensor
+brick_Run_Direction
+brick_Discharge_Air_Temperature_Cooling
+rice_Zone_Temp_4_RMIC154_Corr
+brick_AHU_Supply_Air_Static_Pressure_Sensor
+brick_Pre_Filter
+CWS Chilled Water Pump Status
+brick_Power_Loss_Alarm
+VAV Vent Operating Mode Status
+brick_VAV_Unoccupied_Cooling_Temperature_Setpoint
+AHU Discharge Air Flow Demand Setpoint
+brick_Preheat_Discharge_Air_Temperature_Sensor
+VFD Cooling Valve Command
+brick_Solar_Panel_Solar_Azimuth_Angle_Sensor
+brick_Wind_Speed
+Pump Start Stop
+Economizer Differential Air Temperature Setpoint
+brick_Cooling_Min_Discharge_Air_Flow_Setpoint
+brick_Weather_Relative_Humidity_Sensor
+AHU Return Fan VFD Speed Sensor
+rice_occupancyStatusV3rd_Floor_Perimiter_VAS3
+Fume_Hood Emergency Push Button Status
+brick_HWS_Hot_Water_Differential_Pressure_Sensor
+rice_RMI508_Zone_Temp_5
+rice_RMI1091_Space_Temperature_Local
+rice_Room20
+brick_Discharge_Air_Velocity_Pressure_Sensor
+rice_Room24
+brick_Exhaust_Fan_Air_Flow
+brick_DHWS_Domestic_Hot_Water_Valve_Command
+rice_economizerDisableDifferentialDryBulbAAuditorium_Area4
+brick_HWS_Hot_Water_Supply_Temperature_Sensor
+brick_Heating_Max_Supply_Air_Flow_Setpoint
+AHU Return Air Flow Sensor
+Dead
+Freeze
+VAV Occupied Heating Min Discharge Air Flow Setpoint
+Heat Exchanger Supply Water Temperature Proportional Band
+Sensor that measures the difference in CO2 level between any two points in the system.
+brick_Warmest_Temperature
+VAV Occupied Cooling Discharge Air Flow Setpoint
+brick_Thermal_Power
+brick_Supply_Air_Static_Pressure_Increase_Decrease_Step
+Air
+CRAC Standby Glycool Unit On Off Status
+FCU System Status
+btag_Differential
+rice_Room203
+rice_Room201
+rice_Room206
+rice_Room207
+rice_Room204
+rice_Room205
+VAV Occupied Cooling Min Supply Air Flow Setpoint
+brick_Dewpoint_Sensor
+rice_Room208
+rice_Room209
+When
+btag_Shed
+brick_Emergency_Power_Off_System
+rice_economizerEnableFixedDewPointAAuditorium_Area4
+FCU CO2 Sensor
+brick_Chiller_Max_Load_Setpoint
+CRAC Low Humidity Alarm
+brick_AHU_Outside_Air_Humidity_Sensor
+brick_DemandResponse_Medium_Temperature_Hot_Water_Differential_Pressure_Load_Shed_Reset_Status
+brick_Stages_Status
+brick_Air_Damper_Min_Position
+brick_VFD_Fault_Indicator_Status
+VAV Cooling Command
+rice_systemModeChilled_Beam_Source_VAS3
+AHU Fire Control Panel Off Command
+VAV Supply Air Flow Setpoint
+brick_Temperature_Tolerance
+Failure
+AHU Min Fresh Air Setpoint
+Setpoint for acceleration
+rice_ductPressOptStatusV5th_Floor_Perimeter_Devices_VAS2
+Overridden On Status
+brick_Chilled_Water_Static_Pressure_Setpoint
+AHU Low Outside Air Temperature Enable Setpoint
+Current Steam Usage Meter
+rice_HW_Main_Return_Temp_T2
+brick_Solar_Zenith_Angle
+brick_Rated_Speed_Setpoint
+brick_Occupied_Heating_Temperature_Dead_Band
+Emergency Power Off Activated By Leak Detection System
+VAV Cooling Valve Command
+HWS High Temperature Hot Water Supply Temperature Sensor
+brick_Heat_Exchanger_Supply_Water_Temperature_Integral_Time
+Outside Air Dewpoint Sensor
+brick_CWS_Chilled_Water_Discharge_Flow_Sensor
+rice_RMI527_Zone_Temp_8_Stpt
+Fire_Control_Panel AHU On Status LED
+Measured current
+Discharge Air Flow Setpoint
+brick_Heating_Supply_Air_Flow_Setpoint
+brick_AHU_Supply_Air_Humidity_Sensor
+brick_AHU_Exhaust_Fan_Air_Flow_Setpoint
+brick_Motor_Current_Sensor
+CRAC Power Loss Alarm
+CRAC Air Flow Loss Alarm
+Speed Sensor
+brick_Ventilation_Air_Flow_Ratio_Limit_Setpoint
+rice_Zone_Temp_4_RMI011
+brick_Pump_Command
+brick_Outside_Air_Dewpoint_Sensor
+Time
+Push
+rice_Zone_Temp_4_RMI019
+brick_VAV_Heating_Demand_Setpoint
+AHU Steam On Off Command
+rice_operatingModeV3rd_Floor_Perimiter_VAS3
+brick_AHU_Cooling_Demand_Setpoint
+Cooling Coil Discharge Air Temperature
+rice_ventOptStatusV1st_Floor_Chilled_Beam_VAS2
+brick_Deionised_Water
+brick_Hot_Water_Meter
+Run Request
+brick_VAV_Cooling_Max_Supply_Air_Flow_Setpoint
+rice_ventOptStatusV5th_Floor_Perimeter_Devices_VAS2
+btag_Desk
+btag_Limit
+Hot Water Differential Pressure Dead Band
+Conductivity
+AHU Discharge Air Static Pressure Setpoint
+brick_Mixed_Air_Temperature_Sensor
+DHWS Domestic Hot Water Supply Temperature Sensor
+brick_Exhaust_Fan_System_Enable
+Flow Sensor
+brick_FCU_Supply_Fan_VFD_Speed_Setpoint
+brick_Zone_Temperature_Setpoint
+Load Shed Supply Water Temperature Setpoint
+rice_diagVasSystemFailureVBasement_Perimeter_Devices2
+brick_Air_Lockout_Temperature_Differential
+bf_hasTag
+brick_Pressure_Setpoint
+Zone Humidity Sensor
+brick_Return_Fan_Differential_Speed
+Preheat
+brick_AHU_Return_Fan_VFD_Speed_Setpoint
+rice_heatCoolModeStatusARoom_322_Area4
+brick_High_Temperature_Hot_Water_Supply_Temperature_Sensor
+brick_DemandResponse_Medium_Temperature_Hot_Water_Supply_Temperature_Load_Shed_Status
+Condensate
+Temperature Low Reset Setpoint
+btag_Lag
+Discharge Air Static Pressure Sensor
+brick_FCU_Discharge_Fan_VFD_Speed_Sensor
+Load Shed Differential Pressure Setpoint
+Output Voltage
+bf_Taggable
+Chilled Water System Enable Command
+CRAC Fan Overload Alarm
+brick_AHU_Preheat_Coil_Entering_Air_Temperature_Sensor
+Start Stop
+rice_TEMP1_Space_Temperature_RM_212
+AHU Supply Fan VFD Speed Status
+HVAC Disable Command
+brick_VAV_Box_Mode_Command
+rice_TEMP1_Space_Temperature_RMI308
+brick_AHU_Exhaust_Air_Humidity_Sensor
+brick_CWS_Chilled_Water_Pump_Lead_Lag_Command
+Supply Water Temperature Setpoint
+rice_standbyOffsetAAuditorium_Area4
+AHU Min Discharge Air Temperature Setpoint
+brick_Discharge_Water_Temperature_Setpoint
+AHU VFD Status
+brick_HWS_High_Temperature_Hot_Water_Discharge_Temperature_Sensor
+brick_Chilled_Water_Pump_VFD_Speed
+brick_Outside_Air_Temperature_Sensor
+brick_CRAC_Fan_Overload_Alarm
+brick_Weather_Outside_Enthalpy_Sensor
+AHU Max Return Air CO2 Setpoint
+btag_Step
+brick_VAV_Damper_Position_Sensor
+Curtailment Override
+rice_Return_CO2_Diffdac1TrAV04
+brick_Heating_Temperature_Setpoint
+VFD Speed Sensor
+brick_Gas_Meter
+brick_Reheat_Valve_Command
+brick_Discharge_Air
+Chilled
+brick_Load_Setpoint
+brick_FCU_Return_Fan_VFD_Speed_Status
+brick_Increase_Decrease_Step_Setpoint
+btag_Gain
+brick_Output_Frequency
+brick_AHU_Supply_Fan_Status
+brick_Fan_Air_Flow_Setpoint
+Run Enable
+Chiller
+brick_Differential_Pressure_Load_Shed_Status
+brick_Chair
+Monthly Steam Usage Meter
+Pre-filter filters large particles. Point indicates the if filter is dirty
+brick_Supply_Air_Temperature_High_Limit
+brick_Effective_Heating_Temperature
+Cooling Demand
+rice_Mixed_Air_Tempdac1UIP03
+brick_Return_Air_Flow_Sensor
+Economizer Supply Air Temperature Proportional Band Setpoint
+"Air outside a building or taken from the external atmosphere and, therefore, not previously circulated through the system."
+VFD Run Enable Status
+bf_usesTag
+FCU Fault Status
+brick_AHU_Exhaust_Fan_Start_Stop_Command
+Occupied Heating Min Supply Air Flow Setpoint
+rice_Glycol_Enterng_WaterTempdac3UIP17
+brick_Hot_Water_Differential_Pressure_Setpoint
+btag_DHWS
+Max Discharge Air Static Pressure
+rice_occupancyA5th_Floor_Area1
+Short Cycle
+brick_Exhaust_Air_Stack_Flow
+AHU Heating Valve Command
+brick_Frost
+HVAC Heat Exchanger Valve Status
+rice_HW_Main_Supply_Temp_T1
+Fan Speed Reset
+Domestic Hot Water
+brick_Booster_Fan_Air_Flow_Setpoint
+Thermostat Adjust Sensor
+brick_Peak_Energy_Today
+rice_operatingModeARoom_324_Area5
+Disable Hot Water System Outside Air Temperature Setpoint
+brick_PreHeat_Coil_Leaving_Water_Temperature_Sensor
+Heat Exchanger Discharge Water Temperature Integral Time
+brick_Steam_Usage_Today_Meter
+Outside Air Lockout Temperature Differential Sensor
+VFD
+brick_Run_Enable_Status
+rice_TEMP2_Space_Temperature_RMI202
+Overload
+Pressure Setpoint
+Lowest Exhaust Air Static Pressure
+Loss
+brick_Heat_Exchanger_Outside_Air_Temperature_High_Reset_Setpoint
+No
+brick_Max_Load_Setpoint
+Heating Supply Air Temperature Dead Band
+AHU Exhaust Fan Status
+brick_FCU_VFD_Speed_Command
+rice_operatingModeARoom_306_Area3
+AHU Discharge Air Static Pressure Integral Time Setpoint
+brick_Medium_Temperature_Hot_Water_Return_Temperature
+VAV Occupancy Sensor
+Direction
+brick_Communication_Loss_Alarm
+Enthalpy Sensor
+rice_ventRatioLimitAhuVBasement_Perimeter_Devices2
+brick_AHU_Exhaust_Air_Stack_Flow_Sensor
+brick_AHU_Supply_Fan_VFD_Speed_Status
+brick_AHU_VFD_Enable_Command
+btag_Low
+Rain
+rice_RM511A_Zone_Temp_3
+VAV Return Air Temperature Sensor
+brick_Occupied_Heating_Supply_Air_Flow_Setpoint
+brick_Water_System_Deionised_Water_Alarm
+brick_AHU_Return_Fan_VFD_Speed_Sensor
+Alarm Delay
+brick_CRAC_Humidify_Command
+Measured torque
+Weather Rain Sensor
+btag_Face
+brick_Pump_Alarm_Delay_Setpoint
+HWS Heat Exchanger Valve Command
+Outside Air Lockout Temperature Setpoint
+VFD Output Frequency Sensor
+rice_East_Space_Humidityscc2UIP19
+brick_System_Shutdown_Status
+VAV High Static Pressure Cutout Limit Setpoint
+brick_Chilled_Water
+Leaving Water Temperature Sensor
+brick_Economizer_Mode
+Occupied Heating Temperature Setpoint
+brick_VFD_Energy_Sensor
+brick_VAV_Occupied_Heating_Max_Discharge_Air_Flow_Setpoint
+From
+AHU Heating Discharge Air Temperature Dead Band Setpoint
+rice_Return_Air_CO2_Sensordac3UIP36
+HWS Medium Temperature Hot Water Discharge Temperature Sensor
+Heating Discharge Air Flow
+Standby Glycool Unit On Off Status
+Tower
+rice_Space_Humidity_Activedac1
+AHU Return Fan VFD Speed Status
+btag_Meter
+Increase
+brick_Chilled_Water_Pump_VFD_Speed_Command
+rice_economizerEnableFixedEnthalpyA1st_Floor_Area1
+rice_Effective_RA_CO2dac1AV004
+brick_Wing
+btag_Frequency
+rice_TEMP2_Space_Temperature_RME222
+brick_Mixed_Air_Filter
+brick_Economizer_Air_Flow
+Turned
+brick_Room
+Stack
+CRAC Heating On Off Status
+Differential Temperature
+brick_On_Off_Command
+brick_Timer_Sensor
+Luminance Setpoint
+btag_When
+brick_AHU_Highest_Zone_Temperature_Sensor
+brick_Trace_Heat
+Building Static Pressure Setpoint
+brick_Economizer_Enable_Fixed_Temperature_Setpoint
+brick_AHU_Trace_Heat_Sensor
+brick_Cold_Box
+brick_Return_Air_Temperature_Sensor
+brick_HVAC_Warmest_Zone_Temperature_Sensor
+brick_Status
+brick_Average_Zone_Temperature_Sensor
+AHU Supply Air Static Pressure Sensor
+brick_Supply_Air_Duct_Pressure_Status
+brick_Occupied_Cooling_Supply_Air_Flow
+brick_AHU_Cooling_Coil_Discharge_Air_Temperature_Sensor
+rice_2_Mag_HW_Return_Temp
+brick_AHU_Supply_Air_Temperature_Heating_Setpoint
+brick_Building_Exhaust_Fans_Stage_Command
+brick_CRAC_Start_Stop_Command
+Exhaust Air Static Pressure Integral Time Setpoint
+Outside Luminance Sensor
+CWS Chilled Water Bypass Valve Command
+brick_VAV_Occupancy_Status
+Medium Temperature Hot Water Differential Pressure Load Shed Reset
+AHU Max Discharge Air Static Pressure Setpoint
+brick_AHU_Supply_Air_Temperature_Reset_Low_Setpoint
+Heat Exchanger Valve Command
+bf_isInputOf
+Heat Exchanger Discharge Water Temperature Proportional Band Setpoint
+brick_Motor_Speed_Sensor
+brick_Chiller_Run_Time_Sensor
+brick_Supply_Air_Static_Pressure_Sensor
+Hot Water Discharge Temperature Sensor
+brick_Inverter
+brick_High_Static_Pressure_Cutout_Limit_Setpoint
+brick_Chilled_Water_Discharge_Temperature_Sensor
+brick_AHU_Outside_Air_Damper_Min_Position_Setpoint
+brick_CRAC_Remotely_On_Off_Status
+btag_Automatic
+HWS Medium Temperature Hot Water Supply Temperature Sensor
+brick_Chilled_Water_Differential_Pressure_Proportional_Band_Setpoint
+brick_Thermostat_Adjust
+brick_Economizer_Status
+brick_Economizer_Disable_Fixed_Dewpoint
+brick_AHU_Return_Fan_Start_Stop_Command
+"Air that must be removed from a space due to contaminants, regardless of pressurization"
+AHU Supply Air Temperature Reset High Setpoint
+Difference between measured temperature and lockout setpoint
+Load Shed Command
+brick_Emergency_Push_Button
+brick_Chilled_Water_Differential_Pressure_Setpoint
+Cooling Supply Air Temperature Proportional Band
+brick_Fire_Control_Panel_On_Command
+AHU Lowest Exhaust Air Static Pressure Sensor
+Exhaust Fan Start Stop
+brick_AHU_Cooling_Supply_Air_Temperature_Dead_Band_Setpoint
+brick_Occupied_Cooling_Supply_Air_Flow_Setpoint
+"Air removed from a space to be recirculated or exhausted. Air extracted from a space and totally or partially returned to an air conditioner, furnace, or other heating, cooling, or ventilating system."
+Heating Command
+Enthalpy
+Damper Position Sensor
+brick_Stages
+brick_VAV_Cooling_Request_Setpoint
+Mixed
+Request from AHU for the fan to run
+brick_AHU_Return_Fan_Air_Flow_Sensor
+VAV Discharge Air Flow Sensor
+Average Supply Air Flow
+rice_TEMP2_Space_Temperature_RmI007
+AHU Max Supply Air Static Pressure Setpoint
+rice_RMIC552_Zone_Temp_3
+DemandResponse Load Shed Status
+brick_AHU_Return_Air_Enthalpy_Sensor
+brick_Max_Supply_Air_Temperature_Setpoint
+brick_Hot_Water_Differential_Pressure_Dead_Band_Setpoint
+brick_Integral_Time_Setpoint
+btag_Power
+Speed Setpoint
+Supply Fan
+Integral Time Setpoint
+brick_CWS_Chilled_Water_Pump_Start_Stop_Command
+brick_Economizer_Disable_Fixed_Temperature
+brick_Exhaust_Fan_VFD_Speed_Command
+Disable Status
+brick_Medium_Temperature_Hot_Water_Supply_Temperature
+bf_Label
+Heating Request Percent
+VFD Output Voltage Sensor
+brick_Exhaust_Air_Static_Pressure_Integral_Time_Setpoint
+Domestic Hot Water Discharge Temperature Sensor
+btag_Cutout
+brick_CO2
+Even
+Rated
+Hot Water Flow Meter
+AHU Outside Min Air Flow Setpoint
+AHU Overridden On Status
+rice_economizerDisableDifferentialEnthalpyA2nd_Floor_Area1
+brick_Return_Air_Dewpoint
+btag_Activated
+brick_Chilled_Water_System_Enable_Command
+btag_Server
+Start
+brick_Thermostat_Adjust_Sensor
+brick_Ice_Tank_Entering_Water_Temperature
+CRAC Low Temperature Alarm Setpoint
+VFD Speed Status
+brick_Dead_Band_Setpoint
+CWS Chilled Water Differential Pressure Increase Decrease Step Setpoint
+brick_Occupied_Heating_Min_Discharge_Air_Flow
+FCU Supply Fan VFD Speed Sensor
+Fan Start Stop
+rice_economizerDisableFixedDewPointA5th_Floor_Area1
+brick_Exhaust_Fan_System_Enable_Command
+Room Temperature Sensor
+btag_Variable
+brick_Run_Time_Sensor
+VAV Discharge Air Temperature Sensor
+rice_RMI1092_Space_Temperature_Local
+rice_economizerEnableFixedDryBulbABasement_Area2
+brick_Discharge_Fan_Command
+brick_CRAC_Communication_Loss_Alarm
+brick_Tolerance_Setpoint
+brick_Fan_Air_Flow_Sensor
+rice_AHU_3_Supply_Fan_Temp
+rice_ventOptVavAirflowGross1st_Floor_Chilled_Beam_VAS2
+rice_WTS1_Chiller_CHWS_Temp
+brick_Damper_Position_Sensor
+AHU Return Air Temperature Low Limit Alarm
+Average Cooling Demand
+brick_CRAC_High_Head_Pressure_Alarm
+bf_hasTagSet
+Suction
+Outside Air CO2 Sensor
+brick_Chilled_Water_Pump_Enable
+btag_Pre
+brick_Chilled_Water_Pump_Lead_Lag_Command
+brick_Fan_Speed_Setpoint
+brick_CRAC_Humidifier_Alarm
+Hot Water Supply Temperature High Reset Setpoint
+rice_Discharge_Air_Temperaturewshp1
+brick_FCU_Discharge_Fan_VFD_Speed_Setpoint
+btag_Locally
+brick_CRAC_High_Temperature_Alarm
+VAV Heating Discharge Air Flow Setpoint
+Storage
+Valve Pressure Sensor
+brick_Medium_Temperature_Hot_Water_Differential_Pressure_Load_Shed
+btag_Underfloor
+Domestic Hot Water Valve Command
+Variable Frequency Drive
+Variable
+brick_CWS_Chilled_Water_Static_Pressure_Setpoint
+Heating Discharge Air Temperature Proportional Band
+Exhaust Fan Off Status LED
+brick_AHU_Pre_Filter_Status
+Fan Run Request Status
+brick_Cooling_Request_Percent_Setpoint
+Chilled Water Differential Pressure Integral Time Setpoint
+brick_Fume_Hood_Sash_Position_Sensor
+CRAC Emergency Power Off Command
+Chilled Water Meter
+Weather Outside Enthalpy Sensor
+Variable Air Volume
+brick_Steam_On_Off
+AHU Supply Fan VFD Speed Command
+owl_TransitiveProperty
+Exhaust Air Stack Flow Sensor
+Discharge Air Static Pressure
+btag_Even
+Boiler Start Stop Status
+rice_Room322
+btag_Medium
+rice_Room324
+VFD Motor Current Sensor
+Flow Meter
+Torque Sensor
+btag_CO2
+Water
+brick_VAV_Occupied_Cooling_Max_Supply_Air_Flow_Setpoint
+Static Pressure Sensor
+brick_Bypass_Damper_Position_Sensor
+brick_Chilled_Water_Discharge_Flow
+brick_Outside_Air_Lockout_Temperature_Setpoint
+brick_Water_Level_Sensor
+brick_DemandResponse_Chilled_Water_Differential_Pressure_Load_Shed_Reset_Status
+brick_Start_Stop_Status
+AHU Supply Air Temperature Reset Differential Setpoint
+Exhaust Air Humidity Sensor
+brick_Room_Temperature_Sensor
+rice_Room101
+rice_Room103
+rice_Room102
+rice_Room105
+rice_Room104
+rice_Room107
+rice_Room106
+Highest Zone Cooling Command
+brick_AHU_Discharge_Air_Smoke_Detected_Alarm
+rice_diagCalculationA2nd_Floor_Area1
+rice_Zone_Temp_6_RMI212
+brick_AHU_Min_Fresh_Air_Setpoint
+brick_VAV_Heating_Valve_Command
+DHWS Domestic Hot Water Discharge Temperature Sensor
+rice_Zone_Temp_2_RmI204
+rice_Temp_2_BAS
+brick_Supply_Fan
+brick_Low_Air_Temperature_Enable
+brick_VAV_Booster_Fan_Command
+brick_Average_Temperature
+brick_Emergency_Power_Off_System_Enable
+brick_AHU_Bypass_Air_Flow_Sensor
+brick_Medium_Temperature_Hot_Water_Supply_Temperature_Low_Reset
+rice_ventRatioLimitAhuV2nd_Floor_Perimeter_Devices_VAS1
+System Status
+brick_Start_Stop_Command
+rice_occupancyStatusA2nd_Floor_Area1
+brick_Pre_Filter_Status
+HWS Heat Exchanger System Enable Status
+AHU Building Static Pressure Setpoint
+rice_CHWCoilLeavingAirTempscc2UIP01
+Operating
+Min Discharge Air Static Pressure
+Max Frequency
+brick_VAV_Heating_Request_Setpoint
+brick_Pump_Lead_On_Off_Command
+Economizer Disable Fixed Temperature
+rice_Room211
+rice_Room210
+rice_Room212
+brick_Exhaust_Fan_Off
+AHU Return Fan Differential Speed Setpoint
+owl_AnnotationProperty
+brick_AHU_Return_Air_Flow_Sensor
+brick_Thumbwheel_Temperature_Low_Limit_Setpoint
+Cooling On Off
+AHU Return Fan VFD Speed Command
+Supply Water Differential Pressure Proportional Band
+brick_Differential_Pressure_Sensor
+Outside Min Air Flow Setpoint
+brick_Cooling_Min_Supply_Air_Flow_Setpoint
+rice_RMI530_Space_Temperature
+rice_CB_CHW_Return_Temp
+Condenser
+Discharge Water Differential Pressure Dead Band
+brick_AHU_Automatic_Mode_Command
+brick_Frequency_Command
+AHU Fire Control Panel On Command
+rice_occupancyA2nd_Floor_Area1
+Valve
+AHU Max VFD Speed Setpoint
+rice_standbyOffsetABasement_Area2
+Fan Speed Reset Command
+brick_CRAC_Emergency_Power_Off_System_Enable_Status
+Differential Speed Sensor
+AHU Pre Filter Status
+rice_economizerEnableFixedEnthalpyA2nd_Floor_Area1
+Exhaust Fan System Enable Command
+DemandResponse Chilled Water Differential Pressure Load Shed Reset Status
+Discharge Air Flow Reset High Setpoint
+brick_Run_Direction_Command
+brick_Supply_Air_Temperature
+btag_Date
+AHU Return Heat Valve Command
+brick_Unoccupied_Cooling_Temperature_Setpoint
+Solar_Panel Solar Zenith Angle Sensor
+brick_CRAC_Condensate_Leak_Alarm
+brick_Basement
+brick_CRAC_Alarm_Delay_Setpoint
+brick_Zone_Cooling_Temperature_Dead_Band_Setpoint
+btag_Storage
+brick_VFD
+brick_Deionised_Water_Conductivity
+brick_Discharge_Air_Temperature_Setpoint_Increase_Decrease_Step
+Unoccupied
+Occupied Heating Supply Air Flow
+Chilled Water Differential Pressure Load Shed Reset
+brick_Ventilation_Air_Flow_Ratio_Limit
+Humidifier Panel No Water
+brick_Maintenance_Required
+Unoccupied Mode
+HWS Hot Water Meter
+HVAC Zone
+brick_Supply_Air_Temperature_Cooling_Setpoint
+Heat Exchanger Supply Water Temperature Integral Time
+WS
+brick_Sash_Position
+brick_Water_System_Freeze_Status
+Medium Temperature Hot Water Discharge Temperature Low Reset
+Air Lockout Temperature Differential
+rice_occupancyA1st_Floor_Area1
+rice_heatCoolModeStatusABasement_Area2
+Zone Temperature Sensor
+VFD Last Fault Code Status
+DemandResponse Zone Unoccupied Load Shed Command
+rice_ventRatioLimitAhuV5th_Floor_Perimeter_Devices_VAS2
+VAV CO2 Sensor
+Lighting_System Luminance Alarm
+Low Air Temperature Enable
+brick_Supply_Air_Smoke_Detected_Alarm
+brick_Override_Command
+EconCycle
+FCU Supply Air Temperature Setpoint
+Pre Filter
+brick_Zone_Heating_Temperature_Dead_Band_Setpoint
+brick_VAV
+btag_Estimation
+Frost Sensor
+Solar
+brick_DemandResponse_Medium_Temperature_Hot_Water_Supply_Temperature_Load_Shed_Setpoint
+brick_Monthly_Steam_Usage
+brick_Weather_Rain_Sensor
+Zone Heating Temperature Dead Band Setpoint
+brick_Velocity_Pressure_Setpoint
+brick_CRAC_Emergency_Power_Off_Switch_Command
+rice_averageSpaceTemperatureA3rd_Floor_Area1
+rice_Outdoor_Air_Humiditypgm1UIP03
+brick_HWS_Hot_Water_Flow_Meter
+Deionised Water Alarm
+brick_Heating_Discharge_Air_Temperature_Integral_Time_Setpoint
+Gain
+FCU Fault Indicator Status
+AHU Cooling Demand Setpoint
+brick_CWS_Chilled_Water_Differential_Pressure_Integral_Time_Setpoint
+Luminance
+Turn
+Outside Air Humidity Sensor
+brick_Hot_Water_Pump_VFD_Speed_Command
+brick_Supply_Water_Temperature_Dead_Band_Setpoint
+rice_CB228_CHW_Return_Temp
+brick_VFD_Cooling_Valve_Command
+Discharge Fan VFD Speed Command
+Deionised Water Conductivity
+brick_HWS_Heat_Exchanger_Discharge_Water_Temperature_Proportional_Band_Setpoint
+Chilled Water Return Temperature Sensor
+brick_Supply_Water_Temperature_Integral_Time_Setpoint
+Fault Reset Command
+brick_AHU_Economizer_Damper_Min_Position_Setpoint
+brick_CO2_Setpoint
+brick_Coldest_Temperature
+Max Chilled Water Differential Pressure Setpoint
+brick_Chilled_Water_Differential_Pressure
+rice_economizerEnableFixedDewPointABasement_Area2
+Indicates if the AHU has been manually overridden to be On
+High Temperature Hot Water Return Temperature Sensor
+AHU Return Air Dewpoint Sensor
+rice_economizerEnableDifferentialDryBulbAAuditorium_Area4
+brick_Occupied_Cooling_Temperature_Dead_Band
+Warmest Zone Temperature Sensor
+brick_Load_Current_Sensor
+brick_Reset_Command
+brick_Discharge_Air_Static_Pressure_Increase_Decrease_Step
+rice_Entering_Water_Temperaturewshp1
+brick_CRAC_Pump_Start_Stop_Command
+brick_Return_Air_Preheat_Valve
+btag_DC
+Static Pressure Min Setpoint
+brick_Heating_Discharge_Air_Temperature_Dead_Band_Setpoint
+btag_DI
+Domestic
+brick_Discharge_Fan_Start_Stop_Command
+brick_High_Head_Pressure
+btag_Hood
+btag_Response
+btag_Basement
+Input
+DemandResponse
+CRAC Humidifier Panel No Water Alarm
+CWS Chilled Water Meter
+rice_ventRatioLimitVavV2nd_Floor_Chilled_Beam_Source_VAS2
+btag_Preheat
+Tolerance
+brick_Exhaust_Fans_Stage
+brick_AHU_Return_Air_Preheat_Valve_Command
+brick_CRAC_Emergency_Power_Loss_Alarm
+Economizer Enable Fixed Dewpoint
+brick_Exhaust_Air_Stack_Flow_Integral_Time_Setpoint
+AHU Building Static Pressure Sensor
+brick_Compressor_Overload
+Chilled Water Temperature Differential
+rice_Humidity_Zone_1_RMI207
+brick_Economizer_Temperature_Setpoint
+rice_RmI532_Space_Temperature
+rice_ventRatioLimitVavV5th_Floor_Perimeter_Devices_VAS2
+Return Air Damper
+rice_economizerDisableFixedDewPointAAuditorium_Area4
+brick_Effective_Cooling_Temperature_Setpoint
+brick_Heating_Min_Supply_Air_Flow_Setpoint
+brick_PV_Current_Output_Sensor
+Reset
+AHU Exhaust Air Stack Flow Proportional Band Setpoint
+Mode Setpoint
+Lead Lag
+brick_Exhaust_Fan_Start_Stop_Command
+bf_isTokenOf
+brick_Lighting_System
+brick_Max_VFD_Speed_Setpoint
+brick_AHU_Supply_Fan_VFD_Speed_Setpoint
+Hot Water Pump Lead Lag
+btag_From
+brick_Heat_Wheel_Voltage
+VAV Occupied Cooling Temperature Dead Band Setpoint
+brick_Low_Temperature_Alarm
+bf_isPointOf
+brick_CRAC_Hold_Status
+rice_FP_VAV_Hot_Water_Supply_Temp
+brick_Solar_Panel_PV_Current_Output_Sensor
+Ice Tank Entering Water Temperature
+btag_Fresh
+brick_HVAC
+Supply Air Temperature Reset Differential
+Deionised Water Level Sensor
+brick_Cooling_Discharge_Air_Temperature_Dead_Band_Setpoint
+AHU Velocity Pressure Setpoint
+rice_economizerEnableFixedEnthalpyAAuditorium_Area4
+Month
+btag_Duct
+brick_VFD_Frequency_Command
+btag_Frost
+brick_Return_Discharge_Fan_Differential_Speed
+brick_AHU_Max_Supply_Air_Temperature_Setpoint
+owl_IrreflexiveProperty
+Chilled Water Pump Alarm Delay
+Enable Hot Water System Outside Air Temperature Setpoint
+Filter Reset Command
+brick_Torque_Sensor
+Low Humidity Alarm
+FCU Discharge Fan VFD Speed Command
+Tolerance Setpoint
+Temperature High Limit Setpoint
+brick_VFD_Motor_Direction_Status
+Start Stop Status
+Location
+VAV Occupied Heating Max Supply Air Flow Setpoint
+brick_Air_Flow_Loss_Alarm
+Differential Pressure Dead Band Setpoint
+Emergency Power Off Status
+Hot Water Differential Pressure Setpoint
+btag_Thermal
+brick_Weather_Hail_Sensor
+f0b2ac8370e0844bdaf004361cb381c7ab3
+btag_Turn
+btag_Increase
+VAV Zone Temperature Setpoint
+VFD Drive Temperature Sensor
+brick_Exhaust_Air_Humidity
+btag_Cooling
+brick_Supply_Air_Proportional_Gain_Factor
+btag_Setpoint
+AHU Return Fan Start Stop Command
+Run Request Command
+Heat Exchanger Supply Water Temperature
+btag_Motor
+Bus
+rice_TEMP1_Space_Temperature_RMI020
+brick_Medium_Temperature_Hot_Water_Supply_Temperature_High_Reset
+btag_Coldest
+Solar_Panel PV Current Output Sensor
+brick_VAV_Occupied_Heating_Min_Supply_Air_Flow_Setpoint
+rice_heatCoolModeStatusA1st_Floor_Area1
+Heating Thermal Power Meter
+brick_Return_Supply_Fan_Differential_Speed
+Short Cycle Alarm
+brick_Discharge_Air_Temperature_Heating_Setpoint
+Weather Hail Sensor
+Valve Status
+brick_FCU_Return_Fan_VFD_Speed_Setpoint
+brick_On_Timer
+brick_Reset_Setpoint
+Heat Exchanger
+btag_Average
+brick_VAV_Discharge_Air_Temperature_Setpoint
+AHU Economizer Status
+rice_unoccupiedDifferenceA2nd_Floor_Area1
+btag_Cool
+Trace Heat
+brick_Booster_Fan_Air_Flow
+brick_Bypass_Damper_Position
+Chiller Start Stop Status
+Steam On Off Command
+rice_Discharge_Air_Tempdac1UIP06
+rice_Return_Air_Humiditydac1UIP27
+brick_CRAC
+brick_Chiller
+Humidify Command
+brick_Hot_Box_Temperature_Sensor
+Discharge Air Smoke Detected Alarm
+brick_Outside
+rice_Discharge_Air_Tempdac3UIP06
+btag_Bypass
+AHU Outside Air Temperature Sensor
+Terminal
+brick_Heat_Wheel_Supply_Air_Temperature
+CO2
+brick_CRAC_Short_Cycle_Alarm
+Occupied Cooling Temperature Dead Band Setpoint
+brick_VAV_Heating_Max_Supply_Air_Flow_Setpoint
+brick_Power_System
+rice_diagVasSourceTempFailureVBasement_Perimeter_Devices2
+FCU Return Fan VFD Speed Setpoint
+rice_RmI524_Space_Temperature
+Detection
+Occupied Cooling Discharge Air Flow
+brick_Hold_Status
+CRAC Run Status
+Static Pressure Max
+brick_AHU_Mixed_Air_Damper_Position_Sensor
+Electrical Power Meter
+Open
+rice_HW_Supply_Temp_RM_I324
+brick_Integral_Gain_Setpoint
+brick_Supply_Fan_Cooling_Coil_Valve_Pressure_Sensor
+Fan Air Flow Setpoint
+btag_System
+brick_AHU_Return_Fan_VFD_Speed_Command
+AHU Outside Air Humidity Sensor
+bf_isHierarchical
+rice_economizerEnableDifferentialEnthalpyAAuditorium_Area4
+btag_Close
+Hot Water Pump VFD Speed
+Discharge Air Temperature Reset Differential
+brick_AHU_Preheat_Supply_Air_Temperature_Sensor
+rice_ventOptVavAirflowGrossBasement_Perimeter_Devices2
+Standby Unit On Off
+brick_Supply_Fan_Fan_Speed_Reset_Command
+Perimeter Heating Valve
+Override
+Steam_System Steam Usage Today Meter
+AHU Min Supply Air Static Pressure Setpoint
+Low Suction Pressure Alarm
+rice_occupancyStatusBasement_Perimeter_Devices2
+brick_AHU_Building_Static_Pressure_Setpoint
+rice_heatCoolModeStatusA5th_Floor_Area1
+Return Fan VFD Speed Sensor
+Heat Exchanger System Enable Status
+brick_Exhaust_Air_Flow_Setpoint
+Unoccupied Load Shed Command
+btag_Chair
+Water_System Water Meter
+brick_Chilled_Water_Meter
+rice_occupancyStatus1st_Foor_Perimeter_Devices_VAS1
+rice_ventOptStatusV2nd_Floor_Perimeter_Devices_VAS1
+Motor Torque Sensor
+Curtailment
+AHU Cooling Supply Air Temperature Integral Time Setpoint
+Chilled Valve Pressure Sensor
+brick_Supply_Water_Temperature
+Heating Valve Command
+CRAC Start Stop Status
+brick_FCU_Supply_Air_Temperature_Sensor
+brick_VFD_On_Timer_Sensor
+https://brickschema.org/schema/1.0.2/BrickTag
+Auto
+Thumbwheel Temperature High Limit Setpoint
+brick_Occupied_Cooling_Max_Discharge_Air_Flow
+brick_Coldest_Zone_Temperature_Sensor
+brick_AHU_Economizer_Differential_Air_Temperature_Setpoint
+brick_Cooling_Supply_Air_Temperature_Integral_Time_Setpoint
+rice_RmI522_Space_Temperature
+CWS Chilled Water Temperature Differential Sensor
+rice_TEMP1_Space_Temperature_RMI103
+Inverter
+CRAC Humidity Sensor
+FCU Discharge Fan VFD Speed Setpoint
+owl_Class
+brick_Heating_Valve
+brick_VAV_Occupied_Cooling_Max_Discharge_Air_Flow_Setpoint
+brick_CO2_Differential
+brick_Building_Static_Pressure_Setpoint
+AHU Supply Air Proportional Gain Factor
+Trace
+AHU Cooling Coil Discharge Air Temperature Sensor
+btag_Energy
+Thermal Energy Storage Supply Water Differential Pressure Proportional Band Setpoint
+brick_CRAC_Unit_Failed_Alarm
+brick_Cooling_Max_Discharge_Air_Flow_Setpoint
+brick_HWS_Heat_Exchanger_Supply_Water_Temperature_Integral_Time_Setpoint
+Air Flow Sensor
+Heating Discharge Air Temperature Integral Time
+brick_AHU_Max_VFD_Speed_Setpoint
+brick_VAV_Discharge_Air_Temperature_Heating_Setpoint
+btag_Elevator
+btag_Static
+brick_Condenser
+brick_HWS_Hot_Water_Meter
+brick_VAV_Temporary_Occupancy_Status
+AHU Return Fan Differential Speed Sensor
+btag_Ready
+brick_VFD_Acceleration_Time_Setpoint
+Acceleration
+brick_HWS_Hot_Water_System_Enable_Command
+brick_Liquid_Detected
+btag_Ice
+rice_averageSpaceTemperatureARoom_305_Area2
+brick_Chilled_Water_Static_Pressure
+Fire Safety System
+btag_Fume_Hood
+btag_Terminal
+CRAC Disable Command
+Pump
+rice_diagVasUnableToDriveMaxV2nd_Floor_Chilled_Beam_Source_VAS2
+Supply Air Static Pressure Setpoint
+HWS Shutdown Hot Water When Unoccupied Command
+brick_AHU_Overridden_Off_Status
+brick_FCU_Humidity_Sensor
+Static Pressure Max Setpoint
+rice_economizerEnableFixedDewPointA2nd_Floor_Area1
+rice_Zone_Humidity_2_Corr_NESHS
+rice_Mixed_Air_Tempscc2UIP03
+rice_RmI528_Space_Temperature
+Water System
+btag_Angle
+btag_Room
+brick_Discharge_Water_Differential_Pressure_Dead_Band
+brick_Fire_Control_Panel_Exhaust_Fan_On_Status_LED
+Fan Overload Alarm
+btag_Roof
+brick_Motor_Power_Meter
+Return Fan
+Wind Direction
+Supply Fan Status
+Standby Fan Status
+brick_Static_Pressure_Min_Setpoint
+CWS Exhaust Fan Command
+Coil
+Water Meter
+VAV Occupied Heating Min Supply Air Flow Setpoint
+HVAC Highest Zone Temperature Sensor
+VAV Ventilation Air Flow Ratio Limit Setpoint
+HWS Open Heating Valve Outside Air Temperature Setpoint
+brick_Heating_Discharge_Air_Temperature_Proportional_Band
+brick_Relative_Humidity_Sensor
+brick_AHU_Preheat_Discharge_Air_Temperature_Sensor
+AHU Mixed Air Damper Position Sensor
+btag_Direction
+brick_Hot_Water_Flow
+Temperature Sensor
+brick_VFD_Manual_Auto_Status
+rice_West_Space_Temperaturescc2UIP34
+Overridden Off Status
+Economizer Supply Air Temperature Dead Band
+rice_spaceSensorA3rd_Floor_Area1
+Hold Status
+Freeze Protect Temperature Low Limit
+brick_Environment_Box_Temperature_Sensor
+btag_Freezer
+AHU Zone Temperature Sensor
+Air Humidity
+brick_High_Temperature_Hot_Water_Supply_Temperature
+Economizer Disable Fixed Enthalpy Setpoint
+rice_Zone_Temp_3_RMI017
+btag_Effective
+CWS Chilled Water Differential Pressure Sensor
+brick_Exhaust_Air_Static_Pressure_Proportional_Band_Setpoint
+Thermal Energy Storage Discharge Water Differential Pressure Proportional Band Setpoint
+brick_VAV_Discharge_Air_Flow_Command
+AHU Supply Air Static Pressure Increase Decrease Step Setpoint
+brick_Ventilation_Ratio_Limit
+rice_Zone_Temp_5_RMI101
+brick_Domestic_Hot_Water_Supply_Temperature_Setpoint
+brick_Direction_Status
+HWS Heat Exchanger Discharge Water Temperature Setpoint
+brick_Discharge_Air_Damper_Max_Position_Setpoint
+AHU Discharge Fan Command
+btag_Humidification
+rice_Effective_RA_CO2dac3AV004
+brick_Discharge_Air_Humidity_Sensor
+AHU Exhaust Fan Start Stop Status
+brick_HWS_Heat_Exchanger_Supply_Water_Temperature_Sensor
+brick_Pump
+HVAC Coldest Zone Temperature Sensor
+AHU Trace Heat Sensor
+Power Loss
+Economizer Discharge Air Temperature Dead Band Setpoint
+AHU commands its supply fans to run at specified % of its capacity
+brick_Hot_Water_Coil_Entering_Temperature
+Preheat Discharge Air Temperature
+Condensor
+brick_Exhaust_Air_Static_Pressure_Proportional_Band
+Direction Status
+brick_Return_Fan_Differential_Speed_Setpoint
+Compressor Overload Alarm
+brick_Chilled_Water_Pump_Differential_Pressure_Proportional_Band_Setpoint
+Discharge Fan Air Flow
+Battery
+Steam_System Yearly Steam Usage Meter
+brick_Shutdown_Hot_Water_When_Unoccupied_Command
+brick_Solar_Panel_Battery_Voltage_Sensor
+Command
+Air Handler Unit
+brick_Economizer_Disable_Fixed_Dew_Point
+Angle Sensor
+brick_AHU_Supply_Fan_Air_Flow_Sensor
+btag_Deceleration
+brick_Static_Pressure_Dead_Band_Setpoint
+AHU Supply Air Temperature High Limit Alarm
+Deionised Water Conductivity Sensor
+brick_Discharge_Air_Temperature
+brick_CRAC_Low_Humidity_Alarm
+brick_Current_Limit_Setpoint
+brick_Condensate_Leak_Alarm
+brick_AHU_Curtailment_Override_Command
+brick_Luminance_Setpoint
+brick_Hold
+Wind Speed
+bf_usesLocation
+rice_HW_Supply_Temppgm1UIP01
+System Enable
+CWS Chilled Water Differential Pressure Proportional Band Setpoint
+brick_Temperature_Sensor
+brick_AHU_Discharge_Fan_Start_Stop_Status
+brick_Drive_Ready
+Solar Radiance
+"Average of supply air to thermal zones. Granurality: AHU, floor, building"
+rice_RMI552_Zone_Temp_3
+Isolation Valve
+brick_AHU_Velocity_Pressure_Setpoint
+rice_Space_Humidity_RMIC259
+brick_Supply_Air_Flow_Command
+btag_Cycle
+brick_Thermal_Energy_Storage_Supply_Water_Differential_Pressure_Integral_Time_Setpoint
+brick_Heating_Thermal_Power_Meter
+brick_Highest_Zone_Temperature_Sensor
+Return Fan Start Stop Status
+btag_Shutdown
+AHU Low Outside Air Temperature Enable Differential Sensor
+Discharge Water Temperature Setpoint
+brick_Chilled_Water_Pump_Differential_Pressure_Dead_Band
+brick_Exhaust_Fan_Air_Flow_Setpoint
+brick_Differential_Speed_Sensor
+brick_FCU_Return_Air_Humidity_Sensor
+brick_Mode_Status
+btag_Condensate
+Adjustment
+rice_Thumbwheel_Set_point_Hi_Limit
+brick_Chilled_Valve_Pressure
+Zenith
+brick_AHU_Return_Air_Dewpoint_Sensor
+Difference between return air flow and outside air flow
+Discharge Air Temperature Cooling
+Discharge Air Smoke Detected
+brick_Discharge_Fan_Start_Stop_Status
+brick_Cooling_Supply_Air_Temperature_Proportional_Band_Setpoint
+Change Filter
+brick_AHU_Exhaust_Fan_Piezoelectric_Sensor
+rice_systemMode2nd_Floor_Perimeter_Devices_VAS1
+brick_Boiler_Start_Stop_Status
+brick_Freeze_Status
+brick_Outside_Air_Temperature_Low_Reset_Setpoint
+Discharge Air Flow Command
+Mixed Air Temperature
+brick_Medium_Temperature_Hot_Water_Discharge_Temperature_Load_Shed_Status
+brick_Shutdown_Hot_Water_When_Unoccupied
+brick_Economizer_Damper
+Cooling Coil Supply Air Temperature
+Outside Air Damper Position Sensor
+Unoccupied Cooling Supply Air Flow Setpoint
+brick_Cooling_Min_Discharge_Air_Flow
+brick_CRAC_High_Humidity_Alarm
+brick_Valve_Command
+Average Discharge Air Flow
+brick_Emergency_Air_Flow_Status
+brick_Supply_Fan_Start_Stop_Status
+DI Water Level Sensor
+HWS Hot Water Pump Status
+brick_Supply_Air_Static_Pressure_Integral_Time
+Preheat Demand
+Maintenance
+VAV Thermostat Adjust Sensor
+Cooling Tower Fan Speed
+Heat Exchanger Discharge Water Temperature Proportional Band
+Cooling Request Percent
+brick_Dewpoint
+brick_Chilled_Water_Bypass_Valve
+CRAC Capacity Sensor
+brick_Water_Loss
+Discharge Air Temperature Sensor
+brick_AHU_Exhaust_Bypass_Damper_Command
+Zone
+Medium Temperature Hot Water Discharge Temperature Load Shed Status
+brick_Air_Temperature
+rice_TEMP1_Space_Temperature_RM_I322
+Discharge Air Temperature
+brick_System_Enable
+Acceleration Time
+AHU Discharge Fan VFD Speed Command
+brick_Valve_Pressure_Sensor
+Panel Lockout
+brick_Discharge_Air_Flow_Reset_High_Setpoint
+bf_Tag
+rice_TEMP1_Space_Temperature_RME220
+rice_2nd_Floor_HW_Supply_Temp
+FCU Discharge Fan VFD Speed Status
+brick_Energy_Sensor
+brick_Occupied_Cooling_Min_Discharge_Air_Flow_Setpoint
+Communication Loss
+brick_Outside_Air_Temperature_High_Reset_Setpoint
+brick_Equipment
+brick_AHU_Exhaust_Air_Static_Pressure_Setpoint
+Supply Fan Start Stop
+Supply Fan Piezoelectric Sensor
+"Air entering a space from an air-conditioning, heating, or ventilating apparatus for the purpose of comfort conditioning."
+brick_Standby_Load_Shed_Command
+brick_Fan_Coil_Unit
+DHWS Domestic Hot Water Valve Command
+brick_HVAC_Average_Discharge_Air_Flow_Sensor
+brick_Building_Static_Pressure_Sensor
+Domestic Hot Water System Start Stop
+brick_Static_Pressure_Setpoint
+Fire_Control_Panel Exhaust Fan Off Status LED
+Discharge Air Temperature Heating Setpoint
+Cooling Tower
+Filter Status
+brick_Discharge_Air_Flow_Reset_Low_Setpoint
+Open Heating Valve Air Temperature
+Energy Meter
+brick_Heat_Wheel_Supply_Air_Temperature_Sensor
+Boiler Run Time Sensor
+btag_Thumbwheel
+brick_Underfloor_Temperature_Sensor
+Heating Min Discharge Air Flow Setpoint
+Weather Relative Humidity Sensor
+CRAC High Head Pressure Alarm
+brick_DI_Water
+Cooling Coil Discharge Air Temperature Sensor
+Load Setpoint
+HWS Heat Exchanger Discharge Water Temperature Dead Band Setpoint
+Return Air CO2 Setpoint
+rice_diagVasUnableToDriveMaxV2nd_Floor_Perimeter_Devices_VAS1
+bf_usesEquipment
+btag_Load
+rice_Space_Humidity_Activedac3
+brick_Hot_Water_Discharge_Temperature_Sensor
+rice_Floor_4
+rice_Floor_5
+AHU Exhaust Fan VFD Speed Command
+rice_2_Mag_CHW_Return_Temp
+rice_Floor_0
+rice_Floor_1
+rice_Floor_2
+rice_Floor_3
+brick_AHU_Supply_Fan_VFD_Speed_Command
+brick_Setpoint
+Motor Current Sensor
+AHU Supply Fan Command
+A general purpose humidity sensor
+Heating Coil
+rice_unoccupiedDifferenceAAuditorium_Area4
+brick_Chilled_Water_Supply_Flow
+brick_Ice_Tank_Entering_Water_Temperature_Sensor
+CWS Chilled Water Supply Temperature Sensor
+brick_Thumbwheel_Temperature_Low_Limit_Setpoint_
+VAV Unoccupied Cooling Temperature Setpoint
+brick_AHU_Highest_Zone_Cooling_Command
+VAV Room Temperature Sensor
+Supply Air Temperature Sensor
+Unoccupied Heating Temperature
+rice_East_Space_Temperaturescc2UIP33
+brick_Return_Fan_Air_Flow
+Thermal Energy Storage Discharge Water Differential Pressure Dead Band Setpoint
+CWS Chilled Water Pump Alarm Delay Setpoint
+brick_Current
+brick_AHU_Supply_Air_Temperature_Setpoint
+rice_Pump_CHW_Supply_Temppgm2UIP15
+Medium Temperature Hot Water Supply Temperature Load Shed Setpoint
+rice_occupiedDifferenceA5th_Floor_Area1
+Supply Air Static Pressure Integral Time Setpoint
+brick_VAV_Supply_Air_Velocity_Pressure_Sensor
+Heating Temperature Setpoint
+AHU Discharge Air Temperature Setpoint Increase Decrease Step
+brick_Heat_Exchanger_Discharge_Water_Temperature_Proportional_Band_Setpoint
+Temperature Tolerance Setpoint
+brick_CRAC_System_Enable_Command
+Medium Temperature Hot Water Supply Temperature Low Reset Setpoint
+rice_Space_Humidity_Low_Limit
+Chilled Water Pump Enable
+Solar Azimuth Angle
+rice_spaceHumidityA5th_Floor_Area1
+CRAC Temperature Tolerance Setpoint
+AHU Cooling Coil Supply Air Temperature Sensor
+Discharge Fan Start Stop Status
+brick_VFD_Run_Direction_Command
+rice_averageSpaceTemperatureA2nd_Floor_Area1
+CRAC Alarm Delay Setpoint
+brick_Cooling_Max_Supply_Air_Flow_Setpoint
+AHU Discharge Air Static Pressure Sensor
+Return Discharge Fan Differential Speed Setpoint
+brick_AHU_Discharge_Fan_Command
+rice_TEMP4_Space_Temperature_RMI205
+Energy Sensor
+High Humidity Alarm
+rice_Cooling_Stpt_Activescc2AV006
+brick_FCU_Supply_Fan_VFD_Speed_Sensor
+Chilled Water Valve
+brick_Exhaust_Bypass_Damper_Command
+rice_occupancyStatus5th_Floor_Perimeter_Devices_VAS2
+Medium Temperature Hot Water Differential Pressure Load Shed Setpoint
+Preheat Coil Entering Air Temperature Sensor
+brick_VAV_Occupied_Command
+rice_VAV_HW_Return_Temp
+btag_Temporary
+Air CO2
+brick_Exhaust_Fan_Status
+rice_TEMP1_Perm_Temp_Rm_230
+rice_TEMP2_Space_Temperature_RMI101
+Estimation
+brick_CRAC_High_Temperature_Alarm_Setpoint
+brick_Remotely_On_Off_Status
+Lowest Temperature
+Demand Sensor
+rice_TEMP3_Space_Temperature_RMI201
+Return Air Preheat Valve Command
+brick_Electrical_Power_Meter
+Torque
+FCU Run Time Sensor
+rice_TEMP3_Space_Temperature_RMI206
+AHU Supply Air Temperature Cooling Setpoint
+rice_RMI503_Space_Temperature_Perimeter
+Exhaust Air Stack Flow Dead Band Setpoint
+Thermal
+Mixed Air
+Pressure Status
+HWS Heat Exchanger Discharge Water Temperature Sensor
+btag_Building
+brick_High_Humidity_Alarm_Setpoint
+btag_Operating
+btag_Handler
+AHU Min VFD Speed Setpoint
+rice_HW_Return_Temppgm1UIP02
+Cold Box Temperature Sensor
+DHWS
+Rated Speed Setpoint
+brick_Automatic_Mode
+brick_Outside_Luminance_Sensor
+brick_Humidifier_Fault
+brick_CO2_Level_Sensor
+rice_systemModeBasement_Perimeter_Devices2
+VAV Discharge Air Temperature Heating Setpoint
+brick_Heat_Exchanger_Supply_Water_Temperature_Setpoint
+brick_Low_Outside_Air_Temperature_Enable_Differential_Sensor
+rice_Space_Humidity_Activedac4
+Heating Demand Setpoint
+Run Status
+Discharge Air Temperature Increase Decrease Step
+Supply Air Flow Setpoint
+btag_Boiler
+brick_AHU_Frost_Sensor
+Differential Pressure Setpoint
+CRAC Short Cycle Alarm
+rice_averageSpaceTemperatureAAuditorium_Area4
+rice_Discharge_Air_Temperaturedac3
+btag_Conductivity
+rice_Discharge_Air_Temperaturedac1
+Preheat Demand Setpoint
+brick_Thumbwheel_Temperature_High_Limit
+brick_VAV_Occupied_Cooling_Temperature_Dead_Band_Setpoint
+brick_Return_Water_Temperature_Sensor
+brick_VFD_Start_Stop_Command
+brick_FCU_Return_Air_Temperature_Sensor
+CO2 High
+brick_Warm_Cool_Adjust_Sensor
+Lighting_System Luminance Command
+rice_Hot_Water_ReturnTemperature
+brick_On_Off
+Medium Temperature Hot Water Supply Temperature
+AHU Cooling Discharge Air Temperature Proportional Band Setpoint
+rice_Zone_Temp_5_Local_RMI208
+rice_Room276
+Temporary Occupancy
+Liquid Detected
+CWS Chilled Water Return Temperature Sensor
+brick_Smoke_Detected
+Part of economizer to ensure minimum air flow
+brick_Temperature_High_Limit_Setpoint
+VAV Occupied Cooling Supply Air Flow Setpoint
+AHU Discharge Fan Status
+Frequency
+brick_Medium_Temperature_Hot_Water
+Basement
+VFD Deceleration Time Setpoint
+brick_Medium_Temperature_Hot_Water_Differential_Pressure_Load_Shed_Reset
+Low Air Temperature Enable Differential
+brick_Water_Loss_Alarm
+rice_RMIC552_Zone_Temp_7
+DemandResponse Medium Temperature Hot Water Differential Pressure Load Shed Status
+btag_Mixed
+brick_Exhaust_Air_Velocity_Pressure
+brick_CWS_Min_Chilled_Water_Differential_Pressure_Setpoint
+brick_Discharge_Air_Temperature_Reset_Low_Setpoint
+Supply_Fan Cooling Coil Valve Pressure Sensor
+brick_Thermal_Energy_Storage_Supply_Water_Differential_Pressure_Dead_Band_Setpoint
+brick_VAV_Heating_Command
+rice_standbyOffsetA1st_Floor_Area1
+brick_Zone_Standby_Load_Shed_Command
+brick_CWS_Chilled_Water_Supply_Temperature_Sensor
+brick_Cooling_Coil
+brick_Cooling_Tower_Fan_Speed
+Fume
+Discharge Air Flow Demand Setpoint
+brick_Heating_Supply_Air_Temperature_Integral_Time
+Hot Water Supply Temperature Low Reset Setpoint
+brick_CWS_Chilled_Water_Supply_Flow_Sensor
+Supply Water Temperature Dead Band Setpoint
+Elevator
+AHU
+brick_Domestic_Hot_Water
+Cool
+brick_Exhaust_Fan_Start_Stop_Status
+CRAC Pump Start Stop Command
+Heating Valve
+Occupied Heating Min Discharge Air Flow
+brick_HVAC_Disable_Command
+brick_Flow_Meter
+AHU Discharge Fan Piezoelectric Sensor
+brick_Freezer_Temperature_Sensor
+Temperature Setpoint
+brick_Pressure_Status
+Output point that determines equipment's behavior directly and/or affects relevant operational points.
+brick_AHU_Discharge_Air_Static_Pressure_Setpoint
+brick_Water_System_Deionised_Water_Level_Sensor
+Differential Pressure Sensor
+Pressure Sensor
+brick_Weather_Solar_Radiance_Sensor
+brick_Medium_Temperature_Hot_Water_Differential_Pressure_Sensor
+brick_Zone_Heating_Temperature_Setpoint
+Water_System Cooling Tower Fan Speed Setpoint
+brick_Fault_Indicator_Status
+brick_Exhaust_Fan_Overridden_Off_Status
+rice_ventRatioLimitVavVChilled_Beam_Source_VAS3
+VFD Run Direction Command
+Chilled Water Pump Command
+brick_VAV_Warm_Cool_Adjust_Sensor
+Exhaust_Fan VFD Status
+brick_CRAC_On_Off_Status
+brick_Supply_Air_Temperature_Setpoint_Increase_Decrease_Step
+Bypass Air Flow
+AHU Discharge Air Temperature Sensor
+DemandResponse Medium Temperature Hot Water Supply Temperature Load Shed Status
+A general purpose temperature sensor
+brick_AHU_Average_Zone_Temperature_Sensor
+brick_Chilled_Water_Differential_Pressure_Dead_Band_Setpoint
+brick_Occupied
+brick_Supply_Air_Integrative_Gain_Factor
+brick_DI_Water_Alarm
+Preheat Coil Entering Air Temperature
+Lighting System
+brick_VAV_Occupied_Heating_Temperature_Dead_Band_Setpoint
+brick_AHU_Outside_Air_Temperature_Low_Reset_Setpoint
+btag_Integrative
+Exhaust Air Static Pressure Proportional Band
+CWS Chilled Water Differential Pressure Dead Band Setpoint
+Emergency Push Button Status
+AHU Outside Air Lockout Temperature Differential Sensor
+brick_Temporary_Occupancy
+HWS Heat Exchanger Supply Water Temperature Proportional Band Setpoint
+Static Pressure in the supply duct
+brick_Wind_Direction_Sensor
+Exhaust Fan On
+btag_Domestic
+Zone Temperature High Setpoint
+brick_Outside_Air_Enthalpy_Sensor
+Heating On Off
+Return Air Flow
+brick_Min_Supply_Air_Temperature
+brick_AHU_Current_Cooling_Setpoint
+rice_RMI521_Zone_Temp_2
+Overridden On
+https://brickschema.org/schema/1.0.2/Brick
+brick_AHU_Exhaust_Air_Stack_Flow_Integral_Time_Setpoint
+Hot Box
+brick_CRAC_Locally_On_Off_Status
+brick_System_Mode
+brick_VAV_Cooling_Max_Discharge_Air_Flow_Setpoint
+brick_Filter_Status
+AHU Discharge Fan Air Flow Sensor
+Weather Solar Radiance Sensor
+Ventilation Air Flow Ratio Limit Setpoint
+CRAC Humidifier Fault Status
+brick_System_Status
+AHU Discharge Air Temperature Reset Differential Setpoint
+rice_HW_Coil_Entering_Tempscc2UIP36
+brick_CRAC_Heating_On_Off_Status
+Return Fan VFD Speed Status
+btag_Peak
+brick_Heating_Discharge_Air_Temperature_Proportional_Band_Setpoint
+rice_spaceSensorA1st_Floor_Area1
+brick_Supply_Air_Temperature_Reset_Differential_Setpoint
+brick_Rain_Sensor
+Remotely On Off
+brick_High_Temperature_Alarm
+Communication
+brick_Supply_Fan_Supply_Air_Static_Pressure_Proportional_Band_Setpoint
+brick_Water_System_DI_Water_Level_Sensor
+Heat Exchanger Supply Water Temperature Setpoint
+HVAC Average Zone Temperature Sensor
+VAV Heating Valve Command
+Differential Speed Setpoint
+brick_AHU_Economizer_Supply_Air_Temperature_Dead_Band_Setpoint
+Damper Position Setpoint
+rice_economizerDisableFixedDryBulbABasement_Area2
+brick_Water_Flow
+brick_AHU_Occupied_Command
+Exhaust Fan Overridden Off Status
+brick_Return_Fan_Start_Stop_Status
+brick_FCU_Cooling_Valve_Command
+Enable Command
+rice_occupiedDifferenceA2nd_Floor_Area1
+Run Time Sensor
+rice_Space_Relative_Humidity_Corr_NW
+rice_spaceSensorABasement_Area2
+brick_Load_Shed_Command
+rice_CB_Flow_Meter_RMI308
+brick_Domestic_Hot_Water_Valve
+rice_Discharge_Air_Tempdac2UIP06
+rice_economizerEnableFixedEnthalpyABasement_Area2
+brick_AHU_Building_Static_Pressure_Sensor
+brick_Thumbwheel_Temperature_Low_Limit
+Hot Water Differential Pressure Proportional Band
+Monthly Steam Usage
+rice_systemMode5th_Floor_Chilled_Beam_VAS1
+rice_TEMP2_Space_Temperature_Perm_RM_I226
+brick_Overridden_Status
+rice_OA_CO_Damper_Close_Limit
+Building Static Pressure Sensor
+FCP
+brick_Cooling_On_Off_Status
+brick_Discharge_Fan_Piezoelectric_Sensor
+brick_Preheat_Coil_Leaving_Water_Temperature_Sensor
+brick_Output_Voltage
+Frequency Sensor
+rice_heatCoolModeStatusARoom_306_Area3
+Cooling Coil Supply Air Temperature Sensor
+brick_VFD_System_Enable_Command
+Preheat Valve VFD
+btag_Monthly
+btag_By
+Shutdown Hot Water When Unoccupied
+brick_Water_Meter
+Emergency Power Off Activated By High Temperature Status
+btag_Adjustment
+brick_AHU_Cooling_Supply_Air_Temperature_Proportional_Band_Setpoint
+brick_Motor_Torque
+Humidifier Fault
+brick_CRAC_Stages_Status
+brick_Lowest_Exhaust_Air_Static_Pressure_Sensor
+brick_FCP
+rice_HW_Supply_Temperature_Local
+brick_Room_Temperature
+Preheat Supply Air Temperature Sensor
+Economizer Disable Differential Enthalpy
+brick_Chilled_Water_Pump_Differential_Pressure_Integration_Time
+brick_Medium_Temperature_Hot_Water_Supply_Temperature_Sensor
+brick_VFD_Current_Limit_Setpoint
+AHU Return Air CO2 Sensor
+brick_High_Humidity_Alarm
+brick_Heating_Max_Supply_Air_Flow
+Box Mode
+btag_Tank
+Chilled Water Differential Pressure Increase Decrease Step
+brick_Run_Time
+rice_Heating_Stpt_Activescc2AV007
+rice_Nominal_Air_Flow_Status
+HVAC Average Discharge Air Flow Sensor
+brick_Low_Temperature_Alarm_Setpoint
+Turn Off
+brick_Discharge_Air_Velocity_Pressure
+brick_Fan_Start_Stop
+rice_TEMP2_Space_Temperature_RMI207
+rice_Space_CO2_Concentration_Zone_2_RMI230
+btag_Position
+VAV Discharge Air Temperature Setpoint
+AHU Cooling Request Percent Setpoint
+Dehumidification On Off
+brick_Dewpoint_Setpoint
+Heat Wheel Discharge Air Temperature Sensor
+Energy Storage
+AHU Cooling Supply Air Temperature Proportional Band Setpoint
+brick_Air_Grains
+CRAC Humidity Tolerance Setpoint
+brick_AHU_Exhaust_Fan_Overridden_On_Status
+brick_Locally_On_Off
+Chilled Water Pump Start Stop
+rice_Space_CO2_RMI206
+Static Pressure Setpoint
+Thermostat
+rice_Return_Air_Tempdac1UIP28
+HWS Hot Water Differential Pressure Setpoint
+brick_Discharge_Air_Static_Pressure_Dead_Band
+brick_AHU_Min_Supply_Air_Static_Pressure_Setpoint
+brick_Occupied_Heating_Max_Supply_Air_Flow
+rice_Medium_Temp_HW_Supplypgm1UIP23
+Flow Setpoint
+Last Fault Code Status
+Enthalpy Setpoint
+brick_Heat_Exchanger_Supply_Water_Temperature_Proportional_Band_Setpoint
+Speed Reset Command
+brick_AHU_Run_Time_Sensor
+Chilled Water
+VAV Hot Water Valve Command
+Water_System Deionised Water Alarm
+Booster Fan Air Flow Sensor
+rice_occupiedOffsetA5th_Floor_Area1
+Zone Cooling Temperature Dead Band Setpoint
+brick_Economizer
+brick_Water_System_Perimeter_Heating_Valve_Command
+brick_CRAC_Humidity_Tolerance_Setpoint
+brick_High_Temperature_Alarm_Setpoint
+brick_HVAC_Coldest_Zone_Temperature_Sensor
+rice_diagCalculationABasement_Area2
+Exhaust Air Stack Flow Integral Time
+Failure Alarm
+Peak Power Demand
+rice_Discharge_Air_Humiditydac2UIP09
+rice_RMI501_Space_Temperature_Perimeter
+Return Fan Status
+rice_operatingMode2nd_Floor_Chilled_Beam_Source_VAS2
+brick_Hail_Sensor
+VFD On Off Status
+AHU Exhaust Air Velocity Pressure Sensor
+Preheat Coil
+brick_AHU_Cooling_Request_Percent_Setpoint
+brick_Steam_Usage_Meter
+bf_usesDimension
+FCU Return Fan VFD Speed Command
+brick_Enable_Status
+Medium Temperature Hot Water
+rice_economizerEnableFixedDryBulbAAuditorium_Area4
+brick_Return_Air_Temperature_High_Limit
+brick_Mixed_Air_Temperature
+rice_ductPressOptStatusVBasement_Perimeter_Devices2
+Chilled Water Differential Pressure
+AHU Outside Air Damper Position Command
+Damper Command
+rice_ventOptVavAirflowGrossChilled_Beam_Source_VAS3
+Grains
+VAV Booster Fan Air Flow Sensor
+Supply Water Differential Pressure Dead Band
+rice_2nd_Floor_Avg_Space_Humidity
+Supply_Fan Discharge Air Static Pressure Proportional Band Setpoint
+brick_Exhaust_Fan_On
+VAV Occupied Heating Supply Air Flow Setpoint
+Chilled Water Differential Pressure Load Shed Setpoint
+brick_Temperature_High_Reset_Setpoint
+brick_Cooling
+brick_Chilled_Water_Differential_Pressure_Integral_Time
+rice_diagVasUnableToDriveMaxVBasement_Perimeter_Devices2
+Temperature at which chiller stops cooling because outside air is too cold already
+Fire_Control_Panel AHU Off Status LED
+brick_VAV_Outside_Air_Damper_Close_Limit_Setpoint
+brick_Chilled_Water_Return_Temperature_Sensor
+rice_outdoorAirHumidityAAuditorium_Area4
+Supply Air Temperature Setpoint Increase Decrease Step
+AHU Outside Air Enthalpy Sensor
+rice_Return_Air_Humiditydac2UIP27
+brick_Solar_Radiance
+Return Air Temperature Low Limit Alarm
+Chilled Water Pump
+brick_Economizer_Disable_Fixed_Temperature_Setpoint
+brick_Heat_Exchanger_System_Enable
+Steam
+brick_Filter_Reset
+brick_CRAC_Liquid_Detected_Alarm
+rice_Space_CO2_Concentration_RMI050
+brick_Supply_Air_Duct_Max_Position_Setpoint
+brick_Condensor_Temperature
+rice_Enter_CDQ_Supply_Tempscc2UIP25
+brick_VFD_Run_Enable_Command
+brick_Return_Air_Grains_Sensor
+MeasurementProperty
+CRAC Low Temperature Alarm
+brick_Wind_Speed_Sensor
+rice_VAV1
+Steam Usage Meter
+Preheat Coil Leaving Water Temperature
+Output Frequency
+rice_WTS4_AHU3_Entering_GLY_Temp
+btag_Status
+Economizer Enable Differential Temperature
+rice_ventRatioLimitVavVBasement_Perimeter_Devices2
+brick_Dehumidification_On_Off_Status
+Chilled Water Differential Pressure Increase Decrease Step Setpoint
+Vent Operating Mode
+On Off Status
+rice_deltaTemperatureAAuditorium_Area4
+AHU Discharge Fan Start Stop Command
+brick_VAV_Occupied_Cooling_Discharge_Air_Flow_Setpoint
+btag_Speed
+EconCycle On Off Status
+VFD Filter Reset Command
+brick_FCU_Fan_Status
+brick_Preheat_Supply_Air_Temperature_Sensor
+Medium Temperature Hot Water Differential Pressure Sensor
+brick_Outside_Air_CO2_Sensor
+brick_CWS_Chilled_Water_Temperature_Differential_Sensor
+brick_Discharge_Air_Temperature_Heating
+Cooling Supply Air Temperature Integral Time Setpoint
+brick_HWS_Hot_Water_Return_Temperature_Sensor
+VAV
+Water_System Deionised Water Conductivity Sensor
+f0b2ac8370e0844bdaf004361cb381c7ab1
+brick_Hot_Water_Discharge_Temperature
+brick_VAV_Zone_Temperature_Sensor
+f0b2ac8370e0844bdaf004361cb381c7ab2
+Min VFD Speed
+Cooling Coil
+brick_Heat_Exchanger_Valve_Command
+brick_Economizer_Enable_Differential_Enthalpy_Setpoint
+AHU Discharge Air Temperature Heating Setpoint
+brick_Humidifier
+rice_TEMP2_Space_Temperature_RM_211
+CWS Chilled Water Differential Pressure Setpoint
+brick_VFD_Motor_Direction_Command
+brick_DemandResponse_Zone_Standby_Load_Shed_Command
+rice_Return_Air_Tempdac3UIP22
+Hail Sensor
+brick_Occupied_Heating_Min_Supply_Air_Flow
+rice_economizerDisableFixedEnthalpyA1st_Floor_Area1
+Chilled Water Differential Pressure Load Shed
+Heating Supply Air Temperature Integral Time Setpoint
+Building Exhaust Fans Stage Command
+Vent
+brick_CRAC_Dehumidification_On_Off_Status
+AHU Automatic Mode Command
+Emergency Air Flow Command
+AHU Preheat Valve Command
+brick_Current_Cooling
+btag_Voltage
+brick_Output_Frequency_Sensor
+brick_Discharge_Air_Flow
+brick_VAV_Cooling_Demand_Setpoint
+brick_Heat_Exchanger_Supply_Water_Temperature_Proportional_Band
+Water_System Freeze Status
+Heat Exchanger Discharge Water Temperature Integral Time Setpoint
+rice_Discharge_Air_Temperaturewshp2
+rice_operatingModeAAuditorium_Area4
+brick_Manual_Auto_Status
+AHU Discharge Fan VFD Speed Sensor
+brick_Heating_Supply_Air_Temperature_Proportional_Band
+brick_Return_Air_CO2_Setpoint
+rice_Medium_Temp_HW_Returnpgm1UIP24
+brick_CWS_Chilled_Water_Differential_Pressure_Proportional_Band_Setpoint
+VAV Occupancy Status
+brick_Supply_Air_Temperature_Heating_Setpoint
+AHU Exhaust Air Temperature Sensor
+Discharge Air Temperature Reset Low
+AHU Static Pressure Min Setpoint
+AHU Outside Air Grains Sensor
+Indicates if it is in manual or auto mode.
+Power System
+brick_Heating_Supply_Air_Flow
+Handler
+rice_Room242
+Current Sensor
+btag_Weather
+Ready
+rice_RMI506_Space_Temperature_Perimeter
+brick_Filter
+brick_Fire_Control_Panel_LED_Status
+brick_Return_Fan_VFD_Speed_Setpoint
+Zone Temperature Setpoint
+btag_Adjust
+owl_Ontology
+brick_Space
+A general purpose flow sensor
+btag_VAV
+AHU Supply Air Flow Demand Setpoint
+rice_ductPressOptMaxPos2nd_Floor_Perimeter_Devices_VAS1
+brick_Discharge_Air_Static_Pressure
+btag_Exhaust_Fan
+Resource
+Domain TagSet Definition
+rice_operatingModeA2nd_Floor_Area1
+Emergency Push Button
+btag_Steam_System
+Lowest
+Medium Temperature Hot Water Discharge Temperature
+Medium
+Water_System DI Water Alarm
+brick_MeasurementProperty
+btag_Safety
+AHU Cooling Request Setpoint
+brick_Chilled_Water_Differential_Pressure_Load_Shed_Reset_Status
+brick_Max_Chilled_Water_Differential_Pressure
+brick_DHWS_Domestic_Hot_Water_System_Start_Stop_Command
+btag_Solar_Panel
+Occupied Cooling Temperature Dead Band
+brick_Computer_Room_Air_Conditioning
+brick_Humidify_Command
+Min Fresh Air Setpoint
+rice_TEMP3_Space_Temperature_RMI017
+VAV Heating Demand Setpoint
+brick_Grains
+brick_HWS_High_Temperature_Hot_Water_Return_Temperature_Sensor
+Heat_Exchanger Outside Air Temperature Low Reset Setpoint
+AHU Highest Zone Cooling Command
+Freeze Protect Temperature Low Limit Setpoint
+brick_VAV_Booster_Fan_Air_Flow_Sensor
+Run Direction Command
+btag_Condensor
+Supply Water Temperature
+Protect
+brick_Supply_Air_Smoke_Detected
+Shutdown Hot Water When Unoccupied Command
+Chilled Water Supply Temperature Sensor
+Thumbwheel Temperature Low Limit Setpoint
+rice_Exhaust_Air_Tempdac4UIP22
+Average Temperature
+Chilled Water Static Pressure Setpoint
+bf_FunctionBlock
+Button
+brick_HWS_Shutdown_Hot_Water_When_Unoccupied_Command
+brick_Battery_Voltage
+Supply Air Static Pressure Increase Decrease Step
+brick_Heat_Wheel_VFD
+rice_spaceHumidityABasement_Area2
+Occupied
+VFD Maintenance Required Alarm
+Return Fan Command
+brick_Economizer_Enable_Differential_Temperature
+brick_Economizer_Discharge_Air_Temperature_Dead_Band_Setpoint
+CWS Chilled Water Pump Differential Pressure Dead Band Setpoint
+HVAC Highest Zone Cooling Command
+brick_VFD_DC_Bus_Voltage_Sensor
+Condensate Leak
+VAV Heating Command
+Heating Supply Air Flow
+VAV Unoccupied Cooling Supply Air Flow Setpoint
+btag_Start
+VFD Power Meter
+Occupied Cooling Max Discharge Air Flow
+AHU Heating Supply Air Temperature Proportional Band Setpoint
+Cooling Min Supply Air Flow Setpoint
+brick_VAV_Supply_Air_Duct_Pressure_Status
+Cooling Max Discharge Air Flow
+btag_Freeze
+Chilled Water Differential Pressure Proportional Band Setpoint
+rice_ventRatioLimitVavV1st_Floor_Chilled_Beam_VAS2
+brick_AHU_CO2_High_Alarm
+CRAC Standby Fan Status
+Supply_Fan Supply Air Static Pressure Proportional Band Setpoint
+rice_Exhaust_Air_Humiditydac4UIP21
+FCU Fan Status
+brick_VFD_Drive_Temperature_Sensor
+Sensor for the measurement of carbon dioxide gas.
+brick_Chilled_Water_Supply_Flow_Sensor
+Space Heater
+brick_High_Temperature_Hot_Water_Discharge_Temperature_Sensor
+rice_economizerEnableDifferentialDryBulbA1st_Floor_Area1
+Max Chilled Water Differential Pressure
+brick_Exhaust_Air_Stack_Flow_Proportional_Band_Setpoint
+Humidification On Off
+brick_VAV_Unoccupied_Cooling_Supply_Air_Flow_Setpoint
+rice_VAV8
+Emergency Power Off Switch
+Supply Air Static Pressure Increase Decrease Step Setpoint
+brick_Exhaust_Fan_Velocity_Pressure_Setpoint
+brick_Direction_Command
+rice_Zone_Temp_3_RMI103
+brick_Supply_Fan_Discharge_Air_Static_Pressure_Integral_Time_Setpoint
+brick_Air_Flow_Loss
+rice_Zone_Temp_3_RMI107
+Occupied Heating Discharge Air Flow
+brick_AHU_Heating_Demand_Setpoint
+btag_Unit
+AHU VFD Enable Command
+brick_AHU_CO2_Differential_Sensor
+Coldest Temperature
+rice_averageSpaceTemperatureA1st_Floor_Area1
+brick_Supply_Air_Humidity
+Emergency Air Flow
+brick_Cooling_Coil_Supply_Air_Temperature
+Standby Glycool Unit On Off
+AHU Supply Air Static Pressure Integral Time Setpoint
+brick_Occupied_Heating_Min_Discharge_Air_Flow_Setpoint
+PV Current Output Sensor
+Stages Status
+rice_Zone_Temp_3_Rm_I224
+btag_Fixed
+Frost
+brick_HWS_Medium_Temperature_Hot_Water_Discharge_Temperature_Sensor
+Effective Heating Temperature
+VAV Cooling Request Setpoint
+Binary value indicating if emergency air flow is on/off
+btag_Equipment
+brick_Running_Hour_Sensor
+btag_Digital
+Dewpoint Sensor
+rice_Mixed_Air_Tempdac2UIP03
+rice_operatingModeV3rd_Floor_CB_VAS2
+btag_Space
+brick_Supply_Fan_Start_Stop_Command
+btag_Run
+Hot Water Pump Start Stop
+brick_VAV_Booster_Fan_Start_Stop_Command
+AHU Mixed Air Damper Position Command
+brick_Heat_Exchanger_Supply_Water_Temperature_Integral_Time_Setpoint
+btag_Wheel
+Fan Overload
+brick_CRAC_Run_Status
+CRAC Humidification On Off Status
+Hot Water Differential Pressure Integral Time
+Humidity Sensor
+Humidifier Fault Status
+brick_Hot_Water_Static_Pressure
+btag_Thermostat
+Occupied Heating Max Discharge Air Flow
+brick_Fan_Status
+VAV Cooling Min Supply Air Flow Setpoint
+brick_Discharge_Air_Humidity
+brick_AHU_Economizer_Outside_Air_Flow_Setpoint
+Exhaust Air Stack Flow Proportional Band Setpoint
+rice_ventRatioLimitAhuV1st_Floor_Chilled_Beam_VAS2
+HWS Hot Water Pump VFD Speed Command
+brick_Supply_Air_Damper_Max_Position_Setpoint
+Domestic Hot Water Supply Temperature Setpoint
+AHU Discharge Air Temperature Cooling Setpoint
+brick_Differential_Pressure_Proportional_Band_Setpoint
+brick_Cooling_Supply_Air_Temperature_Proportional_Band
+brick_AHU_Heat_Wheel_Differential_Pressure_Sensor
+Chiller Supply Water Temperature Alarm
+rice_AHU_5
+brick_Occupied_Heating_Discharge_Air_Flow
+brick_Return_Discharge_Fan_Differential_Speed_Setpoint
+rice_Chilled_Water_Supply_Temperature
+Economizer Dewpoint Setpoint
+Decrease
+brick_VAV_Zone_Air_Temperature_Sensor
+Mixed Air Damper Position Command
+brick_Chilled_Water_Pump_Lead_Lag
+Outside Air Damper Min Position Setpoint
+brick_Point
+Return Air Temperature Low Limit
+brick_Exhaust_Air_Temperature_Sensor
+brick_VAV_Occupied_Cooling_Supply_Air_Flow_Setpoint
+Mixed Air Damper Position
+rice_HW_Return_Mag_Temp1
+rice_economizerDisableFixedDewPointABasement_Area2
+brick_Exhaust_Fan_Exhaust_Air_Static_Pressure_Integral_Time_Setpoint
+rice_RICE
+brick_VAV_Discharge_Air_Temperature_Cooling_Setpoint
+Yearly Steam Usage
+brick_Cooling_Thermal_Power_Meter
+rice_occupancyStatusABasement_Area2
+brick_Hot_Water_Pump_Lead_Lag_Command
+Fume_Hood Emergency Air Flow Status
+brick_AHU_Supply_Air_Smoke_Detected_Alarm
+btag_Bus
+btag_Location
+Discharge Air Velocity Pressure
+Differential Pressure
+brick_AHU_Supply_Air_Temperature_Reset_Differential_Setpoint
+brick_Discharge_Air_Temperature_Cooling_Setpoint
+rice_TEMP1_Space_Temperature_RMI102
+brick_VFD_Motor_Power_Meter
+rice_TEMP1_Space_Temperature_RMI106
+btag_Pump
+Change Filter Alarm
+Command to reset fault status after fixed by operator
+Return Fan Air Flow Sensor
+Power
+brick_Speed
+bf_similarTagSet
+brick_Heat_Wheel_Differential_Pressure
+VAV Occupied Command
+brick_VAV_Heating_Discharge_Air_Flow_Setpoint
+btag_Lighting
+btag_Max
+brick_VAV_Booster_Fan_Air_Flow_Setpoint
+brick_Hot_Water_Pump_Start_Stop
+btag_Volume
+rice_RMI507_Space_Temperature_Perimeter
+brick_VFD_Motor_Start_Stop_Status
+btag_Head
+Liquid Detected Alarm
+brick_Chilled_Water_Differential_Pressure_Load_Shed_Setpoint
+brick_AHU_Outside_Air_Dewpoint_Sensor
+brick_Desk
+AHU Exhaust Fan Overridden On Status
+Booster
+brick_Pump_Status
+Hand
+btag_Hold
+btag_Chiller
+Exhaust Air Flow
+btag_Relative
+Heat Exchanger Discharge Water Temperature Dead Band Setpoint
+Standby Load Shed
+btag_Yearly
+brick_AHU_Discharge_Fan_Start_Stop_Command
+brick_Min_Discharge_Air_Temperature_Setpoint
+brick_CRAC_Water_Loss_Alarm
+Static Pressure Proportional Band Setpoint
+btag_Chilled
+AHU Auto Cooling Temperature Setpoint
+bf_isOutputOf
+brick_AHU_Min_VFD_Speed_Setpoint
+Fresh
+A general purpose pressure sensor
+brick_Low_Air_Temperature_Enable_Differential
+rice_CHW_Main_Supply_Temp_T3
+Low Outside Air Temperature Enable Differential Sensor
+brick_AHU_Occupied_Mode_Status
+btag_Push
+brick_Booster_Command
+rice_TEMP3_Space_Temperature_RM_210
+VAV Cooling Max Supply Air Flow Setpoint
+brick_Chilled_Water_Bypass_Valve_Command
+brick_Medium_Temperature_Hot_Water_Discharge_Temperature
+brick_Min_Supply_Air_Temperature_Setpoint
+Lighting
+brick_High_Temperature_Hot_Water_Discharge_Temperature
+brick_Return_Air_CO2_Sensor
+btag_Supply
+Fire Control Panel
+AHU Supply Air Temperature Setpoint
+Supply_Fan Fan Speed Reset Command
+brick_Cooling_Discharge_Air_Temperature_Integral_Time_Setpoint
+Speed
+brick_Exhaust_Air_Velocity_Pressure_Sensor
+brick_AHU_Warmest_Zone_Temperature_Sensor
+Return Air Humidity Sensor
+Ratio
+HWS Heat Exchanger Discharge Water Temperature Proportional Band Setpoint
+rice_economizerDisableDifferentialDryBulbABasement_Area2
+brick_FCU_Discharge_Air_Temperature_Cooling_Setpoint
+AHU Supply Air Temperature Setpoint Increase Decrease Step
+Occupancy
+brick_Heating_Supply_Air_Temperature_Integral_Time_Setpoint
+brick_Chilled_Water_Pump_Start_Stop_Command
+Wind Speed Sensor
+btag_Duration
+brick_Average_Supply_Air_Flow
+brick_Discharge_Air_Smoke_Detected_Alarm
+Cooling Supply Air Temperature Integral Time
+brick_Exhaust_Air_Temperature
+bf_equivalentTagSet
+Sensor
+brick_Economizer_Enthalpy_Setpoint
+brick_Cold_Box_Temperature_Sensor
+btag_Code
+brick_Boiler_Run_Time_Sensor
+rice_AHU_3
+Exhaust Fan Fire Control Panel On Command
+High Humidity Alarm Setpoint
+brick_DI_Water_Level_Sensor
+Booster Fan Air Flow Setpoint
+owl_ObjectProperty
+brick_Discharge_Air_Flow_Setpoint
+rice_economizerStatusABasement_Area2
+brick_Freeze_Protect_Low_Limit
+Heat Exchanger Supply Water Temperature Dead Band
+Cooling Discharge Air Flow Setpoint
+brick_Min_Discharge_Air_Static_Pressure
+Thermal Energy Storage Supply Water Differential Pressure Dead Band Setpoint
+rice_CHW_System_Return_Temppgm2UIP20
+Air Damper Close Limit
+brick_Exhaust_Air_Damper
+rice_Zone_Temp_3_RMI128
+Discharge Air Static Pressure Increase Decrease Step Setpoint
+brick_Supply_Fan_Air_Flow
+Domestic Hot Water Supply Temperature
+Maintenance Mode Command
+Return Air Grains Sensor
+brick_Damper_Position
+brick_AHU_Heating_Discharge_Air_Temperature_Proportional_Band_Setpoint
+btag_Trace
+rice_economizerEnableDifferentialEnthalpyA1st_Floor_Area1
+brick_System_Enable_Command
+Power_System Power Meter
+Booster Fan Air Flow
+Dual Band Mode Setpoint
+Discharge Fan VFD Speed Sensor
+Occupancy Status
+brick_FCU_Discharge_Air_Temperature_Heating_Setpoint
+VAV Discharge Air Flow Command
+Automatic
+rice_VAV_211_HW_Supply_Temp
+Exhaust Air Stack Flow Integral Time Setpoint
+Exhaust Fan Command
+rice_economizerEnableFixedEnthalpyA5th_Floor_Area1
+brick_AHU_Lowest_Zone_Temperature_Sensor
+Hot Water Pump Start Stop Command
+brick_AHU_Discharge_Air_Temperature_Cooling_Setpoint
+rice_operatingMode5th_Floor_Perimeter_Devices_VAS2
+brick_Exhaust_Fan_Fan_Air_Flow_Sensor
+brick_Occupied_Heating_Max_Discharge_Air_Flow
+brick_Hot_Water_Supply_Temperature_Low_Reset_Setpoint
+AHU Zone Air Temperature Sensor
+rice_RMI513_Zone_Temp_2
+brick_CRAC_Humidifier_Fault_Status
+brick_Return_Air_Temperature_High_Limit_Alarm
+Effective Cooling Temperature
+brick_CWS_Max_Chilled_Water_Differential_Pressure_Setpoint
+Air Enthalpy
+AHU Outside Air Temperature Low Reset Setpoint
+brick_Emergency_Power_Off_Switch_Command
+Exhaust Fan Status
+brick_FCU_Return_Fan_VFD_Speed_Command
+rice_occupancyStatus5th_Floor_Chilled_Beam_VAS1
+Frequency Command
+Water_System Pump Start Stop Status
+Hot Water Supply Temperature
+brick_Water_System_Cooling_Tower_Fan_Speed_Setpoint
+brick_FCU_Discharge_Air_Temperature_Sensor
+Leaving
+btag_Decrease
+rice_RmI504_Space_Temperature_Perimeter
+brick_Rain_Duration_Sensor
+brick_Enable_Command
+Supply Air Temperature Increase Decrease Step
+brick_High_Temperature
+brick_AHU_Discharge_Air_Temperature_High_Limit_Alarm
+Discharge Air Velocity Pressure Sensor
+Thumbwheel Temperature High Limit
+HWS Hot Water Differential Pressure Proportional Band Setpoint
+DC Bus Voltage
+btag_Economizer
+brick_Discharge_Fan_Air_Flow
+AHU Return Air Humidity Sensor
+brick_VAV_Thermostat_Adjust_Sensor
+rice_Space_CO2_Concentration_Local
+Cold Box
+rice_Mixed_Air_Tempdac3UIP03
+AHU Heating Discharge Air Temperature Integral Time Setpoint
+brick_AHU_Economizer_Status
+Water Loss
+Supply Fan VFD Speed Status
+Chilled Water Pump VFD Speed Command
+rice_VAV_211_HW_Return_Temp
+AHU Bypass Air Flow Sensor
+Proportional Band Setpoint
+brick_Low_Humidity_Alarm
+Occupied Heating Max Supply Air Flow Setpoint
+brick_Emergency_Power_Off_System_Enable_Status
+Condensate Leak Alarm
+brick_Luminance_Sensor
+Exhaust Air Flow Integral Time Setpoint
+Max Return Air CO2 Setpoint
+brick_Air_Lockout_Temperature
+Chilled Valve Pressure
+VAV Damper Command
+brick_Chilled_Water_Differential_Pressure_Load_Shed_Reset
+brick_AHU_Occupancy_Command
+brick_Motor_Power
+brick_Low_Outside_Air_Temperature_Enable_Setpoint
+rice_Room252
+DemandResponse Standby Load Shed Command
+VAV Zone Air Temperature Sensor
+DemandResponse Medium Temperature Hot Water Differential Pressure Load Shed Reset Status
+Outside Air Damper Position Command
+brick_Cooling_Valve_Command
+rice_Room160
+btag_Inverter
+brick_Smoke_Detected_Alarm
+brick_AHU_Exhaust_Fan_Start_Stop_Status
+Pump Start Stop Command
+brick_CRAC_Emergency_Power_Off_Enable_Status
+VAV Unoccupied Cooling Discharge Air Flow Setpoint
+VFD Start Stop Command
+Alarm to change dirty filter
+brick_AHU_Supply_Air_Temperature_Setpoint_Increase_Decrease_Step
+Supply Air Temperature High Limit Alarm
+brick_Fan_Command
+brick_Battery_Voltage_Sensor
+Water Flow Sensor
+Server
+Economizer Disable Fixed Dewpoint
+On Off Command
+btag_Dew
+High Temperature Hot Water Return Temperature
+rice_Space_Humidity_Activescc2AV019
+Discharge Air Static Pressure Proportional Band Setpoint
+Max VFD Speed
+Medium Temperature Hot Water Discharge Temperature High Reset
+brick_Emergency_Air_Flow_Command
+Relative Humidity Sensor
+brick_Economizer_Damper_Min_Position
+brick_Heating_Discharge_Air_Flow_Setpoint
+Cooling Request
+Economizer Disable Fixed Temperature Setpoint
+brick_CRAC_Start_Stop_Status
+Run Direction
+Medium Temperature Hot Water Discharge Temperature Load Shed Setpoint
+Zone Standby Load Shed Command
+DemandResponse Medium Temperature Hot Water Supply Temperature Load Shed Setpoint
+brick_Return_Fan
+brick_VAV_Return_Air_Temperature_Sensor
+Deceleration Time Setpoint
+brick_AHU_Supply_Air_Proportional_Gain_Factor
+FCU Discharge Air Temperature Setpoint
+rice_Occupied_Standby_Offsetscc2
+brick_AHU_Return_Air_Humidity_Sensor
+brick_Fan
+btag_Panel
+brick_Exhaust_Fan_Piezoelectric
+Exhaust Fan System Enable
+Lighting_System Luminance Sensor
+Domestic Hot Water System
+Chilled Water Discharge Flow
+btag_Outside
+Exhaust Fan Enable
+brick_Steam_System
+Temperature
+Medium Temperature Hot Water Return Temperature
+Smoke Detected
+brick_Static_Pressure_Proportional_Band_Setpoint
+btag_Month
+brick_Domestic_Hot_Water_System_Enable_Command
+brick_Supply_Air_Static_Pressure_Integral_Time_Setpoint
+brick_VFD_Max_Frequency_Command
+Supply Fan Start Stop Status
+VAV Supply Air Velocity Pressure Sensor
+Economizer Enable Fixed Enthalpy Setpoint
+CRAC Standby Unit On Off Status
+brick_Occupied_Cooling_Min_Discharge_Air_Flow
+btag_Ventilation
+brick_Supply_Fan_Start_Stop
+brick_Photovoltaic_Current_Output_Sensor
+rice_operatingModeARoom_305_Area2
+brick_Solar_Panel_Solar_Zenith_Angle_Sensor
+Heating Discharge Air Flow Setpoint
+VAV Discharge Air Temperature Cooling Setpoint
+brick_Discharge_Water_Differential_Pressure_Integral_Time
+brick_Hand_Auto
+brick_Power_System_Peak_Power_Demand_Sensor
+Hot Water Differential Pressure Dead Band Setpoint
+brick_Economizer_Disable_Fixed_Dewpoint_Setpoint
+brick_Deionised_Water_Alarm
+Fan Run Request
+brick_CWS_Chilled_Water_Pump_Enable_Status
+brick_Cooling_Coil_Discharge_Air_Temperature
+brick_Preheat_Coil_Leaving_Water_Temperature
+brick_Hot_Water_Coil_Entering_Temperature_Sensor
+AHU Average Exhaust Air Static Pressure Sensor
+HWS Disable Hot Water System Outside Air Temperature Setpoint
+AHU Heat Exchanger System Enable Status
+brick_AHU_Max_Return_Air_CO2_Setpoint
+HWS Heat Exchanger Supply Water Temperature Integral Time Setpoint
+Outside Air Damper Close Limit Setpoint
+Mixed Air Temperature Sensor
+Fan
+brick_Cooling_Command
+Discharge Fan
+brick_AHU_Max_Supply_Air_Static_Pressure_Setpoint
+"Signal, either audible or visual, or both, that alerts an operator to an off-normal condition which requires some form of corrective action. (adopted from ASHRAE dictionary)"
+rice_Leave_CDQ_Supply_Tempscc2UIP27
+Dual Band Mode
+rice_ventRatioLimitVavV2nd_Floor_Perimeter_Devices_VAS1
+Liquid
+brick_Water_Flow_Sensor
+Exhaust Fan Piezoelectric
+brick_Chilled_Water_Temperature_Differential_Sensor
+brick_AHU_System_Enable_Command
+brick_Economizer_Outside_Air_Flow_Setpoint
+rice_Return_Air_Tempdac2UIP28
+brick_VFD_Filter_Reset_Command
+brick_FCU_Supply_Fan_VFD_Speed_Command
+Discharge Water Differential Pressure Integral Time
+brick_Pressure
+rice_Discharge_Air_Temperature
+brick_Chilled_Water_Pump_Alarm_Delay_Setpoint
+brick_Heating_Request_Percent_Setpoint
+brick_Lighting_System_Luminance_Setpoint
+brick_Motor_Start_Stop_Status
+Current
+brick_Heating_Discharge_Air_Temperature_Dead_Band
+brick_Exhaust_Fan_Enable
+Stream
+rice_diagnosticAlarmPresentA1st_Floor_Area1
+Photovoltaic Current Output
+brick_Heat_Exchanger_Discharge_Water_Temperature_Integral_Time_Setpoint
+Discharge Air Static Pressure Integral Time Setpoint
+FCU Return Fan VFD Speed Status
+brick_Air_Flow_Setpoint
+rice_RMI509_Zone_Temp_4
+By
+Zone Cooling Temperature Setpoint
+AHU Economizer Damper Min Position Setpoint
+Unit Failed
+Change
+rice_Entering_Water_Temperaturewshp2
+brick_AHU_Discharge_Air_Temperature_Reset_Low_Setpoint
+VAV Supply Air Temperature Setpoint
+Peak Energy Today Meter
+Max Frequency Command
+brick_PIR
+Automatic Mode
+Chilled Water Differential Pressure Integral Time
+Automatic Mode Command
+Weather Rain Duration Sensor
+brick_High_Temperature_Hot_Water_Return_Temperature
+brick_VAV_Hot_Water_Valve_Command
+rice_economizerStatusA5th_Floor_Area1
+AHU Off Status LED
+Motor Start Stop
+brick_Change_Filter_Alarm
+brick_Fume_Hood_Emergency_Push_Button_Status
+brick_Supply_Water_Temperature_Setpoint
+brick_Medium_Temperature_Hot_Water_Discharge_Temperature_Low_Reset
+btag_Water
+On Timer Sensor
+High Temperature Alarm Setpoint
+AHU Exhaust Fan Disable Command
+High
+brick_Overridden_On
+btag_Humidifier
+Cooling On Off Status
+DemandResponse Medium Temperature Hot Water Differential Pressure Load Shed Setpoint
+brick_Supply_Water_Temperature_Proportional_Band_Setpoint
+Cooling Discharge Air Temperature Integral Time Setpoint
+brick_Schedule_Temperature
+AHU Supply Fan Start Stop Command
+brick_Occupied_Heating_Min_Supply_Air_Flow_Setpoint
+Economizer Outside Air Flow Setpoint
+brick_FCU_System_Status
+Occupied Cooling Min Supply Air Flow Setpoint
+Solar Zenith Angle
+rice_ER_PHRH_Water_Temppgm2UIP03
+brick_Hot_Water_System
+bf_hasToken
+brick_Communication_Loss
+AHU Frost Sensor
+brick_AHU_Static_Pressure_Min_Setpoint
+btag_Disable
+brick_High_Temperature_Hot_Water_Return_Temperature_Sensor
+Luminance Command
+Return Supply Fan Differential Speed Setpoint
+Discharge Air Flow Reset Low Setpoint
+brick_Exhaust_Fan_On_Status_LED
+AHU Outside Air Temperature High Reset Setpoint
+brick_Humidity_Setpoint
+Occupied Cooling Temperature Setpoint
+brick_FCU_Fault_Status
+AHU Discharge Air Flow Reset Low Setpoint
+Motor
+brick_Max_Return_Air_CO2
+brick_Economizer_Discharge_Air_Temperature_Dead_Band
+brick_Fire_Control_Panel_AHU_On_Status_LED
+Supply_Fan Fan Air Flow Sensor
+brick_Emergency_Generator
+Supply Air Humidity Sensor
+brick_VAV_Supply_Air_Flow_Setpoint
+brick_Supply_Air_Velocity_Pressure
+VAV Supply Air Flow Command
+brick_AHU_Building_Exhaust_Fans_Stage_Command
+brick_Flow_Sensor
+rice_FCU_CHW_Return_Temppgm2UIP16
+Remotely On Off Status
+Heating Supply Air Flow Setpoint
+Supply Air Temperature Heating
+brick_AHU_Low_Outside_Air_Temperature_Enable_Setpoint
+btag_Fans
+Air Grains
+Booster Fan Command
+rice_2_Mag_HW_Supply_Temp
+Radiance
+brick_Steam_System_Yearly_Steam_Usage_Meter
+Turn Off Status
+brick_Lead_Lag
+VFD Motor Direction Command
+Supply_Fan Supply Air Static Pressure Integral Time Setpoint
+brick_Max_Discharge_Air_Static_Pressure
+rice_AHU1_PreHeat_Coil_Temp
+brick_Economizer_Discharge_Air_Temperature_Proportional_Band
+Discharge Air Static Pressure Dead Band
+Air flow measurements specific to a fan
+brick_Discharge_Air_Static_Pressure_Proportional_Band
+brick_Unoccupied_Mode
+rice_Return_Airflow_CFM
+Floor
+VAV Occupancy Command
+brick_Standby_Fan_Status
+Bypass Damper Position Sensor
+brick_Exhaust_Fan_Overridden_On
+brick_HWS_Hot_Water_Differential_Pressure_Dead_Band_Setpoint
+Communication Loss Alarm
+Dehumidification On Off Status
+brick_Standby_CRAC_Unit
+Water_System Valve Command
+brick_Discharge_Air_Temperature_Setpoint
+Supply Air
+Water Discharge Temperature
+brick_Chilled_Valve_Pressure_Sensor
+brick_On_Off_Status
+brick_CRAC_Humidity_Setpoint
+Heating Ventilation Air Conditioning System
+Roof
+Open Heating Valve Outside Air Temperature Setpoint
+rice_TEMP1_Space_Temperature_RMI203
+Fans
+Voltage Sensor
+Electrical Power
+rice_TEMP1_Space_Temperature_RMI204
+rice_TEMP1_Space_Temperature_RMI208
+btag_Warmest
+brick_Unoccupied_Mode_Setpoint
+rice_Hot_Water_Supply_Temperature
+AHU Static Pressure Max Setpoint
+brick_Economizer_Enable_Differential_Enthalpy
+Domestic Hot Water System Start Stop Command
+brick_Domestic_Hot_Water_System_Start_Stop
+Hot Water System Enable Command
+brick_Bypass_Air_Flow
+brick_DI_Water_Level
+brick_Supply_Air_Static_Pressure_Setpoint
+brick_AHU_Exhaust_Air_Temperature_Sensor
+PID
+rice_occupiedOffsetA1st_Floor_Area1
+brick_Zone_Air_Temperature_Sensor
+Heat Wheel VFD
+btag_Protect
+Coldest Zone Temperature Sensor
+brick_Water_Discharge_Temperature_Sensor
+Glycool
+brick_AHU_Heating_Request_Setpoint
+rice_CB_Return_Temp_RMI308
+brick_Boiler_On_Off_Status
+Supply Air Humidity
+rice_economizerDisableFixedEnthalpyA2nd_Floor_Area1
+Rain Sensor
+On
+brick_Relative_Humidity
+brick_Dual_Band_Mode_Setpoint
+brick_DHWS_Domestic_Hot_Water_Discharge_Temperature_Sensor
+brick_Rated_Speed
+brick_AHU_Off_Status_LED
+Emergency Power Loss
+Supply Air Velocity Pressure
+bf_TagSet
+AHU Curtailment Override Command
+Occupied Mode
+Zone Heating Temperature Setpoint
+brick_AHU_System_Shutdown_Command
+HVAC Lowest Zone Temperature Sensor
+Lowest Exhaust Air Static Pressure Sensor
+Water Level Sensor
+brick_HWS_Heat_Exchanger_Supply_Water_Temperature_Proportional_Band_Setpoint
+brick_DemandResponse_Medium_Temperature_Hot_Water_Differential_Pressure_Load_Shed_Setpoint
+brick_VFD_Run_Enable_Status
+rice_Space_CO2_level_RM242
+brick_AHU
+brick_Economizer_Enable_Fixed_Enthalpy
+Economizer Mode
+brick_Supply_Air_Static_Pressure_Proportional_Band_Setpoint
+brick_Chilled_Water_Differential_Pressure_Load_Shed_Status
+brick_AHU_Condensate_Leak_Alarm
+rice_occupancyStatusARoom_306_Area3
+brick_AHU_Heating_Discharge_Air_Temperature_Dead_Band_Setpoint
+brick_AHU_Min_Discharge_Air_Static_Pressure_Setpoint
+brick_CWS_Chilled_Water_Discharge_Temperature_Sensor
+Heat Exchanger Valve
+FCU Zone Temperature Sensor
+btag_Pressure
+Dead Band Setpoint
+bf_feeds
+brick_Unknown
+VFD Acceleration Time Setpoint
+brick_Floor
+Chilled Water Discharge Temperature Sensor
+PIR Sensor
+brick_CRAC_Air_Flow_Loss_Alarm
+Exhaust_Fan Velocity Pressure Setpoint
+Cooling Valve
+brick_Medium_Temperature_Hot_Water_Supply_Temperature_Load_Shed
+brick_Discharge_Water_Differential_Pressure_Proportional_Band
+brick_Cooling_Coil_Discharge_Air_Temperature_Sensor
+btag_Integral
+brick_HWS_Heat_Exchanger_Discharge_Water_Temperature_Sensor
+bf_hasPart
+Humidifier
+brick_Disable_Status
+brick_CRAC_Cooling_On_Off_Status
+Enable Hot Water System Air Temperature
+brick_Wind_Direction
+Fan Start Stop Status
+High Temperature Hot Water
+rice_economizerStatusAAuditorium_Area4
+btag_Valve
+Emergency Power Off Enable Status
+brick_AHU_Return_Discharge_Fan_Differential_Speed_Setpoint
+brick_HX
+Cooling Tower Fan Speed Setpoint
+brick_AHU_Discharge_Air_Flow_Reset_High_Setpoint
+AHU Exhaust Fan Fire Control Panel On Command
+brick_AHU_Outside_Air_Temperature_Sensor
+Highest Cooling
+brick_Economizer_Supply_Air_Temperature_Dead_Band
+Load Current
+Fire
+btag_Zenith
+AHU Cooling Discharge Air Temperature Integral Time Setpoint
+brick_Discharge_Air_Smoke_Detected
+brick_CRAC_Low_Temperature_Alarm
+brick_AHU_Heating_Discharge_Air_Temperature_Integral_Time_Setpoint
+brick_HWS_Medium_Temperature_Hot_Water_Differential_Pressure_Sensor
+btag_Condenser
+Chilled Water Pump Differential Pressure Proportional Band
+brick_Min_Discharge_Air_Temperature
+btag_Fault
+brick_Cooling_Valve
+Fault
+Return Air Dewpoint Sensor
+Economizer Disable Differential Enthalpy Setpoint
+brick_Disable_Hot_Water_System_Outside_Air_Temperature_Setpoint
+AHU Discharge Air Temperature High Limit Alarm
+CWS
+brick_Supply_Air_Temperature_Setpoint
+brick_Exhaust_Fan_Piezoelectric_Sensor
+Box
+FCU Discharge Air Temperature Sensor
+brick_Dual_Band_Mode
+brick_Max_Load
+brick_Low_Temperature
+Occupied Cooling Supply Air Flow Setpoint
+brick_DemandResponse_Unoccupied_Load_Shed_Command
+Exhaust Fan VFD Speed Command
+Trace Heat Sensor
+brick_Differential_Temperature
+brick_Cooling_On_Off
+Solar Radiance Sensor
+brick_Exhaust_Air_Flow_Dead_Band_Setpoint
+brick_AHU_Supply_Air_Static_Pressure_Integral_Time_Setpoint
+rice_spaceSensorARoom_306_Area3
+Exhaust Air Damper
+brick_VFD_Run_Direction_Status
+Heating Supply Air Temperature Integral Time
+brick_Supply_Air_Temperature_Heating
+Chilled Water Pump VFD Speed
+brick_VAV_Schedule_Temperature_Setpoint
+Demand Response
+brick_Yearly_Steam_Usage_Meter
+brick_Supply_Water_Differential_Pressure_Integral_Time_Setpoint
+AHU Underfloor Temperature Sensor
+bf_isPartOf
+btag_Warm
+DHWS Domestic Hot Water System Enable Command
+rice_TEMP1_Space_Temperature_Perm_Rm_I228
+rice_West_Space_Humidityscc2UIP20
+brick_Supply_Air_Static_Pressure_Dead_Band_Setpoint
+bf_UnobservedSignal
+brick_HWS_Disable_Hot_Water_System_Outside_Air_Temperature_Setpoint
+Hot Water Pump Alarm
+brick_Discharge_Air_Static_Pressure_Proportional_Band_Setpoint
+brick_Fan_Speed_Reset
+brick_Hot_Water_Supply_Temperature_Sensor
+rice_systemMode1st_Foor_Perimeter_Devices_VAS1
+VAV Heating Max Discharge Air Flow Setpoint
+brick_AHU_Discharge_Air_Static_Pressure_Proportional_Band_Setpoint
+HWS Hot Water Supply Temperature Sensor
+bf_Signal
+brick_Heat_Exchanger_Discharge_Water_Temperature_Integral_Time
+rice_Humidity_1
+Cooling Supply Air Temperature Dead Band Setpoint
+Heating Thermal Power
+btag_CRAC
+Heating Min Supply Air Flow Setpoint
+brick_AHU_Outside_Air_Grains_Sensor
+Medium Temperature Hot Water Supply Temperature Low Reset
+Medium Temperature Hot Water Supply Temperature Sensor
+rice_Room534
+rice_Room7
+rice_Room536
+brick_Standby_Load_Shed
+brick_AHU_Max_Discharge_Air_Temperature_Setpoint
+rice_TEMP4_Space_Temperature_RMI019
+rice_Room532
+brick_Low_Humidity
+rice_Zone_Humidity_2_CORRNWSHS
+AHU Exhaust Fan System Enable Command
+Ice Tank Entering Water Temperature Sensor
+btag_Change
+brick_Occupied_Cooling_Discharge_Air_Flow_Setpoint
+Off
+brick_Load_Shed_Supply_Water_Temperature_Setpoint
+brick_Fault_Reset
+rice_2nd_Floor_HW_Return_Temp
+brick_Output_Voltage_Sensor
+brick_Pump_Start_Stop_Command
+brick_Vent_Operating_Mode_Status
+HWS Heat Exchanger Supply Water Temperature Dead Band Setpoint
+brick_VAV_Occupied_Cooling_Temperature_Setpoint
+AHU Mixed Air Temperature Setpoint
+Cooling Max Supply Air Flow
+rice_Space_Humidity_Activedac2
+brick_Cooling_Demand
+rice_Return_Air_Humiditydac3UIP21
+DI Water Level
+brick_VAV_Vent_Operating_Mode_Status
+btag_Heating
+Even Month Status
+brick_Valve_Status
+brick_HWS_Open_Heating_Valve_Outside_Air_Temperature_Setpoint
+brick_VAV_Effective_Heating_Temperature_Setpoint
+Perimeter Heating Valve Command
+brick_AHU_Economizer_Supply_Air_Temperature_Proportional_Band_Setpoint
+brick_Return_Fan_VFD_Speed_Command
+Setpoint for max current consumed by VFD
+btag_Detected
+DI
+Box Mode Command
+Analog
+Hot Water Static Pressure
+FCU Discharge Air Temperature Cooling Setpoint
+brick_Supply_Air_Static_Pressure_Increase_Decrease_Step_Setpoint
+VFD Enable Command
+Temperature Tolerance
+brick_AHU_Cooling_Discharge_Air_Temperature_Proportional_Band_Setpoint
+Filter
+High Temperature Hot Water Discharge Temperature
+brick_AHU_Filter_Status
+Overridden Status
+brick_Emergency_Power_Off
+brick_Standby_Glycool_Unit_On_Off_Status
+brick_CWS_Supply_Water_Temperature_Setpoint
+brick_Deionised_Water_Level_Sensor
+Command to change VFD direction
+Hot Water Pump Lead Lag Command
+brick_Medium_Temperature_Hot_Water_Discharge_Temperature_Load_Shed_Setpoint
+brick_HWS_Hot_Water_Pump_VFD_Speed_Command
+Load
+rice_ductPressOptMaxPosChilled_Beam_Source_VAS3
+Laboratory
+Discharge Air Temperature Reset High
+brick_Supply_Air_Temperature_Reset_Low
+Heat Exchanger Supply Water Temperature Sensor
+brick_Medium_Temperature_Hot_Water_Differential_Pressure_Load_Shed_Setpoint
+brick_AHU_Outside_Air_Flow_Sensor
+brick_Luminance_Command
+rice_ventOptStatusVBasement_Perimeter_Devices2
+btag_Piezoelectric
+btag_Floor
+brick_HWS_Hot_Water_Pump_Alarm
+Power Loss Alarm
+rice_spaceSensorAAuditorium_Area4
+Heat Wheel Speed
+rice_Humidity_Corr_NESHS
+rice_TEMP3_Space_Temperature_RMI104
+Band
+brick_Temperature_Low
+Cooling Temperature
+Warmest
+brick_DemandResponse_Standby_Load_Shed_Command
+brick_AHU_Dual_Band_Mode_Setpoint
+VAV Damper Position Sensor
+Air Damper Position
+rice_TEMP4_Space_Temperature_RM_209
+rice_ductPressOptMaxPosBasement_Perimeter_Devices2
+Ice
+brick_Supply_Air_Static_Pressure
+To
+Outside
+Temperature at which outside air is Low
+Water_System Deionised Water Level Sensor
+brick_Chiller_Failure_Alarm
+Supply Water Temperature Sensor
+CWS Chilled Water Pump Differential Pressure Proportional Band Setpoint
+brick_HWS_Discharge_Water_Temperature_Setpoint
+btag_Return
+brick_Return_Fan_VFD_Status
+Thermal Energy Storage Supply Water Differential Pressure Integral Time Setpoint
+brick_AHU_Discharge_Fan_VFD_Speed_Setpoint
+Underfloor
+brick_Exhaust_Fan_On_LED
+Output Frequency Sensor
+FCU Supply Fan VFD Speed Status
+Max
+brick_AHU_Exhaust_Fan_VFD_Speed_Command
+brick_Discharge_Fan_Air_Flow_Sensor
+brick_Unit_Failed_Alarm
+brick_Chilled_Water_Pump_Differential_Pressure_Dead_Band_Setpoint
+brick_Return_Air_Temperature_Low_Limit
+HWS Medium Temperature Hot Water Discharge Temperature Low Reset Setpoint
+brick_Preheat_Demand_Setpoint
+brick_VAV_Heating_Max_Discharge_Air_Flow_Setpoint
+brick_AHU_Static_Pressure_Max_Setpoint
+brick_AHU_Return_Air_Temperature_Sensor
+Load Shed Status
+VAV Supply Air Duct Pressure Status
+brick_CWS_Chilled_Water_Pump_Alarm_Delay_Setpoint
+Weather Wind Direction Sensor
+AHU Supply Air Smoke Detected Alarm
+CRAC High Humidity Alarm Setpoint
+brick_Alarm_Delay_Setpoint
+Boiler
+brick_CRAC_Standby_Fan_Status
+Min Supply Air Temperature Setpoint
+brick_Discharge_Air_Duct_Pressure_Status
+brick_Return_Air_Temperature_Low_Limit_Alarm
+Cooling Min Supply Air Flow
+rice_Zone_Temp_4_RMI032B
+btag_Temperature
+rice_Zone_Temp_2_RM_I232
+rice_HW_VAV_Return_Temp
+brick_AHU_On_Status_LED
+Supply Air Static Pressure
+btag_Filter
+HWS Medium Temperature Hot Water Differential Pressure Sensor
+rice_deltaTemperatureA1st_Floor_Area1
+brick_Emergency_Generator_Status
+brick_VFD_Status
+rice_averageSpaceTemperatureARoom_322_Area4
+brick_Heat_Exchanger_Discharge_Water_Temperature_Sensor
+Hot Water Static Pressure Setpoint
+AHU System Shutdown Status
+VAV Occupied Cooling Max Supply Air Flow Setpoint
+Water Loss Alarm
+brick_Cooling_Tower
+Command to reset the filter status
+btag_PID
+brick_Yearly_Steam_Usage
+brick_Emergency_Power_Off_Switch
+brick_Heat_Exchanger_System_Enable_Status
+Low Outside Air Temperature Enable Setpoint
+brick_Emergency_Power_Off_Enable_Status
+btag_Leaving
+brick_CO2_Sensor
+Exhaust_Fan Exhaust Air Static Pressure Integral Time Setpoint
+btag_PIR
+brick_Differential_Pressure_Integral_Time_Setpoint
+Chilled Water Pump Differential Pressure Proportional Band Setpoint
+Economizer Supply Air Temperature Proportional Band
+CWS Chilled Water Differential Pressure Integral Time Setpoint
+brick_Damper_Position_Setpoint
+brick_Supply_Fan_VFD_Speed_Command
+Monthly
+brick_Fire_Control_Panel_Off_Command
+btag_Computer
+Locally On Off
+brick_AHU_Steam_On_Off_Command
+Cooling
+brick_Economizer_Discharge_Air_Temperature_Proportional_Band_Setpoint
+brick_Maintenance_Required_Alarm
+brick_Return_Air_Grains
+AHU Occupancy Command
+rice_HVAC_Zone1
+Chiller On Timer Sensor
+HWS Heat Exchanger Supply Water Temperature Setpoint
+rice_Return_Airflow
+brick_Exhaust_Air_Stack_Flow_Dead_Band_Setpoint
+brick_AHU_Preheat_Demand_Setpoint
+rice_RmI521_Space_Temperature
+AHU Exhaust Fan Start Stop Command
+Steam_System Current Steam Usage Meter
+brick_HWS_Enable_Hot_Water_System_Outside_Air_Temperature_Setpoint
+Cooling Supply Air Temperature Dead Band
+brick_FCU_Supply_Air_Temperature_Setpoint
+brick_FCU
+Step
+rice_ductPressOptMaxPos1st_Floor_Chilled_Beam_VAS2
+rice_outdoorAirHumidityA1st_Floor_Area1
+btag_Request
+Exchanger
+brick_VAV_Reheat_Valve_Command
+brick_Fire_Control_Panel
+bf_isControlledBy
+brick_CWS_Discharge_Water_Temperature_Setpoint
+brick_Heat_Exchanger_Discharge_Water_Temperature_Dead_Band
+rice_economizerDisableFixedDryBulbA2nd_Floor_Area1
+brick_Temperature_Low_Reset_Setpoint
+Exhaust Air Humidity
+brick_Exhaust_Air_Static_Pressure_Dead_Band_Setpoint
+rice_systemMode1st_Floor_Chilled_Beam_VAS2
+brick_Exhaust_Air
+brick_Discharge_Fan_VFD_Speed_Setpoint
+brick_Isolation_Valve
+Luminance Alarm
+brick_Fan_Run_Request
+rice_diagVasSystemFailureV2nd_Floor_Perimeter_Devices_VAS1
+Chilled Water Supply Flow
+brick_Auto_Cooling_Temperature
+brick_Heating_Temperature
+brick_Economizer_Disable_Differential_Temperature_Setpoint
+brick_AHU_Off_LED
+Heat Wheel Differential Pressure
+brick_Domestic_Hot_Water_Supply_Temperature
+rice_Chilled_Water_Return_Temperature
+AHU Economizer Outside Air Flow Setpoint
+brick_Rain_Duration
+btag_Supply_Fan
+brick_Filter_Differential_Pressure_Sensor
+Photovoltaic Current Output Sensor
+brick_Panel_Lockout_Command
+Thermal Power
+Heating Supply Air Temperature Dead Band Setpoint
+Thermal Power Meter
+brick_VFD_Panel_Lockout_Command
+HWS Heat Exchanger Discharge Water Temperature Integral Time Setpoint
+rice_Leave_CDQ_Regen_Tempscc2UIP29
+brick_VAV_Supply_Air_Flow_Sensor
+brick_PIR_Sensor
+brick_Preheat_Valve
+brick_Domestic_Hot_Water_Discharge_Temperature_Setpoint
+rice_ductPressOptStatusV1st_Floor_Chilled_Beam_VAS2
+rice_Zone_2_Temp_Corr_252
+Water_System Discharge Water Temperature Setpoint
+btag_Tolerance
+brick_AHU_Discharge_Air_Temperature_Reset_High_Setpoint
+brick_Heating_Max_Discharge_Air_Flow
+Economizer Enable Fixed Dewpoint Setpoint
+Fan Speed Setpoint
+Discharge Air Temperature Heating
+Hot Water
+Motor Current
+Supply_Fan Differential Pressure Sensor
+brick_Alarm_Delay
+brick_Max_Frequency_Command
+brick_AHU_Return_Fan_VFD_Speed_Status
+Economizer Disable Differential Temperature Setpoint
+brick_AHU_Supply_Air_Temperature_Cooling_Setpoint
+brick_Remotely_On_Off
+brick_AHU_Outside_Air_Lockout_Temperature_Setpoint
+rice_Space_Humidity_RMI326
+brick_Air_Damper_Close_Limit
+brick_HWS_Hot_Water_Static_Pressure_Setpoint
+Drive Temperature
+rice_2nd_Floor_CHW_Return_Temp
+brick_Heat_Exchanger_Start_Stop_Command
+Supply Fan Command
+CRAC Water Loss Alarm
+brick_Supply_Air_Flow
+Water_System Supply Water Temperature Setpoint
+brick_Air_Flow
+Chiller On Off Status
+brick_Auto_Cooling_Temperature_Setpoint
+Exhaust Fans Stage
+Outside Air Grains Sensor
+brick_Mode_Command
+brick_Steam_System_Current_Steam_Usage_Meter
+Max Return Air CO2
+brick_Return_Air_Enthalpy_Sensor
+brick_Lighting_Zone
+brick_HWS_Heat_Exchanger_Discharge_Water_Temperature_Setpoint
+Water Supply Temperature Sensor
+Water_System Alarm Delay Setpoint
+brick_Deceleration_Time_Setpoint
+btag_Curtailment
+Supply Air Smoke Detected Alarm
+AHU Supply Fan Air Flow Sensor
+DHWS Domestic Hot Water Supply Temperature Setpoint
+btag_Occupancy
+VAV Effective Cooling Temperature Setpoint
+DHWS Domestic Hot Water Discharge Temperature Setpoint
+bf_usesMeasurement
+Discharge Air Flow Reset Setpoint
+brick_Cooling_Discharge_Air_Flow_Setpoint
+VFD Load Current Sensor
+brick_Bypass_Air_Flow_Sensor
+brick_Return_Fan_Start_Stop
+brick_Motor_Start_Stop
+btag_Mode
+Return Air
+CWS Chilled Water Pump VFD Speed Command
+brick_VAV_Occupied_Heating_Min_Discharge_Air_Flow_Setpoint
+brick_Occupied_Mode_Status
+btag_Dehumidification
+rice_Return_CO2_Diffdac3TrAV04
+brick_Room_Humidity_Sensor
+brick_VAV_CO2_Level_Sensor
+Pump Status
+btag_Radiance
+brick_Outside_Min_Air_Flow_Setpoint
+Proportional Gain Setpoint
+btag_Button
+brick_VAV_Box_Operating_Mode_
+AHU Return Fan VFD Speed Setpoint
+Chilled Water Differential Pressure Load Shed Status
+btag_LED
+brick_Domestic_Hot_Water_Discharge_Temperature
+brick_Water_System_Water_Discharge_Temperature_Sensor
+Dewpoint Setpoint
+Velocity Pressure Sensor
+brick_Outside_Air_Humidity
+Hot Water Coil Entering Temperature
+brick_Automatic_Mode_Command
+brick_Medium_Temperature_Hot_Water_Discharge_Temperature_High_Reset_Setpoint
+Energy
+brick_Weather_Wind_Direction_Sensor
+brick_Average_Discharge_Air_Flow
+brick_Request_Command
+VAV Warm Cool Adjust Sensor
+btag_Environment
+Exhaust Fan Enable Command
+AHU Filter Status
+Capacity
+brick_CWS
+brick_Fume_Hood_Air_Flow_Sensor
+AHU Exhaust Fan Piezoelectric Sensor
+rice_CHW_System_Supply_Temppgm2UIP19
+brick_AHU_Auto_Cooling_Temperature_Setpoint
+brick_VAV_Discharge_Air_Flow_Sensor
+brick_FCU_Zone_Air_Temperature_Sensor
+brick_City
+CRAC Emergency Power Off Activated By Leak Detection System Status
+Locally On Off Status
+brick_Boiler
+Fan Air Flow Sensor
+brick_Exhaust_Fan_Overridden_Off
+btag_Standby
+brick_Economizer_Supply_Air_Temperature_Proportional_Band_Setpoint
+btag_Command
+Safety
+VAV Room Temperature Setpoint
+Discharge Fan Piezoelectric Sensor
+brick_AHU_Supply_Air_Static_Pressure_Dead_Band_Setpoint
+rice_outdoorAirHumidityABasement_Area2
+Motor Speed
+brick_Chilled_Water_Pump_Differential_Pressure_Integration_Time_Setpoint
+Average Cooling Demand Sensor
+brick_Hot_Water_Supply_Temperature
+Discharge Air Temperature High Limit Alarm
+Domestic Hot Water System Enable Command
+Status
+rice_ductPressOptStatusV2nd_Floor_Chilled_Beam_Source_VAS2
+brick_Chilled_Water_Differential_Pressure_Dead_Band
+brick_Standby_Glycool_Unit_On_Off
+Exhaust Fan Off
+brick_Emergency_Generator_Alarm
+Return Heat Valve Command
+Luminance Sensor
+brick_Freeze_Protect_Temperature_Low_Limit
+AHU Heat Wheel Speed Sensor
+Very pure water. Used in research labs
+Fume Hood Sash Position Sensor
+Room Temperature Setpoint
+rice_CB_CHW_Supply_Temp
+brick_Heating_On_Off
+brick_Electrical_Power
+Conditioning
+Supply Air Integrative Gain Factor
+Highest Zone Temperature Sensor
+brick_HWS_Hot_Water_Differential_Pressure_Proportional_Band_Setpoint
+rice_RMIC557_Zone_Temp_8
+bf_Token
+rice_RMI536_Space_Temperature_Perimeter
+AHU Building Exhaust Fans Stage Command
+brick_Zone_Temperature_Low_Setpoint
+Economizer Damper
+rice_Cooling_Coil_DA_Tempdac2UIP26
+Heat Wheel Voltage
+Return Air Flow Sensor
+brick_Ice_Tank_Leaving_Water_Temperature_Sensor
+brick_Supply_Fan_VFD_Speed_Sensor
+Temperature High
+VAV Cooling Min Discharge Air Flow Setpoint
+rice_Room202
+brick_VAV_Heating_Min_Supply_Air_Flow_Setpoint
+rice_Room527
+rice_Room526
+rice_Room524
+rice_Room522
+rice_Room521
+brick_Peak_Power_Demand
+brick_Condenser_Condensor_Temperature_Sensor
+brick_Voltage
+brick_AHU_Discharge_Air_Flow_Demand_Setpoint
+brick_AHU_Supply_Fan_Piezoelectric_Sensor
+rice_Room528
+brick_CRAC_Zone_Humidity_Sensor
+brick_Differential_Speed_Setpoint
+brick_AHU_Supply_Air_Static_Pressure_Proportional_Band_Setpoint
+brick_AHU_Low_Outside_Air_Temperature_Enable_Differential_Sensor
+brick_Steam_System_Steam_Usage_Today_Meter
+brick_FCU_CO2_Sensor
+brick_On
+brick_Solar_Zenith_Angle_Sensor
+HWS Hot Water System Enable Command
+brick_AHU_Return_Air_Temperature_High_Limit_Alarm
+brick_Furniture
+rice_Zone_Temp_2_RM_242
+Air Flow Loss
+brick_AHU_Economizer_Discharge_Air_Temperature_Dead_Band_Setpoint
+brick_FCU_Supply_Fan_VFD_Speed_Status
+Return Air Temperature High Limit Alarm
+brick_Variable_Air_Volume
+brick_Meter
+Sash Position
+rice_HW_VAV_Supply_Temp
+brick_Water_System_Discharge_Water_Temperature_Setpoint
+Booster Command
+Return_Fan VFD Status
+brick_Conductivity_Sensor
+brick_Return_Air_Preheat_Valve_Command
+AHU Supply Air Static Pressure Setpoint
+brick_VAV_Supply_Air_Temperature_Cooling_Setpoint
+rice_economizerEnableDifferentialEnthalpyABasement_Area2
+brick_Discharge_Fan_Piezoelectric
+Supply Air Temperature Cooling
+brick_Exhaust_Fan_Fire_Control_Panel_On_Command
+brick_Weather
+btag_Drive
+Supply Air Temperature
+brick_VAV_Heating_Supply_Air_Flow_Setpoint
+brick_Location
+btag_Override
+btag_Unoccupied
+AHU Supply Fan Status
+brick_VFD_On_Off_Status
+brick_Thermal_Energy_Storage_Supply_Water_Differential_Pressure_Proportional_Band_Setpoint
+rice_Return_Air_CO2_Sensordac1UIP36
+Standby Fan
+brick_Return_Fan_Status
+Hot Water Differential Pressure Sensor
+brick_FCU_Discharge_Fan_VFD_Speed_Command
+brick_Angle_Sensor
+btag_Running
+brick_Return_Fan_Command
+VFD Speed Reset Command
+Heat Exchanger Valve Status
+Timer Sensor
+rice_economizerDisableDifferentialEnthalpyA5th_Floor_Area1
+Maintenance Required Alarm
+rice_ductPressOptMaxPos1st_Foor_Perimeter_Devices_VAS1
+rice_Space_CO2_Room_513
+Sensor that measures accumulated hours of equipment operation.
+rice_ventOptVavAirflowGross2nd_Floor_Perimeter_Devices_VAS1
+btag_Acceleration
+PV Current Output
+Cooling Demand Setpoint
+brick_Water_System_DI_Water_Alarm
+Hot Water Supply Temperature Sensor
+rice_ventRatioLimitAhuV2nd_Floor_Chilled_Beam_Source_VAS2
+rice_VAV_HW_Supply_Temp
+Exhaust Fan Piezoelectric Sensor
+brick_Torque
+Allows the pump to be used. It is a sensor.
+Environment Box
+brick_Exhaust_Air_Static_Pressure
+brick_Lead_On_Off
+brick_Chilled_Water_Differential_Pressure_Increase_Decrease_Step_Setpoint
+btag_Short
+brick_Supply_Fan_VFD_Speed_Setpoint
+rice_AHU3_HW_Supply_Temppgm2UIP11
+Discharge Fan VFD Speed Status
+VAV Zone Temperature Sensor
+VFD DC Bus Voltage Sensor
+brick_Differential_Pressure_Setpoint
+CRAC Communication Loss Alarm
+rice_Discharge_Air_Humiditydac3UIP09
+brick_HWS_Heat_Exchanger_Supply_Water_Temperature_Dead_Band_Setpoint
+rice_CHW_Main_Return_Temp_T4
+brick_Return_Air_Humidity_Sensor
+rice_Effective_RA_CO2dac2AV004
+brick_Hot_Water_Differential_Pressure
+brick_Heating_Demand_Setpoint
+VAV Booster Fan Command
+Meter
+brick_Speed_Reset
+AHU Return Fan Status
+VFD Motor Speed Sensor
+Weather
+brick_Heating_Request_Percent
+btag_Failed
+rice_occupancyStatus1st_Floor_Chilled_Beam_VAS2
+brick_Booster_Fan
+CWS Chilled Water Pump Start Stop Status
+AHU Exhaust Air Stack Flow Setpoint
+Hot Water Valve Command
+brick_Min_Fresh_Air_Setpoint
+Condensor Temperature Sensor
+rice_Space_CO2_Low_Limit
+brick_Highest_Cooling
+brick_Discharge_Air_Temperature_Reset_High_Setpoint
+Can also be part of CRAC
+btag_AHU
+Perimeter
+brick_Demand_Setpoint
+VFD System Enable Command
+btag_Suction
+Max Supply Air Static Pressure
+EconCycle On Off
+rice_standbyOffsetA2nd_Floor_Area1
+brick_Fault_Reset_Command
+brick_Motor_Speed
+brick_Solar_Radiance_Sensor
+Battery Voltage Sensor
+rice_Humidity_Zone_1_RMI212
+brick_Pump_Alarm
+Motor Speed Sensor
+brick_Load_Shed_Status
+brick_Freeze_Protect_Temperature_Low_Limit_Setpoint
+brick_Direction_Sensor
+brick_Supply_Air_Flow_Sensor
+Emergency
+Schedule
+brick_Heating_Discharge_Air_Flow
+VFD Maintenance Mode Command
+Discharge Air Static Pressure Proportional Band
+Min Discharge Air Temperature
+Current Cooling Setpoint
+Mode Status
+brick_Medium_Temperature_Hot_Water_Differential_Pressure_Load_Shed_Status
+btag_No
+Pressure
+rice_deltaTemperatureABasement_Area2
+brick_AHU_Mixed_Air_Temperature_Sensor
+Occupied Heating Max Discharge Air Flow Setpoint
+Hot Water System
+rice_spaceHumidityAAuditorium_Area4
+brick_AHU_Fan_Run_Request_Status
+Economizer Air Flow
+brick_Steam_System_Monthly_Steam_Usage_Meter
+brick_CWS_Chilled_Water_System_Enable_Command
+Min Fresh Air
+Discharge Fan Command
+HWS Supply Water Temperature Setpoint
+Supply_Fan Supply Air Proportional Gain Factor
+AHU Supply Air Static Pressure Dead Band Setpoint
+brick_Return_Air_Flow
+VFD Motor Start Stop Status
+Demand
+Temperature High Reset Setpoint
+brick_Occupancy_Command
+brick_Supply_Water_Differential_Pressure_Dead_Band
+Discharge Water Differential Pressure Proportional Band
+btag_PV
+Wheel
+Exhaust Air Static Pressure Proportional Band Setpoint
+rice_Space_Relative_Humidity_RMI226
+brick_HWS_Medium_Temperature_Hot_Water_Discharge_Temperature_Low_Reset_Setpoint
+rice_Cooling_Coil_DA_Tempdac1UIP26
+brick_WS
+Motion Sensor
+VFD Panel Lockout Command
+Pre
+Compressor
+brick_Outside_Air_Damper_Close_Limit_Setpoint
+brick_Hot_Water_Differential_Pressure_Dead_Band
+AHU Economizer Discharge Air Temperature Dead Band Setpoint
+Supply Air Static Pressure Integral Time
+Domain Tag Definition
+Integral
+VFD Motor Power Meter
+rice_Zone_Temp_3_RM_I205
+brick_CWS_Chilled_Water_Pump_VFD_Speed_Command
+Lighting Zone
+btag_Lockout
+brick_Maintenance_Mode
+brick_AHU_Exhaust_Air_Stack_Flow_Proportional_Band_Setpoint
+brick_Motion_Sensor
+Economizer Mode Status
+Exhaust Fan Disable
+brick_Max_Supply_Air_Temperature
+Cooling Min Discharge Air Flow Setpoint
+Supply Air Damper Max Position
+brick_Economizer_Enable_Fixed_Dewpoint_Setpoint
+brick_Deionised_Water_Level
+brick_Cooling_Discharge_Air_Temperature_Proportional_Band
+rice_Zone_Temp_3_RMI032A
+brick_AHU_Differential_Pressure_Sensor
+Discharge Air Temperature Reset High Setpoint
+Supply Air Temperature Cooling Setpoint
+AHU Exhaust Fan Enable Command
+Heating Discharge Air Temperature Integral Time Setpoint
+rice_economizerStatusA2nd_Floor_Area1
+Exhaust Air Static Pressure
+rice_heatCoolModeStatusA3rd_Floor_Area1
+Humidity Tolerance Setpoint
+Tank
+rice_economizerDisableDifferentialEnthalpyAAuditorium_Area4
+brick_Demand_Response
+Exhaust
+VFD Drive Ready Status
+brick_Discharge_Air_Temperature_High_Limit_Alarm
+brick_FCU_Return_Fan_VFD_Speed_Sensor
+rice_ventRatioLimitAhuV5th_Floor_Chilled_Beam_VAS1
+brick_Economizer_Disable_Differential_Enthalpy_Setpoint
+Medium Temperature Hot Water Discharge Temperature Sensor
+brick_VFD_Run_Time_Sensor
+brick_FCU_Exhaust_Fan_VFD_Speed_Command
+VAV Heating Max Supply Air Flow Setpoint
+Vent Operating Mode Status
+bf_usedByDimension
+brick_Exhaust_Fan_Command
+Medium Temperature Hot Water Discharge Temperature Low Reset Setpoint
+brick_Heat_Exchanger_Discharge_Water_Temperature
+brick_AHU_Heat_Wheel_Discharge_Air_Temperature_Sensor
+Stage
+rice_economizerStatusA1st_Floor_Area1
+brick_Luminance_Alarm
+Chilled Water Pump Enable Status
+brick_Outside_Air
+Exhaust Air Flow Sensor
+VAV Supply Air Temperature Cooling Setpoint
+Request
+rice_ductPressOptStatusV5th_Floor_Chilled_Beam_VAS1
+brick_Supply_Fan_Differential_Pressure_Sensor
+CRAC Compressor Overload Alarm
+AHU Max Supply Air Temperature Setpoint
+Discharge Air Flow Sensor
+brick_Off
+brick_Water_System_Pump_Status
+Economizer
+CRAC Emergency Power Off Switch Command
+VFD Run Enable Command
+brick_Occupied_Mode
+CO2 Differential
+Preheat Coil Leaving Water Temperature Sensor
+Deceleration
+brick_Max_VFD_Speed
+Supply Air Flow Sensor
+brick_HWS_Hot_Water_Differential_Pressure_Setpoint
+brick_Static_Pressure_Integral_Time_Setpoint
+brick_Hot_Water_System_Enable_Command
+AHU Economizer Mode Status
+brick_Heat_Exchanger_Supply_Water_Temperature_Dead_Band
+btag_Laboratory
+Water Discharge Temperature Sensor
+Standby Unit On Off Status
+AHU Heating Supply Air Temperature Integral Time Setpoint
+brick_Exhaust_Air_Flow_Integral_Time_Setpoint
+Heat Exchanger Supply Water Temperature Proportional Band Setpoint
+brick_Differential_Pressure_Dead_Band_Setpoint
+brick_CRAC_Compressor_Overload_Alarm
+AHU Supply Air Temperature Heating Setpoint
+rice_occupancyStatusChilled_Beam_Source_VAS3
+brick_HWS_Medium_Temperature_Hot_Water_Supply_Temperature_Sensor
+FCU Zone Air Temperature Sensor
+rice_spaceSensorA5th_Floor_Area1
+Exhaust Air Static Pressure Setpoint
+btag_Water_System
+Supply Fan Start Stop Command
+rice_Room557
+Exhaust Fan Air Flow Setpoint
+brick_Differential_Pressure
+rice_Room226
+Chilled Water Bypass Valve Command
+Unoccupied Cooling Discharge Air Flow Setpoint
+rice_Discharge_Air_Temperaturedac4
+brick_Discharge_Air_Static_Pressure_Setpoint
+Chilled Water Differential Pressure Load Shed Reset Status
+brick_Discharge_Air_Temperature_Reset_High
+AHU Outside Air Damper Min Position Setpoint
+VAV Supply Air Flow Sensor
+rice_Room220
+brick_AHU_Coldest_Zone_Temperature_Sensor
+rice_Zone_Temp_RMI104
+Supply Air Duct Pressure Status
+bf_isTagSetOf
+brick_Discharge_Water_Temperature
+Chilled Water Supply Flow Sensor
+VAV Box Operating Mode Status
+VFD Start Stop Status
+brick_Return_Heat_Valve
+AHU Return Air Temperature High Limit Alarm
+brick_High_Humidity
+brick_Fans_Stage_Command
+brick_HWS_Medium_Temperature_Hot_Water_Supply_Temperature_High_Reset_Setpoint
+Cooling Request Setpoint
+brick_AHU_Economizer_Mode_Status
+rice_RMI508_Space_Temperature_Perimeter
+DemandResponse Chilled Water Differential Pressure Load Shed Setpoint
+Min Discharge Air Temperature Setpoint
+rice_ventOptVavAirflowGross2nd_Floor_Chilled_Beam_Source_VAS2
+brick_Heating_Thermal_Power
+AHU Dual Band Mode Setpoint
+brick_AHU_Return_Air_Grains_Sensor
+brick_Max_Return_Air_CO2_Setpoint
+brick_Return_Fan_Start_Stop_Command
+btag_Indicator
+rice_spaceHumidityA2nd_Floor_Area1
+Cooling Discharge Air Temperature Proportional Band
+Steam_System Monthly Steam Usage Meter
+rice_VAV_26_HW_Return_Temp
+rice_Zone_2_Temp_RMCorr
+Min VFD Speed To Increase Static Pressure Setpoint
+Supply_Fan Discharge Air Static Pressure Integral Time Setpoint
+brick_Heat_Exchanger_Discharge_Water_Temperature_Proportional_Band
+rice_occupancyStatusV3rd_Floor_CB_VAS2
+AHU Exhaust Air Static Pressure Setpoint
+Direction Sensor
+brick_DemandResponse_Chilled_Water_Differential_Pressure_Load_Shed_Setpoint
+Return Fan VFD Speed
+bf_ObservedSignal
+brick_Unoccupied_Cooling_Temperature
+brick_Failure_Alarm
+rice_ventOptStatusV1st_Foor_Perimeter_Devices_VAS1
+brick_Preheat_Discharge_Air_Temperature
+brick_VAV_Occupied_Heating_Max_Supply_Air_Flow_Setpoint
+Heating Request Setpoint
+Bypass Air Flow Sensor
+Heater
+brick_Heat_Exchanger_Supply_Water_Temperature
+AHU Supply Air Humidity Sensor
+brick_Fire_Safety_System
+Mixed Air Damper Position Sensor
+Duct
+brick_Perimeter_Heating_Valve_Command
+Min Supply Air Static Pressure
+Supply Air Flow Demand
+brick_DemandResponse_Medium_Temperature_Hot_Water_Discharge_Temperature_Load_Shed_Setpoint
+rice_ductPressOptStatusVChilled_Beam_Source_VAS3
+brick_Water_System_Water_Meter
+VAV Occupied Heating Temperature Dead Band Setpoint
+A command that allows VFD to be used
+Shutdown
+Heating On Off Status
+Static Pressure Min
+bf_hasMeasurement
+CRAC Humidifier Alarm
+brick_Occupied_Heating_Temperature_Setpoint
+VAV Box Mode Command
+brick_Power
+rice_Room58
+Angle
+brick_Outside_Air_Damper
+Reheat Valve
+brick_CWS_Chilled_Water_Pump_Command
+AHU Preheat Discharge Air Temperature Sensor
+brick_VFD_Rated_Speed_Setpoint
+brick_AHU_Exhaust_Air_Flow_Sensor
+rice_Room513
+rice_LT_Chiller_CHW_SP_OPR
+rice_Room511
+rice_Room516
+brick_Command
+rice_Room514
+brick_Open_Heating_Valve_Air_Temperature
+Heat Wheel Supply Air Temperature Sensor
+Isolation
+brick_Economizer_Supply_Air_Temperature_Dead_Band_Setpoint
+brick_Thermal_Energy_Storage
+brick_AHU_Average_Exhaust_Air_Static_Pressure_Sensor
+rice_Room59
+Water Flow
+brick_Emergency_Power_Off_Activated_By_High_Temperature_Status
+brick_Conductivity
+brick_Speed_Sensor
+rice_rmi514_Space_CO2_Concentration
+rice_Zone_Temp_4_RMI106
+CWS Chilled Water Pump Lead Lag Status
+AHU Exhaust Air Static Pressure Proportional Band Setpoint
+brick_Power_System_Power_Meter
+brick_Locally_On_Off_Status
+Temperature Alarm
+Temperature Differential Reset Setpoint
+brick_AHU_Exhaust_Air_Static_Pressure_Dead_Band_Setpoint
+Return Fan Differential Speed
+AHU Supply Fan VFD Speed Setpoint
+Cooling Discharge Air Temperature Dead Band
+Max Discharge Air Temperature Setpoint
+brick_Preheat_Supply_Air_Temperature
+Return Heat Valve
+brick_AHU_Overridden_On_Status
+brick_Manual_Auto
+brick_Min_Discharge_Air_Static_Pressure_Setpoint
+Humidification On Off Status
+Preheat Valve
+Ice Tank Leaving Water Temperature
+Supply Air Static Pressure Proportional Band Setpoint
+HWS Medium Temperature Hot Water Supply Temperature High Reset Setpoint
+CRAC
+brick_HWS_Heat_Exchanger_Valve_Command
+brick_VFD_Load_Current_Sensor
+Chilled Water Differential Pressure Dead Band
+brick_Current_Limit
+Deionised Water
+Zone Temperature Low Setpoint
+brick_HVAC_Lowest_Zone_Temperature_Sensor
+brick_CWS_Chilled_Water_Pump_Differential_Pressure_Dead_Band_Setpoint
+Hot Water Pump
+CRAC High Temperature Alarm Setpoint
+Dew
+Fume Hood Air Flow Sensor
+rice_economizerDisableFixedDewPointA1st_Floor_Area1
+brick_Enable
+btag_Communication
+brick_Heat_Wheel_Differential_Pressure_Sensor
+Hot Water Pump VFD Speed Command
+Exhaust_Fan Fan Air Flow Sensor
+Hot Water Supply Temperature Setpoint
+brick_Battery
+Supply Air Static Pressure Proportional Band
+HWS Hot Water Return Temperature Sensor
+brick_VAV_Occupied_Cooling_Min_Discharge_Air_Flow_Setpoint
+Min Supply Air Temperature
+Unit Failed Alarm
+brick_Proportional_Band_Setpoint
+Relative
+brick_CRAC_Temperature_Setpoint
+rice_RMI1072_Space_Temperature_Local
+brick_VAV_Cooling_Valve_Command
+AHU Discharge Air Static Pressure Proportional Band Setpoint
+brick_Disable_Command
+DemandResponse Chilled Water Differential Pressure Load Shed Status
+AHU Run Time Sensor
+Supply Air Flow
+Peak
+Hand Auto
+Gas Meter
+brick_Occupancy_Status
+btag_Enthalpy
+brick_AHU_Discharge_Fan_Status
+rice_Zone_Temp_5_RM_I202
+rice_Room259
+brick_Outside_Air_Damper_Position_Command
+Preheat Hot Water Valve
+Server Room
+Leak
+brick_AHU_Heat_Wheel_Voltage_Sensor
+Humidity Setpoint
+brick_AHU_Discharge_Air_Temperature_Setpoint_Increase_Decrease_Step
+brick_Economizer_Damper_Min_Position_Setpoint
+brick_Power_Loss
+AHU VFD Speed Command
+CWS Chilled Water Pump Enable Status
+FCU Return Air Temperature Sensor
+rice_RMI504_Zone_Temp_2
+brick_Return_Air_Temperature
+brick_AHU_Cooling_Coil_Supply_Air_Temperature_Sensor
+brick_Exhaust_Fan_Fire_Control_Panel_Off_Command
+Generator
+Exhaust Fan Start Stop Status
+rice_occupiedOffsetA2nd_Floor_Area1
+rice_deltaTemperatureA5th_Floor_Area1
+Return Air Enthalpy Sensor
+High Humidity
+Ice Tank Leaving Water Temperature Sensor
+btag_Zone
+Unit
+btag_UndefinedMeasurement
+Air Temperature Low Reset
+Max Load
+rice_ventRatioLimitVavV1st_Foor_Perimeter_Devices_VAS1
+brick_AHU_Outside_Air_Damper_Position_Command
+brick_Discharge_Fan
+brick_AHU_Heat_Wheel_Speed_Sensor
+btag_Output
+brick_Supply_Air_Static_Pressure_Dead_Band
+brick_Hot_Water_Return_Temperature_Sensor
+brick_AHU_Supply_Air_Temperature_Sensor
+brick_Cooling_Coil_Valve_Pressure
+Standby CRAC Unit
+btag_Overridden
+brick_Short_Cycle
+Fault Indicator Status
+AHU Heat Wheel Differential Pressure Sensor
+brick_Humidification_On_Off_Status
+rice_RMI528_Zone_Temp_6
+Emergency Generator Alarm
+brick_Chiller_Supply_Water_Temperature_Alarm
+brick_Domestic_Hot_Water_System_Enable
+brick_Chilled_Water_Pump_Enable_Status
+brick_Booster_Fan_Start_Stop
+btag_Demand
+Freezer Temperature Sensor
+Outside Air
+btag_Last
+LED
+brick_VFD_Speed_Status
+brick_Lowest_Temperature
+AHU Change Filter Alarm
+System Shutdown Command
+btag_Stage
+System Shutdown
+AHU Return Fan Start Stop Status
+brick_FCU_Heating_Valve_Command
+brick_Chilled_Water_Return_Temperature
+owl_NamedIndividual
+brick_Occupied_Cooling_Min_Supply_Air_Flow_Setpoint
+VAV Occupied Heating Discharge Air Flow Setpoint
+brick_CRAC_Standby_Unit_On_Off_Status
+brick_Supply_Air_Temperature_Cooling
+AHU Coldest Zone Temperature Sensor
+Occupied Heating Min Supply Air Flow
+Cooling Supply Air Temperature Proportional Band Setpoint
+Exhaust Air Flow Setpoint
+btag_Failure
+brick_Discharge_Air_Static_Pressure_Integral_Time_Setpoint
+btag_Hand
+btag_Sensor
+brick_DC_Bus_Voltage_Sensor
+Chilled Water Discharge Flow Sensor
+brick_Heating_Max_Discharge_Air_Flow_Setpoint
+brick_Cooling_Temperature
+rice_economizerDisableDifferentialDryBulbA5th_Floor_Area1
+btag_Capacity
+Heating Max Discharge Air Flow Setpoint
+brick_CWS_Chilled_Water_Differential_Pressure_Setpoint
+rice_CHW_Return_Mag_Temp
+rice_occupancyStatusA5th_Floor_Area1
+Usage
+rice_WTS3_Ice_Tank_Leaving_Temp
+brick_Occupancy_Sensor
+CWS Chilled Water Discharge Flow Sensor
+brick_Water
+brick_Discharge_Fan_Status
+brick_AHU_Exhaust_Fan_Enable_Command
+rice_Zone_Temp_2_RMI024
+brick_HWS_Heat_Exchanger_Supply_Water_Temperature_Setpoint
+brick_Temporary_Occupancy_Status
+Return Air Humidity
+Motor Power
+brick_PV_Current_Output
+CRAC Humidify Command
+PV
+System Shutdown Status
+brick_AHU_Cooling_Supply_Air_Temperature_Integral_Time_Setpoint
+Discharge Fan Status
+brick_HVAC_Heat_Exchanger_Valve_Status
+Supply Air Temperature Reset Differential Setpoint
+brick_Emergency_Power_Off_Enable
+VFD Fault Status
+Standby
+AHU Discharge Air Flow Reset High Setpoint
+Drive Ready
+HWS Medium Temperature Hot Water Discharge Temperature High Reset Setpoint
+brick_Angle
+rice_diagVasSourceTempFailureVChilled_Beam_Source_VAS3
+DemandResponse Medium Temperature Hot Water Discharge Temperature Load Shed Setpoint
+Low Temperature Alarm Setpoint
+brick_Cooling_Request_Percent
+brick_Air_Temperature_Low_Reset
+brick_Box_Mode_Command
+Cycle
+brick_Min_Chilled_Water_Differential_Pressure_Setpoint
+Domestic Hot Water Discharge Temperature Setpoint
+rice_TEMP1_Space_Temperature_RmI011
+Water_System Water Discharge Temperature Sensor
+brick_Supply_Fan_Status
+rice_outdoorAirHumidityA5th_Floor_Area1
+AHU Return Fan Command
+Manual
+rice_occupancyStatusA3rd_Floor_Area1
+Differential
+Exhaust Fan Off LED
+btag_Reference
+Economizer Discharge Air Temperature Proportional Band Setpoint
+rice_ductPressOptStatusV1st_Foor_Perimeter_Devices_VAS1
+brick_VAV_High_Static_Pressure_Cutout_Limit_Setpoint
+Smoke
+Close
+Indicates if the AHU has been manually overridden to be Off
+rice_diagCalculationA1st_Floor_Area1
+Status of VFD direction. Synonym
+Air Flow Setpoint
+btag_Factor
+rice_2nd_Floor_CHW_Supply_Temp
+Hot Water Flow
+Cooling Thermal Power Meter
+Integration
+brick_Heating_Demand
+Solar_Panel Battery Voltage Sensor
+brick_Exhaust_Fan_Off_Status_LED
+brick_VAV_Room_Temperature_Setpoint
+CRAC High Temperature Alarm
+brick_CRAC_Emergency_Power_Off_Activated_By_Leak_Detection_System_Status
+brick_Water_System
+btag_On
+Damper Position
+brick_HWS_Medium_Temperature_Hot_Water_Discharge_Temperature_High_Reset_Setpoint
+rice_economizerDisableFixedDryBulbA1st_Floor_Area1
+brick_Discharge_Air_Flow_Demand_Setpoint
+brick_Exhaust_Air_Static_Pressure_Dead_Band
+Supply Fan VFD Speed Command
+brick_Mixed_Air_Damper_Position
+brick_Discharge_Air_Temperature_Reset_Differential
+brick_Zone_Temperature_High_Setpoint
+Piezoelectric
+brick_VAV_Supply_Air_Temperature_Setpoint
+Occupied Cooling Max Discharge Air Flow Setpoint
+brick_CRAC_Emergency_Power_Off_Activated_By_High_Temperature_Status
+brick_CWS_Chilled_Water_Pump_Differential_Pressure_Integration_Time_Setpoint
+btag_Lowest
+Code
+Hot Water Pump Status
+brick_Thermostat
+brick_Drive_Temperature
+Occupied Cooling Min Discharge Air Flow
+High Temperature Hot Water Supply Temperature Sensor
+Discharge Fan Piezoelectric
+brick_AHU_Return_Fan_Differential_Speed_Setpoint
+CWS Chilled Water Pump Start Stop Command
+brick_VFD_Motor_Start_Stop_Command
+Economizer Damper Command
+Low
+rice_diagVasSystemFailureV2nd_Floor_Chilled_Beam_Source_VAS2
+Cutout
+rice_EX_Air_Temp_From_ERWdac4UIP01
+brick_FCU_Supply_Air_Temperature_Cooling_Setpoint
+HWS Hot Water Static Pressure Setpoint
+rice_Zone_Humidity_Corr_SWSHS
+AHU Return Air Grains Sensor
+Demand Setpoint
+brick_Filter_Reset_Command
+brick_Pressure_Sensor
+Heat Exchanger Start Stop Command
+Overridden
+brick_CWS_Chilled_Water_Pump_Differential_Pressure_Proportional_Band_Setpoint
+brick_Last_Fault_Code
+Space
+brick_Humidifier_Fault_Status
+Cooling Valve Command
+Return Air Temperature
+brick_Motor_Torque_Sensor
+rice_ventRatioLimitAhuV1st_Foor_Perimeter_Devices_VAS1
+AHU Supply Fan VFD Speed Sensor
+brick_Cooling_Thermal_Power
+brick_Effective_Cooling_Temperature
+brick_Exhaust_Air_Flow_Sensor
+rice_diagnosticAlarmPresentA2nd_Floor_Area1
+brick_AHU_Discharge_Air_Static_Pressure_Increase_Decrease_Step_Setpoint
+rice_AHU2_PreHeat_Coil_Temp
+brick_Return_Air_Dewpoint_Sensor
+btag_Minimum
+Supply Water Temperature Proportional Band Setpoint
+Enable switch for one particular exhaust fan
+brick_AHU_Outside_Air_Temperature_High_Reset_Setpoint
+Effective Heating Temperature Setpoint
+rice_CHW_Supply_Mag_Temp
+brick_Water_System_Deionised_Water_Conductivity_Sensor
+rice_TEMP1_Space_Temperature_RMIC276
+VAV Heating Min Supply Air Flow Setpoint
+Auto Cooling Temperature Setpoint
+rice_Space_Humidity_Active
+brick_Supply_Water_Differential_Pressure_Dead_Band_Setpoint
+brick_Return_Fan_VFD_Speed_Sensor
+Occupied Heating Temperature Dead Band
+Face
+A temperature setpoint in charge of a zone.
+Peak Power Demand Sensor
+brick_Supply_Water_Flow_Sensor
+Equipment
+Supply Air Flow Demand Setpoint
+rice_WTS2_Ice_Tank_Entering_Temp
+brick_Heating_Request_Setpoint
+Chilled Water Discharge Temperature
+brick_Average_Exhaust_Air_Static_Pressure
+btag_Gas
+brick_Air_Handler_Unit
+brick_Air_Grains_Sensor
+High Static Pressure Cutout Limit
+rice_Discharge_Air_Humiditydac1UIP09
+Heat Exchanger Discharge Water Temperature Setpoint
+btag_Control
+brick_Exhaust_Fan_Start_Stop
+CO2 Differential Sensor
+Discharge Air Static Pressure Dead Band Setpoint
+Hot
+HVAC Enable Command
+High Head Pressure
+Discharge Air
+rice_Space_CO2_Concentration_BASscc2
+Max Load Setpoint
+brick_Gas
+brick_Exhaust_Air_Flow_Proportional_Band_Setpoint
+Setpoint
+brick_AHU_System_Status
+AHU Discharge Air Static Pressure Dead Band Setpoint
+AHU Exhaust Fan Disable Status
+brick_Load_Shed
+Differential Pressure Proportional Band Setpoint
+brick_Cooling_Coil_Supply_Air_Temperature_Sensor
+brick_AHU_Return_Heat_Valve_Command
+brick_Hot_Water
+brick_Ice_Tank_Leaving_Water_Temperature
+AHU Occupied Command
+brick_AHU_Fire_Control_Panel_On_Command
+Fan Coil Unit
+brick_VFD_Fault_Reset_Command
+Discharge Air Static Pressure Increase Decrease Step
+rice_Room1091
+btag_Reset
+rice_Zone_Temp_6_RMI054
+rice_Room1092
+CRAC EconCycle On Off Status
+Discharge Air Flow Demand
+Return Fan VFD Speed Setpoint
+brick_Temperature_Differential_Reset_Setpoint
+Max VFD Speed To Increase Static Pressure Setpoint
+Return
+brick_Occupied_Cooling_Temperature_Dead_Band_Setpoint
+brick_Motor_Direction_Status
+AHU Fan Start Stop Status
+CRAC Emergency Power Loss Alarm
+brick_CWS_Chilled_Water_Bypass_Valve_Command
+rice_Room50
+Pump Command
+rice_Room52
+Computer
+rice_Room54
+Start Stop Command
+rice_Room57
+brick_CRAC_Humidifier_Panel_No_Water_Alarm
+Emergency Power Off Activated By Leak Detection System Status
+brick_Exhaust_Air_Stack_Flow_Sensor
+brick_HWS_High_Temperature_Hot_Water_Supply_Temperature_Sensor
+Panel
+brick_VAV_Occupancy_Sensor
+rice_Room509
+rice_Room508
+brick_Rain
+rice_Room505
+rice_Room504
+rice_Room507
+rice_Room506
+rice_Room501
+brick_CRAC_EconCycle_On_Off_Status
+rice_Room503
+rice_Room502
+brick_Fan_Start_Stop_Status
+Medium Temperature Hot Water Supply Temperature Load Shed
+DemandResponse Zone Standby Load Shed Command
+brick_HWS_Heat_Exchanger_System_Enable_Status
+brick_Chiller_Start_Stop_Status
+Mode Command
+Temporary
+brick_Entering_Water_Temperature_Sensor
+brick_CRAC_Temperature_Sensor
+brick_Min_Chilled_Water_Differential_Pressure
+brick_DHWS_Domestic_Hot_Water_Supply_Temperature_Setpoint
+Supply_Fan VFD Status
+AHU On Status LED
+Economizer Discharge Air Temperature Dead Band
+HVAC Average Cooling Demand Sensor
+brick_Thermal_Energy_Storage_Discharge_Water_Differential_Pressure_Proportional_Band_Setpoint
+brick_Heating_Min_Discharge_Air_Flow_Setpoint
+brick_Discharge_Air_Temperature_Increase_Decrease_Step
+Running Hour
+Chilled Water Pump Start Stop Command
+rice_operatingMode2nd_Floor_Perimeter_Devices_VAS1
+rice_TEMP1_Space_Temperature_RMIC058
+Motor Start Stop Status
+brick_System_Shutdown
+Occupied Cooling Min Discharge Air Flow Setpoint
+brick_Exhaust_Air_Static_Pressure_Sensor
+brick_Max_Discharge_Air_Static_Pressure_Setpoint
+Entering
+Exhaust Bypass Damper
+brick_Supply_Fan_Fan_Air_Flow_Sensor
+brick_Hot_Water_Pump_Status
+rice_economizerDisableFixedEnthalpyA5th_Floor_Area1
+Battery Voltage
+Lag
+btag_Photovoltaic
+Highest
+brick_Heating_Supply_Air_Temperature_Dead_Band
+brick_Fire_Control_Panel_Command
+brick_Lighting_System_Luminance_Alarm
+brick_Chilled_Water_Valve
+brick_Unit_Failed
+AHU Exhaust Air Static Pressure Sensor
+btag_Sash
+Chilled Water Bypass Valve
+btag_Rain
+brick_Server_Room
+brick_Exhaust_Air_Flow
+brick_AHU_Discharge_Fan_VFD_Speed_Command
+Medium Temperature Hot Water Differential Pressure Load Shed Reset Status
+brick_CWS_Exhaust_Fan_Command
+Economizer Enable Differential Enthalpy
+brick_Zone_Unoccupied_Load_Shed_Command
+Heat Wheel Speed Sensor
+Underfloor Temperature
+brick_VFD_Speed_Sensor
+brick_AHU_Supply_Air_Temperature_High_Limit_Alarm
+brick_Run_Enable_Command
+Cooling Thermal Power
+brick_Cooling_Supply_Air_Temperature_Dead_Band_Setpoint
+rice_averageSpaceTemperatureARoom_324_Area5
+Return Air Dewpoint
+Computer Room Air Conditioning
+brick_Unoccupied_Cooling_Discharge_Air_Flow_Setpoint
+Exhaust fans are typically arranged so that they can be fired in stages as per requirement. This command controls which stage is switched on
+Motor Direction Command
+VFD Speed Setpoint
+Pump Lead Lag Command
+Heating Discharge Air Temperature Dead Band Setpoint
+brick_Variable_Frequency_Drive
+VFD Running Hour Sensor
+rice_operatingModeA5th_Floor_Area1
+rice_ventOptStatusV2nd_Floor_Chilled_Beam_Source_VAS2
+brick_Booster_Fan_Start_Stop_Command
+btag_Rated
+CO2 High Alarm
+btag_Wind
+btag_Wing
+btag_Smoke
+Cooling Discharge Air Temperature Proportional Band Setpoint
+brick_AHU_Discharge_Air_Temperature_Reset_Differential_Setpoint
+brick_Humidifier_Panel_No_Water_Alarm
+Limit
+brick_Frequency
+brick_Flow
+Piezoelectric Sensor
+brick_Medium_Temperature_Hot_Water_Differential_Pressure_Load_Shed_Reset_Status
+AHU Outside Air Dewpoint Sensor
+brick_Hot_Water_Supply_Temperature_High_Reset_Setpoint
+btag_Deionised
+brick_Roof
+btag_Alarm
+Heat Exchanger Discharge Water Temperature Dead Band
+brick_Hot_Water_Pump
+rice_spaceSensorARoom_322_Area4
+Domestic Hot Water System Enable
+brick_AHU_Fan_Start_Stop_Status
+Heating Min Discharge Air Flow
+rice_TEMP2_Space_Temperature_RMI024
+btag_VFD
+Exhaust Fan Fire Control Panel Off Command
+brick_Compressor
+brick_Peak_Power_Demand_Sensor
+brick_DemandResponse_Medium_Temperature_Hot_Water_Differential_Pressure_Load_Shed_Status
+brick_Thermal_Energy_Storage_Discharge_Water_Differential_Pressure_Dead_Band_Setpoint
+brick_Exhaust_Fan_Enable_Command
+AHU Preheat Supply Air Temperature Sensor
+brick_AHU_Run_Request_Command
+btag_Furniture
+Solar Azimuth Angle Sensor
+brick_AHU_Fire_Control_Panel_Off_Command
+Panel Lockout Command
+AHU Heat Wheel Voltage Sensor
+brick_Discharge_Air_Static_Pressure_Sensor
+AHU Warmest Zone Temperature Sensor
+brick_Medium_Temperature_Hot_Water_Discharge_Temperature_Sensor
+rice_economizerDisableDifferentialDryBulbA1st_Floor_Area1
+brick_Exhaust_Air_Static_Pressure_Setpoint
+bf_contains
+Economizer Enable Differential Temperature Setpoint
+brick_Standby_Unit_On_Off_Status
+brick_VAV_Effective_Cooling_Temperature_Setpoint
+brick_Heat_Exchanger_Valve
+btag_FCP
+rice_VAV6
+btag_FCU
+brick_Hail
+brick_Outside_Enthalpy_Sensor
+rice_ventOptStatusVChilled_Beam_Source_VAS3
+brick_Chilled_Water_Discharge_Temperature
+AHU Off LED
+brick_Sensor
+Chiller Run Time Sensor
+Economizer Enable Fixed Enthalpy
+Chilled Water Differential Pressure Dead Band Setpoint
+brick_AHU_Return_Fan_Status
+brick_Cooling_Supply_Air_Temperature_Dead_Band
+Pre Filter Status
+brick_Static_Pressure_Max_Setpoint
+AHU Average Zone Temperature Sensor
+CRAC Low Humidity Alarm Setpoint
+Pump Start Stop Status
+brick_Supply_Fan_Piezoelectric
+Supply Air Smoke Detected
+brick_VFD_Run_Status
+brick_Perimeter_Heating_Valve
+brick_Panel_Lockout
+brick_Unoccupied_Load_Shed
+bf_hasSubAsset
+rice_ductPressOptMaxPos5th_Floor_Perimeter_Devices_VAS2
+brick_Occupancy
+Preheat Supply Air Temperature
+Supply Fan VFD Speed Setpoint
+Chilled Water Pump Status
+rice_TEMP2_Perm_Temperature_Rm_232
+Emergency Power Off System Enable
+Chilled Water Return Temperature
+rice_Lab_Humidity_RM_I228
+AHU CO2 Differential Sensor
+rice_CB228_CHW_Supply_Temp
+brick_Max_Discharge_Air_Temperature
+AHU Preheat Coil Entering Air Temperature Sensor
+VAV Supply Air Temperature Heating Setpoint
+brick_AHU_Discharge_Air_Temperature_Heating_Setpoint
+Heating
+brick_Last_Fault_Code_Status
+rice_High_Static_Cutout_Limitscc2AV022
+Chilled Water System Enable
+Exhaust Bypass Damper Command
+brick_Return_Fan_Fan_Air_Flow_Sensor
+brick_Discharge_Air_Temperature_High_Limit
+Heat Wheel Voltage Sensor
+VAV CO2 Level Sensor
+CRAC Humidity Setpoint
+CRAC Cooling On Off Status
+rice_Zone_Temp_2_RMI032
+AHU Cooling Valve Command
+brick_Terminal_Unit
+rice_diagVasUnableToDriveMaxVChilled_Beam_Source_VAS3
+brick_Return_Air_CO2
+Exhaust Fan Overridden On Status
+brick_Change_Filter
+brick_VAV_Box_Operating_Mode_Status
+AHU Economizer Differential Air Temperature Setpoint
+rice_Zone_Temp_2_RMI108
+Cooling Request Percent Setpoint
+btag_Remotely
+rice_economizerEnableFixedDewPointA1st_Floor_Area1
+Return Fan VFD Speed Command
+rice_RMI527_Zone_Temp_8
+VAV Temporary Occupancy Status
+Economizer Status
+brick_Static_Pressure_Max
+Acceleration Time Setpoint
+brick_VFD_Deceleration_Time_Setpoint
+Difference between supply and return temperature
+Peak Energy Today
+VAV Discharge Air Duct Pressure Status
+brick_VAV_Occupancy_Command
+brick_Hot_Water_Valve_Command
+btag_Glycool
+VAV Cooling Demand Setpoint
+VAV Schedule Temperature Setpoint
+Hot Water Discharge Temperature
+brick_Discharge_Air_Flow_Sensor
+btag_Vent
+brick_Hot_Water_Pump_Alarm
+Indicates if valve is being used or not. Important for multi-valve systems
+rice_standbyOffsetA5th_Floor_Area1
+brick_AHU_Discharge_Fan_VFD_Speed_Status
+brick_Chilled_Water_System_Enable
+Discharge Fan VFD Speed Setpoint
+VFD Energy Sensor
+Cooling Coil Valve Pressure
+brick_CRAC_Power_Loss_Alarm
+rice_Zone_Temp_5_RMIC156E
+brick_Emergency_Power_Off_Status
+brick_AHU_Min_Discharge_Air_Temperature_Setpoint
+Heating Supply Air Temperature Proportional Band Setpoint
+brick_AHU_Cooling_Discharge_Air_Temperature_Integral_Time_Setpoint
+rice_Thumbwheel_Set_point_Lo_Limit
+brick_Heat_Exchanger_Discharge_Water_Temperature_Dead_Band_Setpoint
+brick_Elevator
+CWS Chilled Water Static Pressure Setpoint
+System Mode
+Fire Control Panel Command
+Heating Discharge Air Temperature Proportional Band Setpoint
+Fire Control Panel On Command
+VFD Speed Command
+FCU Discharge Fan VFD Speed Sensor
+brick_Occupied_Heating_Supply_Air_Flow
+rice_RMI512_Space_Temperature_Perimeter
+btag_Today
+FCU Supply Fan VFD Speed Setpoint
+Maintenance Mode
+brick_Fault_Status
+brick_Zone_Temperature_Sensor
+brick_Hot_Water_System_Enable
+Max Supply Air Temperature Setpoint
+Discharge Air Static Pressure Setpoint
+Air Temperature High Reset
+Heat Exchanger Supply Water Temperature Dead Band Setpoint
+brick_Economizer_Supply_Air_Temperature_Proportional_Band
+brick_Min_VFD_Speed
+brick_Laboratory
+FCU Cooling Valve Command
+rice_ChilledBeamCHWReturnTemppgm2UIP14
+brick_Run_Direction_Status
+Occupied Heating Min Discharge Air Flow Setpoint
+AHU On LED
+brick_Direction
+Wind Direction Sensor
+Supply Air Flow Command
+btag_Delay
+btag_Dewpoint
+Reheat
+brick_Humidity_Tolerance
+brick_CRAC_High_Humidity_Alarm_Setpoint
+brick_Hot_Water_Static_Pressure_Setpoint
+btag_Perimeter
+brick_Pump_Start_Stop_Status
+brick_CRAC_Standby_Glycool_Unit_On_Off_Status
+brick_Humidifier_Alarm
+btag_High
+brick_Supply_Fan_VFD_Speed
+brick_Drive_Temperature_Sensor
+brick_Current_Sensor
+Medium Temperature Hot Water Return Temperature Sensor
+brick_Hot_Water_Pump_VFD_Speed
+Return Air CO2 Sensor
+HWS Hot Water Pump Alarm
+Heating Request Percent Setpoint
+bf_usesPoint
+brick_Discharge_Air_Flow_Command
+btag_Hail
+CRAC Hold Status
+Occupied Cooling Supply Air Flow
+Occupied Mode Status
+Exhaust Air Static Pressure Integral Time
+AHU CO2 High Alarm
+brick_AHU_Cooling_Discharge_Air_Temperature_Dead_Band_Setpoint
+AHU Differential Pressure Sensor
+Request to have AHU turn on
+brick_CRAC_Capacity_Sensor
+Supply Water Temperature Integral Time Setpoint
+brick_Condensor
+rice_Space_Humidity_RMI206
+Rain Duration Sensor
+DemandResponse Medium Temperature Hot Water Discharge Temperature Load Shed Status
+btag_Open
+brick_Proportional_Gain_Setpoint
+rice_occupancyStatusAAuditorium_Area4
+btag_Humidity
+Domestic Hot Water Valve
+AHU Heat Wheel Supply Air Temperature Sensor
+rice_Ventilation_Ratio_Limit_BAS
+brick_Hot_Water_Differential_Pressure_Proportional_Band
+Heat Wheel Differential Pressure Sensor
+Activated
+bf_hasOutput
+brick_DemandResponse_Chilled_Water_Differential_Pressure_Load_Shed_Status
+CRAC Liquid Detected Alarm
+Solar_Panel Solar Azimuth Angle Sensor
+Volume
+Emergency Power Off System
+brick_AHU_Exhaust_Fan_Overridden_Off_Status
+Max VFD Speed Setpoint
+Desk
+brick_Chilled_Water_Pump_Lead_Lag_Status
+rice_TEMP3_Space_Temperature_RmI007A
+brick_Preheat_Hot_Water_Valve
+brick_Max_Chilled_Water_Differential_Pressure_Setpoint
+brick_Air_Temperature_High_Reset
+rice_VAV5
+rice_VAV4
+rice_VAV7
+brick_VAV_Heating_Min_Discharge_Air_Flow_Setpoint
+brick_Mixed_Air_Damper_Position_Command
+Dual
+rice_VAV3
+rice_VAV2
+btag_Fire_Control_Panel
+Outside Air Damper
+AHU Preheat Demand Setpoint
+CO2 Level Sensor
+rice_RMI506_Zone_Temp_7
+btag_Compressor
+VFD Run Time Sensor
+brick_FCU_Return_Air_CO2_Sensor
+AHU Discharge Fan VFD Speed Status
+rice_averageSpaceTemperatureABasement_Area2
+Booster Fan
+rice_RmI526_Space_Temperature
+rice_operatingMode1st_Floor_Chilled_Beam_VAS2
+brick_Economizer_Damper_Command
+brick_VAV_Occupied_Heating_Discharge_Air_Flow_Setpoint
+brick_Supply_Water_Temperature_Sensor
+rice_RMI536_Zone_Temp_2
+brick_Supply_Fan_VFD_Speed_Status
+brick_Luminance
+HWS Hot Water Flow Meter
+Min Air Flow
+brick_AHU_Exhaust_Fan_Fire_Control_Panel_On_Command
+Drive Temperature Sensor
+brick_HVAC_Average_Cooling_Demand_Sensor
+VAV Supply Air Temperature Sensor
+Power_System Peak Power Demand Sensor
+brick_Supply_Fan_Command
+Switch
+Date
+rice_Mixed_Air_Temperature_Localscc2
+btag_Power_System
+Hot Water Differential Pressure Proportional Band Setpoint
+brick_Hot_Box
+btag_Level
+brick_Hand_Auto_Status
+Hot Box Temperature Sensor
+btag_Fume
+Emergency Air Flow Status
+rice_occupancyStatus2nd_Floor_Chilled_Beam_Source_VAS2
+brick_HWS_Hot_Water_Pump_Lead_Lag_Command
+btag_Coil
+Schedule Temperature

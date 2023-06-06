@@ -1,0 +1,20 @@
+{
+    "directory" : "./sc_data",
+    "license" : "/home/lin/work_dir/fma.lic",
+
+    "host" : "0.0.0.0",
+    "port" : 7099,
+
+    "verbose" : 2,
+    "log_file" : "./lgraph.log",
+
+    "ssl_auth" : false,
+    "server_key" : "/usr/local/etc/lgraph/server-key.pem",
+    "server_cert" : "/usr/local/etc/lgraph/server-cert.pem",
+
+    "cpp_plugin" : "/usr/local/lib64/lgraph/cpp_plugin",
+    "python_plugin" : "/usr/local/lib64/lgraph/python_plugin",
+    "load_plugins" : false,
+    "n_python_workers" : 1,
+    "web" : "/home/lin/local/share/lgraph/resource"
+}

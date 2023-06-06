@@ -1,0 +1,6 @@
+bf_usesLocation,bf_usesDimension
+bf_usesPoint,bf_usesDimension
+bf_usesEquipment,bf_usesDimension
+bf_usedByDimension,bf_usedBy
+bf_usedByPoint,bf_usedByDimension
+bf_usesMeasurement,bf_usesDimension

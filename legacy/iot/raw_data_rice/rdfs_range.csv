@@ -1,0 +1,13 @@
+bf_isInputOf,bf_FunctionBlock
+bf_isTagOf,bf_Taggable
+bf_isTokenOf,bf_Label
+bf_similarTagSet,bf_TagSet
+bf_hasTagSet,bf_TagSet
+bf_isOutputOf,bf_FunctionBlock
+bf_isTagSetOf,bf_Taggable
+bf_hasOutput,bf_Signal
+bf_hasPoint,bf_Point
+bf_hasInput,bf_Signal
+bf_hasTag,bf_Tag
+bf_hasToken,bf_Token
+bf_isPointOf,bf_Point

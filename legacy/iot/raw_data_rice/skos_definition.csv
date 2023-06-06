@@ -1,0 +1,490 @@
+btag_Velocity,<null>
+btag_Storage,<null>
+btag_Start,<null>
+brick_AHU_Economizer_Mode_Status,virtual point used for controls
+btag_Cutout,<null>
+btag_Capacity,<null>
+brick_VFD_Acceleration_Time_Setpoint,Setpoint for acceleration
+btag_Frost,<null>
+brick_Average_Cooling_Demand_Sensor,Average of cooling demand across thermal zones. This could be for one AHU or one floor or entire building
+btag_Failure,<null>
+brick_VAV_CO2_Level_Sensor,Sensor for the measurement of carbon dioxide gas.
+btag_Domestic,<null>
+btag_Peak,<null>
+btag_Lockout,<null>
+brick_VFD_Run_Direction_Status,Status of VFD direction. Synonym
+btag_PID,<null>
+brick_VFD_Hand_Auto_Status,Indicates if it is in manual or auto mode.
+btag_Lowest,<null>
+btag_Off,<null>
+brick_Chilled_Water_Pump_Enable_Status,Allows the pump to be used. It is a sensor.
+btag_High,<null>
+btag_Shed,<null>
+btag_Condensate,<null>
+btag_Remotely,<null>
+btag_Warm,<null>
+btag_Hail,<null>
+btag_Output,<null>
+brick_AHU_Outside_Air_Lockout_Temperature_Setpoint,Temperature at which chiller stops cooling because outside air is too cold already
+brick_AHU_VFD_Speed_Command,Tells the VFD to run at certain % of its capacity
+btag_Protect,<null>
+btag_Integrative,<null>
+btag_Leak,<null>
+brick_AHU_Discharge_Fan_VFD_Speed_Command,AHU commands its supply fans to run at specified % of its capacity
+brick_Return_Fan_Air_Flow_Sensor,Air flow measurements specific to a fan
+brick_Chilled_Water,Water used as a cooling medium (particularly in air-conditioning systems or in processes) at below ambient temperature.
+btag_Low,<null>
+btag_Wing,<null>
+btag_Freezer,<null>
+brick_Unoccupied_Mode_Setpoint,virtual point used for controls
+btag_Override,<null>
+btag_Laboratory,<null>
+brick_Room_Temperature_Sensor,Room Temperature Sensor
+btag_Stages,<null>
+brick_Pre_Filter_Status,Pre-filter filters large particles. Point indicates the if filter is dirty
+btag_Stop,<null>
+brick_Load_Current_Sensor,Measured current
+btag_Even,<null>
+brick_Outside_Air_Lockout_Temperature_Differential_Sensor,Difference between measured temperature and lockout setpoint
+btag_FCU,<null>
+btag_Switch,<null>
+btag_Exchanger,<null>
+brick_VAV_Zone_Temperature_Sensor,Temperature sensor in the thermostat to measure the actual zone temperature
+brick_Status,"State, position, or condition of an item. (adopted from ASHRAE dictionary) Technically, this value should not be arbitrarily written by users or other systems as it is an observation."
+btag_Push,<null>
+brick_Fault_Reset_Command,Command to reset fault status after fixed by operator
+brick_Discharge_Air_Flow_Sensor,Discharge Air Flow Sensor
+btag_Compressor,<null>
+brick_Acceleration_Time_Setpoint,Setpoint for acceleration
+btag_Basement,<null>
+btag_Code,<null>
+brick_VAV_Temporary_Occupancy_Status,Sensor that indicates the button on thermostat has been pressed on weekend/nights. Typically turns On HVAC for a set number of hours.
+btag_Acceleration,<null>
+brick_VFD_Motor_Current_Sensor,Measured current
+brick_Temperature_Sensor,A general purpose temperature sensor
+btag_Overload,<null>
+btag_Frequency,<null>
+brick_VAV_Zone_Air_Temperature_Sensor,Temperature sensor in the thermostat to measure the actual zone temperature
+btag_Relative,<null>
+btag_Step,<null>
+brick_VFD_Speed_Command,Tells the VFD to run at certain % of its capacity
+btag_Request,<null>
+btag_Turn,<null>
+btag_Last,<null>
+btag_Schedule,<null>
+btag_Emergency,<null>
+btag_Unit,<null>
+btag_Power,<null>
+btag_DemandResponse,<null>
+btag_Ventilation,<null>
+btag_Fume,<null>
+btag_Piezoelectric,<null>
+brick_VAV_Damper_Position_Sensor,Percentage of damper open
+brick_Drive_Ready_Status,TBD
+brick_Economizer_Mode_Status,virtual point used for controls
+brick_Occupied_Mode_Status,virtual point used for controls
+brick_Zone_Temperature_Sensor,Temperature sensor in the thermostat to measure the actual zone temperature
+btag_AHU,<null>
+btag_UndefinedMeasurement,<null>
+btag_Reheat,<null>
+brick_AHU_Economizer_Differential_Air_Temperature_Setpoint,Difference between return air flow and outside air flow
+brick_DC_Bus_Voltage_Sensor,Voltage measured on the communication/control lines
+btag_Supply,<null>
+btag_Fresh,<null>
+brick_FCU_Humidity_Sensor,A general purpose humidity sensor
+brick_CRAC_Humidity_Sensor,A general purpose humidity sensor
+btag_Drive,<null>
+brick_Return_Air,"Air removed from a space to be recirculated or exhausted. Air extracted from a space and totally or partially returned to an air conditioner, furnace, or other heating, cooling, or ventilating system."
+btag_Reference,<null>
+btag_Dew,<null>
+brick_AHU_Fan_Run_Request_Status,Request from AHU for the fan to run
+btag_Furniture,<null>
+brick_VAV_Thermostat_Adjust_Sensor,User's delta command to control temperature setpoint in thermostat
+brick_Pressure_Sensor,A general purpose pressure sensor
+btag_Fire,<null>
+btag_Conditioning,<null>
+btag_CRAC,<null>
+btag_Indicator,<null>
+btag_Occupancy,<null>
+brick_AHU_Static_Pressure_Max_Setpoint,Max Static Pressure in the supply duct (per Design)
+btag_Condenser,<null>
+btag_Motor,<null>
+btag_Rain,<null>
+btag_FCP,<null>
+btag_Exhaust,<null>
+btag_Auto,<null>
+btag_Thermal,<null>
+btag_Manual,<null>
+brick_Run_Time_Sensor,Sensor that measures accumulated hours of equipment operation.
+btag_Location,<null>
+btag_Handler,<null>
+btag_Steam,<null>
+btag_Gain,<null>
+btag_Usage,<null>
+btag_Average,<null>
+btag_Battery,<null>
+btag_DI,<null>
+btag_Enthalpy,<null>
+brick_Return_Fan_VFD_Speed_Command,AHU commands its return fans to run at specified % of its capacity
+btag_Adjustment,<null>
+brick_Static_Pressure_Max_Setpoint,Max Static Pressure in the supply duct (per Design)
+btag_Humidify,<null>
+brick_Building_Exhaust_Fans_Stage_Command,Exhaust fans are typically arranged so that they can be fired in stages as per requirement. This command controls which stage is switched on
+brick_AHU_Dual_Band_Mode_Setpoint,virtual point used for controls
+brick_Humidity_Sensor,A general purpose humidity sensor
+brick_Warm_Cool_Adjust_Sensor,User's delta command to control temperature setpoint in thermostat
+brick_VFD_Deceleration_Time_Setpoint,Setpoint for deceleration
+brick_FCU_CO2_Sensor,Sensor for the measurement of carbon dioxide gas.
+brick_Run_Request_Command,Request to have AHU turn on
+btag_Underfloor,<null>
+brick_Economizer_Differential_Air_Temperature_Setpoint,Difference between return air flow and outside air flow
+btag_Mixed,<null>
+btag_Hour,<null>
+btag_Point,<null>
+btag_WS,<null>
+btag_Level,<null>
+btag_Today,<null>
+brick_VFD_Motor_Direction_Command,Command to change VFD direction
+brick_Current_Limit_Setpoint,Setpoint for max current consumed by VFD
+brick_FCU_Cooling_Valve_Command,Can also be part of CRAC
+btag_Generator,<null>
+brick_AHU_Supply_Fan_VFD_Speed_Command,AHU commands its supply fans to run at specified % of its capacity
+btag_Voltage,<null>
+brick_Run_Direction_Status,Status of VFD direction. Synonym
+brick_AHU_CO2_Differential_Sensor,Sensor that measures the difference in CO2 level between any two points in the system.
+btag_Decrease,<null>
+brick_DI_Water,Very pure water. Used in research labs
+btag_Static,<null>
+btag_Failed,<null>
+brick_VAV_Discharge_Air_Flow_Sensor,Discharge Air Flow Sensor
+btag_Filter,<null>
+btag_To,<null>
+brick_Exhaust_Fan_Enable_Command,Enable switch for one particular exhaust fan
+brick_Chiller_Run_Time_Sensor,Sensor that measures accumulated hours of equipment operation.
+brick_AHU_Pre_Filter_Status,Pre-filter filters large particles. Point indicates the if filter is dirty
+btag_DC,<null>
+btag_Deceleration,<null>
+btag_City,<null>
+brick_HVAC_Average_Cooling_Demand_Sensor,Average of cooling demand across thermal zones. This could be for one AHU or one floor or entire building
+btag_Timer,<null>
+btag_HX,<null>
+btag_Humidity,<null>
+btag_Effective,<null>
+brick_VFD_Motor_Torque_Sensor,Measured torque
+brick_Exhaust_Fan_System_Enable_Command,Enable switch for a collection of exhaust fans
+brick_FCU_Supply_Fan_VFD_Speed_Command,AHU commands its supply fans to run at specified % of its capacity
+btag_Differential,<null>
+btag_Floor,<null>
+btag_Integral,<null>
+brick_Change_Filter_Alarm,Alarm to change dirty filter
+btag_Volume,<null>
+btag_Heating,<null>
+btag_Thermostat,<null>
+btag_Flow,<null>
+btag_Return,<null>
+brick_FCU_Run_Time_Sensor,Sensor that measures accumulated hours of equipment operation.
+btag_Duct,<null>
+btag_Temporary,<null>
+btag_Temperature,<null>
+btag_Booster,<null>
+brick_VFD_Drive_Temperature_Sensor,Measures VFD temperature
+btag_Control,<null>
+btag_Bus,<null>
+brick_VFD_DC_Bus_Voltage_Sensor,Voltage measured on the communication/control lines
+btag_Current,<null>
+btag_Monthly,<null>
+btag_By,<null>
+btag_Tank,<null>
+btag_Duration,<null>
+brick_Static_Pressure_Sensor,Static Pressure in the supply duct
+btag_Fans,<null>
+btag_Shutdown,<null>
+brick_CWS_Chilled_Water_Pump_Enable_Status,Allows the pump to be used. It is a sensor.
+btag_Heat,<null>
+btag_Unoccupied,<null>
+btag_Demand,<null>
+btag_Sash,<null>
+btag_Operating,<null>
+brick_CO2_Level_Sensor,Sensor for the measurement of carbon dioxide gas.
+btag_Lighting,<null>
+btag_Dehumidification,<null>
+brick_AHU_Overridden_On_Status,Indicates if the AHU has been manually overridden to be On
+btag_Gas,<null>
+btag_Cycle,<null>
+btag_Trace,<null>
+brick_FCU_VFD_Speed_Command,Tells the VFD to run at certain % of its capacity
+brick_Fume_Hood_Emergency_Air_Flow_Status,Binary value indicating if emergency air flow is on/off
+brick_VFD_Manual_Auto_Status,Indicates if it is in manual or auto mode.
+btag_Radiance,<null>
+brick_VAV_CO2_Sensor,Sensor for the measurement of carbon dioxide gas.
+btag_Input,<null>
+brick_AHU_Outside_Air_Damper_Min_Position_Setpoint,Part of economizer to ensure minimum air flow
+brick_Overridden_Off_Status,Indicates if the AHU has been manually overridden to be Off
+brick_Flow_Sensor,A general purpose flow sensor
+brick_Zone_Air_Temperature_Sensor,Temperature sensor in the thermostat to measure the actual zone temperature
+brick_VFD_Run_Enable_Command,A command that allows VFD to be used
+btag_Date,<null>
+brick_AHU_Zone_Air_Temperature_Sensor,Temperature sensor in the thermostat to measure the actual zone temperature
+btag_Computer,<null>
+btag_Fixed,<null>
+btag_Fault,<null>
+brick_Supply_Fan_VFD_Speed_Command,AHU commands its supply fans to run at specified % of its capacity
+brick_VAV_Zone_Temperature_Setpoint,A temperature setpoint in charge of a zone.
+brick_VFD_Drive_Ready_Status,TBD
+btag_Run,<null>
+btag_Automatic,<null>
+btag_Coil,<null>
+btag_Liquid,<null>
+brick_Overridden_On_Status,Indicates if the AHU has been manually overridden to be On
+btag_Hood,<null>
+brick_AHU_Unoccupied_Mode_Setpoint,virtual point used for controls
+btag_Space,<null>
+btag_Preheat,<null>
+btag_System,<null>
+btag_Chair,<null>
+btag_Water,<null>
+brick_VFD_Current_Limit_Setpoint,Setpoint for max current consumed by VFD
+btag_When,<null>
+btag_PIR,<null>
+btag_Photovoltaic,<null>
+btag_Mode,<null>
+btag_Box,<null>
+btag_Analog,<null>
+btag_Ready,<null>
+btag_DHWS,<null>
+brick_Low_Outside_Air_Temperature_Enable_Setpoint,Temperature at which outside air is Low
+btag_Tower,<null>
+brick_FCU_Zone_Air_Temperature_Sensor,Temperature sensor in the thermostat to measure the actual zone temperature
+brick_AHU_Outside_Air_Lockout_Temperature_Differential_Sensor,Difference between measured temperature and lockout setpoint
+brick_VFD_Filter_Reset_Command,Command to reset the filter status
+btag_Perimeter,<null>
+btag_Panel,<null>
+btag_Room,<null>
+btag_Chilled,<null>
+btag_Dead,<null>
+btag_Deionised,<null>
+btag_Direction,<null>
+brick_FCU_Zone_Temperature_Sensor,Temperature sensor in the thermostat to measure the actual zone temperature
+brick_VFD_Rated_Speed_Setpoint,Maximum speed specified by manufacturer
+btag_CO2,<null>
+brick_VAV_Cooling_Valve_Command,Can also be part of CRAC
+brick_AHU_Exhaust_Fan_System_Enable_Command,Enable switch for a collection of exhaust fans
+btag_Luminance,<null>
+btag_Running,<null>
+brick_VFD_Last_Fault_Code_Status,TBD
+brick_AHU_Change_Filter_Alarm,Alarm to change dirty filter
+brick_Rated_Speed_Setpoint,Maximum speed specified by manufacturer
+brick_Command,Output point that determines equipment's behavior directly and/or affects relevant operational points.
+btag_Economizer,<null>
+btag_Variable,<null>
+btag_Max,<null>
+btag_Zenith,<null>
+btag_Elevator,<null>
+btag_Chiller,<null>
+brick_VFD_Load_Current_Sensor,Measured current
+btag_HVAC,<null>
+brick_VFD_Cooling_Valve_Command,Can also be part of CRAC
+brick_Domestic_Hot_Water,Heating water for domestic or commercial purposes other than space heating and process requirements.
+btag_Locally,<null>
+brick_FCU_Return_Fan_VFD_Speed_Command,AHU commands its return fans to run at specified % of its capacity
+brick_Min_VFD_Speed_Setpoint,Min VFD Speed To Increase Static Pressure Setpoint
+brick_Boiler_Run_Time_Sensor,Sensor that measures accumulated hours of equipment operation.
+brick_Manual_Auto_Status,Indicates if it is in manual or auto mode.
+brick_Outside_Air,"Air outside a building or taken from the external atmosphere and, therefore, not previously circulated through the system."
+btag_Reset,<null>
+btag_Face,<null>
+brick_Chilled_Water_Temperature_Differential_Sensor,Difference between supply and return temperature
+btag_Detected,<null>
+brick_VFD_Run_Time_Sensor,Sensor that measures accumulated hours of equipment operation.
+btag_Electrical,<null>
+brick_HVAC_Average_Discharge_Air_Flow_Sensor,"Average of supply air to thermal zones. Granurality: AHU, floor, building"
+btag_Loss,<null>
+btag_Angle,<null>
+brick_Mixed_Air,Combined outdoor air and return air.
+btag_Fan,<null>
+btag_Humidifier,<null>
+btag_Pressure,<null>
+brick_Max_VFD_Speed_Setpoint,Max VFD Speed To Increase Static Pressure Setpoint
+brick_VAV_Warm_Cool_Adjust_Sensor,User's delta command to control temperature setpoint in thermostat
+btag_Rated,<null>
+brick_AHU_Static_Pressure_Sensor,Static Pressure in the supply duct
+brick_CO2_Sensor,Sensor that measures the difference in CO2 level between any two points in the system.
+btag_Response,<null>
+btag_Roof,<null>
+btag_Position,<null>
+btag_Time,<null>
+brick_AHU_Cooling_Valve_Command,Can also be part of CRAC
+btag_Ice,<null>
+btag_Medium,<null>
+brick_VFD_Fault_Reset_Command,Command to reset fault status after fixed by operator
+btag_Button,<null>
+brick_Motor_Start_Stop_Command,Command to turn on/off VFD
+btag_Open,<null>
+brick_Outside_Air_Damper_Min_Position_Setpoint,Part of economizer to ensure minimum air flow
+btag_Zone,<null>
+btag_Weather,<null>
+btag_Cool,<null>
+brick_HVAC_Heat_Exchanger_Valve_Status,Indicates if valve is being used or not. Important for multi-valve systems
+btag_Meter,<null>
+btag_Damper,<null>
+brick_Supply_Air,"Air entering a space from an air-conditioning, heating, or ventilating apparatus for the purpose of comfort conditioning."
+btag_Equipment,<null>
+btag_Disable,<null>
+brick_AHU_CO2_Sensor,Sensor that measures the difference in CO2 level between any two points in the system.
+btag_Enable,<null>
+btag_No,<null>
+btag_CWS,<null>
+btag_Percent,<null>
+btag_Warmest,<null>
+btag_Detection,<null>
+brick_Outside_Air_Lockout_Temperature_Setpoint,Temperature at which chiller stops cooling because outside air is too cold already
+btag_Sensor,<null>
+btag_Outside,<null>
+btag_EconCycle,<null>
+brick_Run_Enable_Command,A command that allows VFD to be used
+brick_AHU_Return_Fan_VFD_Speed_Command,AHU commands its return fans to run at specified % of its capacity
+btag_Turned,<null>
+btag_Month,<null>
+btag_Air,<null>
+btag_Heater,<null>
+btag_Suction,<null>
+btag_Dual,<null>
+btag_Standby,<null>
+brick_Thermostat_Adjust_Sensor,User's delta command to control temperature setpoint in thermostat
+btag_Isolation,<null>
+btag_Required,<null>
+brick_AHU_Building_Exhaust_Fans_Stage_Command,Exhaust fans are typically arranged so that they can be fired in stages as per requirement. This command controls which stage is switched on
+btag_Wheel,<null>
+brick_VAV_Room_Temperature_Sensor,Room Temperature Sensor
+btag_Tolerance,<null>
+brick_Motor_Direction_Status,Status of VFD direction. Synonym
+btag_Torque,<null>
+brick_AHU_Zone_Temperature_Sensor,Temperature sensor in the thermostat to measure the actual zone temperature
+brick_VFD_Motor_Start_Stop_Command,Command to turn on/off VFD
+btag_Alarm,<null>
+btag_Safety,<null>
+brick_Outside_Air_Temperature_Sensor,at the inlet of the AHU
+brick_Damper_Position_Sensor,Percentage of damper open
+brick_Economizer_Status,virtual point used for controls
+brick_Economizer_Damper_Min_Position_Setpoint,Part of economizer to ensure minimum air flow
+btag_Load,<null>
+btag_Maintenance,<null>
+brick_Sensor,Device or instrument designed to detect and measure a variable.
+btag_Adjust,<null>
+brick_AHU_Run_Time_Sensor,Sensor that measures accumulated hours of equipment operation.
+btag_Overridden,<null>
+btag_Stage,<null>
+btag_Hot,<null>
+brick_Fan_Run_Request_Status,Request from AHU for the fan to run
+btag_Solar,<null>
+btag_Boiler,<null>
+brick_AHU_Return_Fan_Air_Flow_Sensor,Air flow measurements specific to a fan
+btag_Desk,<null>
+btag_LED,<null>
+brick_Motor_Torque_Sensor,Measured torque
+btag_VFD,<null>
+btag_Coldest,<null>
+btag_Discharge,<null>
+btag_Valve,<null>
+btag_Condensor,<null>
+brick_Average_Supply_Air_Flow_Sensor,"Average of supply air to thermal zones. Granurality: AHU, floor, building"
+btag_On,<null>
+btag_Building,<null>
+brick_Temporary_Occupancy_Status,Sensor that indicates the button on thermostat has been pressed on weekend/nights. Typically turns On HVAC for a set number of hours.
+btag_Freeze,<null>
+btag_Command,<null>
+brick_Deceleration_Time_Setpoint,Setpoint for deceleration
+brick_Discharge_Fan_VFD_Speed_Command,AHU commands its supply fans to run at specified % of its capacity
+brick_Filter_Reset_Command,Command to reset the filter status
+btag_Band,<null>
+btag_Min,<null>
+btag_Energy,<null>
+brick_Cooling_Valve_Command,Can also be part of CRAC
+brick_FCU_Discharge_Fan_VFD_Speed_Command,AHU commands its supply fans to run at specified % of its capacity
+btag_Inverter,<null>
+btag_PV,<null>
+btag_Humidification,<null>
+btag_Leaving,<null>
+btag_Smoke,<null>
+btag_HWS,<null>
+btag_Short,<null>
+btag_Cold,<null>
+brick_Exhaust_Air,"Air that must be removed from a space due to contaminants, regardless of pressurization"
+brick_AHU_Economizer_Damper_Min_Position_Setpoint,Part of economizer to ensure minimum air flow
+btag_Status,<null>
+brick_VFD_Motor_Direction_Status,Status of VFD direction. Synonym
+brick_Deionised_Water,Very pure water. Used in research labs
+btag_Azimuth,<null>
+brick_Drive_Temperature_Sensor,Measures VFD temperature
+brick_AHU_Exhaust_Fan_Enable_Command,Enable switch for one particular exhaust fan
+brick_AHU_Occupied_Mode_Status,virtual point used for controls
+btag_Environment,<null>
+brick_AHU_Outside_Air_Temperature_Sensor,at the inlet of the AHU
+btag_Factor,<null>
+btag_Activated,<null>
+btag_Increase,<null>
+btag_Communication,<null>
+btag_Glycool,<null>
+btag_Lead,<null>
+brick_AHU_Min_VFD_Speed_Setpoint,Min VFD Speed To Increase Static Pressure Setpoint
+brick_Heat_Exchanger_Valve_Status,Indicates if valve is being used or not. Important for multi-valve systems
+brick_Last_Fault_Code_Status,TBD
+btag_Wind,<null>
+btag_Vent,<null>
+btag_Grains,<null>
+btag_Curtailment,<null>
+btag_VAV,<null>
+btag_Occupied,<null>
+brick_AHU_Max_VFD_Speed_Setpoint,Max VFD Speed To Increase Static Pressure Setpoint
+btag_Digital,<null>
+brick_HVAC_Average_Supply_Air_Flow_Sensor,"Average of supply air to thermal zones. Granurality: AHU, floor, building"
+brick_Dual_Band_Mode_Setpoint,virtual point used for controls
+brick_CO2_Differential_Sensor,Sensor that measures the difference in CO2 level between any two points in the system.
+brick_AHU_Overridden_Off_Status,Indicates if the AHU has been manually overridden to be Off
+btag_Proportional,<null>
+btag_From,<null>
+brick_AHU_Run_Request_Command,Request to have AHU turn on
+btag_Ratio,<null>
+brick_Setpoint,Point at which the desired property is set. (modified from ASHRAE dictionary)
+btag_Highest,<null>
+btag_Delay,<null>
+brick_Run_Direction_Command,Command to change VFD direction
+btag_Stack,<null>
+brick_Hand_Auto_Status,Indicates if it is in manual or auto mode.
+brick_VAV_Supply_Air_Flow_Sensor,Discharge Air Flow Sensor
+btag_Close,<null>
+btag_Integration,<null>
+btag_Head,<null>
+brick_Average_Discharge_Air_Flow_Sensor,"Average of supply air to thermal zones. Granurality: AHU, floor, building"
+brick_Motor_Direction_Command,Command to change VFD direction
+brick_AHU_Low_Outside_Air_Temperature_Enable_Setpoint,Temperature at which outside air is Low
+brick_Motor_Current_Sensor,Measured current
+brick_CWS_Chilled_Water_Temperature_Differential_Sensor,Difference between supply and return temperature
+btag_Cooling,<null>
+btag_Thumbwheel,<null>
+btag_Minimum,<null>
+btag_Yearly,<null>
+btag_Estimation,<null>
+btag_Conductivity,<null>
+brick_VFD_Run_Direction_Command,Command to change VFD direction
+btag_Limit,<null>
+btag_Pre,<null>
+btag_Hand,<null>
+btag_Entering,<null>
+btag_Pump,<null>
+btag_Bypass,<null>
+btag_Terminal,<null>
+btag_Change,<null>
+btag_Server,<null>
+btag_Dewpoint,<null>
+btag_MeasurementProperty,<null>
+btag_Lag,<null>
+brick_AHU_Economizer_Status,virtual point used for controls
+btag_Hold,<null>
+brick_Emergency_Air_Flow_Status,Binary value indicating if emergency air flow is on/off
+brick_Zone_Temperature_Setpoint,A temperature setpoint in charge of a zone.
+btag_Stream,<null>
+brick_Alarm,"Signal, either audible or visual, or both, that alerts an operator to an off-normal condition which requires some form of corrective action. (adopted from ASHRAE dictionary)"
+brick_Supply_Air_Flow_Sensor,Discharge Air Flow Sensor
+btag_Setpoint,<null>
+btag_Speed,<null>
