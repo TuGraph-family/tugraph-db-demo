@@ -2,14 +2,7 @@
 由于史料的缺失，一些即使为人们熟知的历史事件也往往存在着很多未解之谜。以三国历史为例，诸葛亮为什么出山帮助当时势力弱小的刘备，同为天下英雄的曹操和刘备为什么成就差距巨大等等。以往学者往往采用二维关系分析历史，这样得出的结论往往比较片面。使用TuGraph将三国的历史人物和事件导入图模型中，使用图计算方式进行分析，能够帮助我们从有限的信息中获得更有价值的知识，是一种非常有意义的跨学科尝试。
 # 2. 数据建模
 我们设计了5类顶点和5类边，点包括“主公”，“州”，“文臣”，“武将”，“战役”，边包括“父亲”，“兄长”，“隶属”，“籍贯”，“参战”。其具体建模信息如下所示：
-5类点
-![image.png](images/leader.png)
-![image.png](images/states.png)
-![image.png](images/officer.png)
-![image.png](images/solider.png)
-![image.png](images/war.png)
-5类边
-![image.png](images/edges.png)
+![image.png](images/schema.png)
 # 3. 数据导入
 向TuGraph导入数据，既可以使用TuGraph的`lgraph_import`工具离线导入，也可以使用页面导入。lgraph_import导入命令如下所示
 ```shell
