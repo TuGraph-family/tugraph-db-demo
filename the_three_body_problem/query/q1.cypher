@@ -1,1 +1,0 @@
-MATCH (n)-[e:person_person]-(m) RETURN e
