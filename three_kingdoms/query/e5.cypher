@@ -1,0 +1,1 @@
+MATCH (cc:主公{name:"曹操"})-[]-(zy:战役) RETURN cc,zy

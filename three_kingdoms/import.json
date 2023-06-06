@@ -12,7 +12,7 @@
       "header": 1,
       "format": "CSV",
       "label": "主公",
-      "path": "rawdata/主公.csv"
+      "path": "raw_data/主公.csv"
     },
     {
       "columns": [
@@ -24,7 +24,7 @@
       "header": 1,
       "format": "CSV",
       "label": "文臣",
-      "path": "rawdata/文臣.csv"
+      "path": "raw_data/文臣.csv"
     },
     {
       "columns": [
@@ -36,7 +36,7 @@
       "header": 1,
       "format": "CSV",
       "label": "武将",
-      "path": "rawdata/武将.csv"
+      "path": "raw_data/武将.csv"
     },
     {
       "columns": [
@@ -46,7 +46,7 @@
       "header": 1,
       "format": "CSV",
       "label": "州",
-      "path": "rawdata/州.csv"
+      "path": "raw_data/州.csv"
     },
     {
       "columns": [
@@ -57,7 +57,7 @@
       "header": 1,
       "format": "CSV",
       "label": "战役",
-      "path": "rawdata/战役.csv"
+      "path": "raw_data/战役.csv"
     },
     {
       "DST_ID": "主公",
@@ -69,7 +69,7 @@
       "header": 1,
       "format": "CSV",
       "label": "父亲",
-      "path": "rawdata/关系_主公_父_主公.csv"
+      "path": "raw_data/关系_主公_父_主公.csv"
     },
     {
       "DST_ID": "主公",
@@ -81,7 +81,7 @@
       "header": 1,
       "format": "CSV",
       "label": "父亲",
-      "path": "rawdata/关系_武将_父_主公.csv"
+      "path": "raw_data/关系_武将_父_主公.csv"
     },
     {
       "DST_ID": "主公",
@@ -93,7 +93,7 @@
       "header": 1,
       "format": "CSV",
       "label": "兄长",
-      "path": "rawdata/关系_主公_兄_主公.csv"
+      "path": "raw_data/关系_主公_兄_主公.csv"
     },
     {
       "DST_ID": "主公",
@@ -105,7 +105,7 @@
       "header": 1,
       "format": "CSV",
       "label": "隶属",
-      "path": "rawdata/关系_文臣_隶属_主公.csv"
+      "path": "raw_data/关系_文臣_隶属_主公.csv"
     },
     {
       "DST_ID": "主公",
@@ -117,7 +117,7 @@
       "header": 1,
       "format": "CSV",
       "label": "隶属",
-      "path": "rawdata/关系_武将_隶属_主公.csv"
+      "path": "raw_data/关系_武将_隶属_主公.csv"
     },
     {
       "DST_ID": "主公",
@@ -129,7 +129,7 @@
       "header": 1,
       "format": "CSV",
       "label": "隶属",
-      "path": "rawdata/关系_主公_隶属_主公.csv"
+      "path": "raw_data/关系_主公_隶属_主公.csv"
     },
     {
       "DST_ID": "州",
@@ -141,7 +141,7 @@
       "header": 1,
       "format": "CSV",
       "label": "籍贯",
-      "path": "rawdata/关系_主公_籍贯_州.csv"
+      "path": "raw_data/关系_主公_籍贯_州.csv"
     },
     {
       "DST_ID": "州",
@@ -153,7 +153,7 @@
       "header": 1,
       "format": "CSV",
       "label": "籍贯",
-      "path": "rawdata/关系_文臣_籍贯_州.csv"
+      "path": "raw_data/关系_文臣_籍贯_州.csv"
     },
     {
       "DST_ID": "州",
@@ -165,7 +165,7 @@
       "header": 1,
       "format": "CSV",
       "label": "籍贯",
-      "path": "rawdata/关系_武将_籍贯_州.csv"
+      "path": "raw_data/关系_武将_籍贯_州.csv"
     },
     {
       "DST_ID": "战役",
@@ -177,7 +177,7 @@
       "header": 1,
       "format": "CSV",
       "label": "参战",
-      "path": "rawdata/关系_主公_参战_战役.csv"
+      "path": "raw_data/关系_主公_参战_战役.csv"
     }
   ],
   "schema": [
