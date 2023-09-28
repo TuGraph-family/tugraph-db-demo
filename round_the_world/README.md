@@ -81,7 +81,12 @@
 
 ## 一键部署
 
-将脚本control.sh中的 TUGRAPH_PATH改为本机tugraph-db地址，并按照默认编译步骤完成tugraph-db编译。然后执行
+### compile镜像或本地安装
+
+将脚本control.sh中的 TUGRAPH_BIN_PATH改为tugraph-db编译后可执行文件地址，将脚本plugin/make-demo.sh中TUGRAPH_PATH改为tugraph-db目录。
+若按照文档默认装方式将tugraph-db安装到用户主目录，则无需修改。
+
+然后执行
 ```bash
     bash control.sh
 ```
@@ -91,7 +96,11 @@
 
 ### runtime镜像
 
-若使用runtime镜像，将 TUGRAPH_PATH置为空字符串，然后执行control.sh脚本即可。
+若使用runtime镜像，执行
+```bash
+    bash control.sh start_all runtime
+```
+即可在localhost:8000 或者 {HOST_IP}:8000页面进行查看。
 
 ## 网页示例
 
@@ -113,7 +122,10 @@
 
 ## 详细部署流程
 
-前置条件：TuGraph已安装，版本推荐4.0.0。（部署测试版本为4.0.0）
+前置条件：
+- TuGraph已安装，版本推荐4.0.0。（部署测试版本为4.0.0）
+- 使用tugraph docker镜像时，需要指定docker 7071和8000端口与本机一致
+- 若使用tugraph compile docker镜像时，需要安装编译好tugraph-db（建议按照教程安装到用户主目录）
 
 ### 数据下载
 
@@ -154,28 +166,41 @@ optional arguments:
 
 ### 数据导入
 
-使用lgraph_import将图数据加载到数据库。若使用默认编译过程，lgraph_import维护[tugraph-db]/build/output目录下。[tugraph-db]为tugraph-db所在路径。执行以下命令：
+使用lgraph_import将图数据加载到数据库。`[lgraph_import]`为lgraph_import路径。执行以下命令：
 ```bash
-    [tugraph-db]/build/output/lgraph_import -c raw_data/import.json -d ./lgraph_db --overwrite true --v3 0
+    [lgraph_import] -c ./raw_data/import.json -d ./lgraph_db --overwrite true --v3 0
 ```
 将图数据导入到lgraph_db目录中。
 
 ### 数据库服务启动
 
-使用lgraph_server启动图数据库。lgraph_server所在目录与lgraph_import相同。执行以下命令：
+使用lgraph_server启动图数据库。`[lgraph_server]`为lgraph_server路径。执行以下命令：
 ```bash
-    [tugraph-db]/build/output/lgraph_server -c ./raw_data/lgraph_standalone.json -d start --unlimited_token 1
+    [lgraph_server] -c ./raw_data/lgraph_standalone.json -d start --unlimited_token 1
 ```
 启动服务。可通过本机7071端口访问确认导入是否成功。
 
 ### 编译算法
 
-在plugin目录下，将make_demo.sh文件中的 TUGRAPH_PATH改为本机上的tugraph-db目录，执行
+在plugin目录下，修改make_demo.sh文件：
+#### compile镜像或本地安装
+
+在plugin目录下，将make_demo.sh文件中的 TUGRAPH_PATH改为tugraph-db目录，执行
 ```bash
     bash make_demo.sh
     python3 reload.sh
 ```
-即可编译并执行demo算法。在reload.sh中可更改要加载算法的服务器的ip和端口。
+即可编译并加载demo算法。在reload.sh中可更改要加载算法的服务器的ip和端口。
+
+#### runtime镜像
+
+在plugin目录下，执行
+
+```bash
+    bash make_demo.sh runtime
+    python3 reload.sh
+```
+即可编译并加载demo算法。
 
 ### 航班网站服务启动
 
@@ -185,3 +210,12 @@ optional arguments:
     npm start
 ```
 即可启动航班网站服务。启动后可在 localhost:8000 或者 {HOST_IP}:8000 页面进行查看。详细命令可参考server/READMe.md文件。
+
+## Q&A
+
+- server npm安装失败
+答：可能为npm版本过低问题，执行
+```bash
+    npm install -g npm@latest
+```
+命令升级npm版本，重新执行命令即可。

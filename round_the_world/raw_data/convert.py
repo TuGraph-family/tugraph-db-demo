@@ -21,16 +21,22 @@ def calculate_distance(lat1, lon1, alt1, lat2, lon2, alt2):
     dlat = lat2_rad - lat1_rad
     dlon = lon2_rad - lon1_rad
 
-    float_alt1 = 0.
-    float_alt2 = 0.
-    try:
-        if alt1 != "":
-            float_alt1 = float(alt1)
-        if alt2 != "":
-            float_alt2 = float(alt2)
-    except ValueError:
-        print("alt1 = ", alt1, ", alt2 = ", alt2)
-        sys.exit()
+    # float_alt1 = 0.
+    # float_alt2 = 0.
+    # try:
+    #     alt1 = unicode(alt1, 'utf-8')
+    #     alt2 = unicode(alt2, 'utf-8')
+    #     if alt1 != "":
+    #         float_alt1 = float(alt1)
+    #         unicode(x, 'utf-8')
+    #     if alt2 != "":
+    #         float_alt2 = float(alt2)
+    # except ValueError:
+    #     print("alt1 = ", alt1, ", alt2 = ", alt2)
+    #     sys.exit()
+
+    float_alt1 = float(alt1)
+    float_alt2 = float(alt2)
 
     dalt = float_alt2 - float_alt1
 
@@ -69,7 +75,7 @@ airport file has 14 columns, example:
 "OurAirports"
 '''
 def load_airports(airport_file='airports-extended.dat'):
-    with open(airport_file, "r") as file:
+    with open(airport_file, "r", encoding="utf-8") as file:
         reader = csv.reader(file)
         num_airports = 0
         airport_list = []
@@ -153,8 +159,8 @@ def grep_flights(airport_info, flight_file='flightlist.csv', edge_file='./edge_l
     airport_latitude_list = airport_info[4]
     airport_longitude_list = airport_info[5]
     flight_info_list = []
-    with open(flight_file, "r") as file:
-        with open(edge_file, "w+") as edge_file:
+    with open(flight_file, "r", encoding="utf-8") as file:
+        with open(edge_file, "w+", encoding="utf-8") as edge_file:
             reader = csv.reader(file)
             num_flights = 0
             for row in reader:
@@ -221,12 +227,12 @@ def dump_vertex(airport_info, vertex_file):
     city_set = set(city_list)
     # print("city_list.size = ", len(city_list))
     # print("city_set.size = ", len(city_set))
-    with open(vertex_file, "w+") as file:
+    with open(vertex_file, "w+", encoding="utf-8") as file:
         for vertex in city_set:
             file.write(vertex + "\n")
 
 def dump_edge(edge_list, edge_file):
-    with open(edge_file, "w+") as file:
+    with open(edge_file, "w+", encoding="utf-8") as file:
         for edge in edge_list:
             file.write(','.join(edge))
             file.write("\n")
