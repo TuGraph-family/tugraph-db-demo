@@ -1,0 +1,168 @@
+{
+  "schema": [
+    {
+      "label": "city",
+      "primary": "name",
+      "type": "VERTEX",
+      "properties": [
+        {
+          "name": "name",
+          "type": "STRING"
+        }
+      ]
+    },
+    {
+      "label": "flight",
+      "type": "EDGE",
+      "properties": [
+        {
+          "name": "src_airport_name",
+          "type": "STRING"
+        },
+        {
+          "name": "dst_airport_name",
+          "type": "STRING"
+        },
+        {
+          "name": "src_country_name",
+          "type": "STRING"
+        },
+        {
+          "name": "dst_country_name",
+          "type": "STRING"
+        },
+        {
+          "name": "start_time_seconds",
+          "type": "INT64"
+        },
+        {
+          "name": "end_time_seconds",
+          "type": "INT64"
+        },
+        {
+          "name": "money_cost",
+          "type": "INT64"
+        },
+        {
+          "name": "time_cost",
+          "type": "INT64"
+        },
+        {
+          "name": "callsign",
+          "type": "STRING"
+        },
+        {
+          "name": "number",
+          "type": "STRING",
+          "optional": true
+        },
+        {
+          "name": "icao24",
+          "type": "STRING",
+          "optional": true
+        },
+        {
+          "name": "registration",
+          "type": "STRING",
+          "optional": true
+        },
+        {
+          "name": "typecode",
+          "type": "STRING"
+        },
+        {
+          "name": "src_airport_code",
+          "type": "STRING"
+        },
+        {
+          "name": "dst_airport_code",
+          "type": "STRING"
+        },
+        {
+          "name": "firstseen",
+          "type": "DATETIME"
+        },
+        {
+          "name": "lastseen",
+          "type": "DATETIME"
+        },
+        {
+          "name": "day",
+          "type": "DATE"
+        },
+        {
+          "name": "latitude_1",
+          "type": "DOUBLE"
+        },
+        {
+          "name": "longitude_1",
+          "type": "DOUBLE"
+        },
+        {
+          "name": "altitude_1",
+          "type": "DOUBLE",
+          "optional": true
+        },
+        {
+          "name": "latitude_2",
+          "type": "DOUBLE"
+        },
+        {
+          "name": "longitude_2",
+          "type": "DOUBLE"
+        },
+        {
+          "name": "altitude_2",
+          "type": "DOUBLE",
+          "optional": true
+        }
+      ],
+      "primary": "start_time_seconds"
+    }
+  ],
+  "files": [
+    {
+      "path": "/data/clk/demo/vertex_list",
+      "format": "CSV",
+      "label": "city",
+      "columns": [
+        "name"
+      ]
+    },
+    {
+      "path": "/data/clk/demo/edge_list",
+      "format": "CSV",
+      "label": "flight",
+      "SRC_ID": "city",
+      "DST_ID": "city",
+      "columns": [
+        "SRC_ID",
+        "DST_ID",
+        "src_airport_name",
+        "dst_airport_name",
+        "src_country_name",
+        "dst_country_name",
+        "start_time_seconds",
+        "end_time_seconds",
+        "money_cost",
+        "time_cost",
+        "callsign",
+        "number",
+        "icao24",
+        "registration",
+        "typecode",
+        "src_airport_code",
+        "dst_airport_code",
+        "firstseen",
+        "lastseen",
+        "day",
+        "latitude_1",
+        "longitude_1",
+        "altitude_1",
+        "latitude_2",
+        "longitude_2",
+        "altitude_2"
+      ]
+    }
+  ]
+}
