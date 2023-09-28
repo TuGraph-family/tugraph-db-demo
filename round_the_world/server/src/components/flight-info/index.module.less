@@ -1,0 +1,314 @@
+@import url(../../styles.less);
+
+.flightInfo {
+  position: absolute;
+  width: 1.7361rem;
+  height: auto;
+  left: 0.3333rem;
+  top: 0.3333rem;
+  border-radius: 0.0694rem;
+  overflow: hidden;
+  z-index: 99999;
+  transition: all 1s;
+  .close {
+    position: absolute;
+    height: 0.1389rem;
+    display: block;
+    right: 0;
+    top: 0.0417rem;
+    z-index: 9999;
+    cursor: pointer;
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+
+  .flightInfoTitle {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 0.0417rem;
+    padding-left: 0;
+    padding-top: 0;
+    .left {
+      margin-right: 0.0278rem;
+      .flightInfoMainTitle {
+        font-size: 0.1736rem;
+        color: #fff;
+      }
+    }
+    .right {
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      align-items: start;
+      .flightInfoSubTitle {
+        font-size: 0.1111rem;
+        color: #fff;
+        line-height: 0.1111rem;
+      }
+    }
+  }
+  .address {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 0.3472rem;
+    background-color: rgb(22, 80, 255);
+    border-radius: 0.0694rem;
+    position: relative;
+    .normal {
+      position: relative;
+      display: block;
+      width: 0.0833rem;
+      height: 0.0833rem;
+    }
+    .prev {
+      position: relative;
+      display: block;
+      width: 0.0833rem;
+      height: 0.0833rem;
+      transform: rotate(-90deg);
+      top: 0;
+      left: 0;
+      cursor: pointer;
+      &:hover {
+        opacity: 0.8;
+      }
+    }
+    .next {
+      position: relative;
+      display: block;
+      width: 0.0833rem;
+      height: 0.0833rem;
+      transform: rotate(90deg);
+      top: 0;
+      right: 0;
+      cursor: pointer;
+      &:hover {
+        opacity: 0.8;
+      }
+    }
+    .start,
+    .end {
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      flex-direction: column;
+      .zh {
+        font-size: 0.0972rem;
+        color: #fff;
+        text-align: center;
+        line-height: 0.0972rem;
+      }
+      .en {
+        font-size: 0.0833rem;
+        transform: scale(0.5625);
+        color: #fff;
+        text-align: center;
+        line-height: 0.0833rem;
+      }
+    }
+    .icon {
+      & img {
+        display: inline-block;
+        width: 0.4167rem;
+        height: 0.0667rem;
+      }
+    }
+  }
+  .flightStation {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 0.0833rem;
+    padding-top: 0.1667rem;
+    position: relative;
+    background-color: @bg;
+    z-index: -1;
+    &::before {
+      content: '';
+      width: 0.0069rem;
+      height: 50%;
+      z-index: -1;
+      position: absolute;
+      top: 0.309rem;
+      left: 0.2049rem;
+      border-left: 0.0208rem #fff dotted;
+      border-left-width: 0.025rem;
+    }
+    .flightTransferPoint {
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      width: 1.5694rem;
+
+      .icon {
+        width: 0.1042rem;
+        height: 0.1042rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0 0.0833rem;
+        & img {
+          display: inline-block;
+          height: 100%;
+        }
+      }
+      .time {
+        color: #fff;
+        margin-right: 0.0417rem;
+        font-size: 0.1736rem;
+        line-height: 0.1736rem;
+        position: relative;
+        .flightTransferStartDate {
+          position: absolute;
+          font-size: 0.0833rem;
+          line-height: 0.0833rem;
+          top: -24px;
+          left: 0px;
+          // color: blue;
+          display: block;
+          border-radius: 6px;
+          font-weight: bold;
+          left: 0;
+          width: fit-content;
+          white-space: nowrap;
+        }
+        .flightTransferEndDate {
+          position: absolute;
+          z-index: 999999;
+          font-size: 0.0833rem;
+          line-height: 0.0833rem;
+          top: -24px;
+          right: 0;
+          width: fit-content;
+          white-space: nowrap;
+          display: block;
+          font-weight: bold;
+          // color: #1650ff;
+        }
+      }
+      .airport {
+        color: #fff;
+        font-size: 0.0833rem;
+        line-height: 0.0833rem;
+      }
+    }
+    .flightTransferInformation {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 0.1667rem 0;
+      padding-top: 0.08334rem;
+      & span {
+        color: rgb(109, 109, 109);
+        font-size: 0.0833rem;
+        line-height: 0.0833rem;
+        padding: 0;
+        display: block;
+      }
+    }
+  }
+  .usedTime {
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    padding-left: 0.0833rem;
+    padding-bottom: 0.0833rem;
+    background-color: @bg;
+    .icon {
+      width: 0.2083rem;
+      height: 0.2083rem;
+      margin-right: 0.0833rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      & img {
+        width: 100%;
+        height: 100%;
+      }
+    }
+    .details {
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      .normalText {
+        font-size: 0.1042rem;
+        color: #fff;
+        line-height: 0.1042rem;
+      }
+      .highlightText {
+        background-color: rgb(22, 80, 255);
+        color: #fff;
+        font-size: 0.0972rem;
+        line-height: 0.0972rem;
+        padding: 0.0278rem;
+        border-radius: 0.0278rem;
+        margin: 0 0.0417rem;
+      }
+    }
+  }
+  .usedPrice {
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    padding-left: 0.0833rem;
+    background-color: @bg;
+    padding-bottom: 0.0833rem;
+    .icon {
+      width: 0.2083rem;
+      height: 0.2083rem;
+      margin-right: 0.0833rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      & img {
+        width: 100%;
+        height: 100%;
+      }
+    }
+    .details {
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      .normalText {
+        font-size: 0.1042rem;
+        color: #fff;
+        line-height: 0.1042rem;
+      }
+      .highlightText {
+        background-color: rgb(22, 80, 255);
+        color: #fff;
+        padding: 0.0278rem;
+        border-radius: 0.0278rem;
+        margin: 0 0.0417rem;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        .icon {
+          width: 0.0499rem;
+          height: 0.0651rem;
+          margin-right: 0.0833rem;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          & img {
+            width: 100%;
+            height: 100%;
+            margin-left: 0.0417rem;
+          }
+        }
+        .text {
+          font-size: 0.0972rem;
+          line-height: 0.0972rem;
+          margin-right: 0.0139rem;
+        }
+      }
+    }
+  }
+}

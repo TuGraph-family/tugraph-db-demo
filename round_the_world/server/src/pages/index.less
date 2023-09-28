@@ -1,0 +1,47 @@
+.zoomAutoFit {
+  width: 0.3819rem;
+  height: 0.3819rem;
+  background-color: rgba(0, 0, 0, 0.5);
+  margin-bottom: 0.0694rem;
+  border-radius: 0.0694rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.zoomControl {
+  border: none;
+  border-radius: 0.0417rem;
+  :global {
+    .l7-button-control {
+      border-bottom: none !important;
+      background-color: rgba(0, 0, 0, 0.5);
+      margin-bottom: 0.0694rem;
+      border-radius: 0.0694rem !important;
+      width: 0.3819rem;
+      height: 0.3819rem;
+      &:disabled,
+      &:active,
+      &:hover {
+        background-color: rgba(0, 0, 0, 0.25) !important;
+      }
+    }
+    .l7-iconfont {
+      fill: #fff !important;
+      color: #fff !important;
+    }
+  }
+}
+
+.backHome {
+  height: 0.25rem;
+  position: fixed;
+  left: 0.0833rem;
+  top: 0.0833rem;
+  z-index: 9999999;
+  cursor: pointer;
+  &:hover {
+    opacity: 0.8;
+  }
+}

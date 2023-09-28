@@ -1,0 +1,33 @@
+{
+  "private": true,
+  "author": "qmy01212463 <qmy01212463@antgroup.com>",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build",
+    "postinstall": "umi setup",
+    "setup": "umi setup",
+    "start": "npm run dev",
+    "build:test": "UMI_ENV=dev && umi build",
+    "build:prod": "UMI_ENV=prod && umi build"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^4.8.0",
+    "@antv/l7": "^2.17.4",
+    "@antv/larkmap": "^1.4.1",
+    "antd": "4.24.12",
+    "classnames": "^2.3.2",
+    "compression-webpack-plugin": "^10.0.0",
+    "lodash": "^4.17.21",
+    "mathjs": "^11.9.1",
+    "moment": "^2.29.4",
+    "react": "^17",
+    "react-dom": "^17",
+    "umi": "^4.0.72",
+    "umi-request": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.33",
+    "@types/react-dom": "^18.0.11",
+    "typescript": "^5.0.3"
+  }
+}

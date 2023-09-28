@@ -1,0 +1,479 @@
+[
+    {
+        "cityname_zh": "香港",
+        "cityname_en": "Hong Kong",
+        "lat": 22.2806,
+        "lon": 114.1722,
+        "countryname_zh": "中国",
+        "countryname_en": "China",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "约翰内斯堡",
+        "cityname_en": "Johannesburg",
+        "lat": -26.2041,
+        "lon": 28.0473,
+        "countryname_zh": "南非",
+        "countryname_en": "South Africa",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "开普敦",
+        "cityname_en": "Cape Town",
+        "lat": -33.9249,
+        "lon": 18.4241,
+        "countryname_zh": "南非",
+        "countryname_en": "South Africa",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "开罗",
+        "cityname_en": "Cairo",
+        "lat": 30.0444,
+        "lon": 31.2357,
+        "countryname_zh": "埃及",
+        "countryname_en": "Egypt",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "卡萨布兰卡",
+        "cityname_en": "Casablanca",
+        "lat": 33.5731,
+        "lon": -7.5898,
+        "countryname_zh": "摩洛哥",
+        "countryname_en": "Morocco",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "迪拜",
+        "cityname_en": "Dubai",
+        "lat": 25.276987,
+        "lon": 55.296249,
+        "countryname_zh": "阿联酋",
+        "countryname_en": "United Arab Emirates",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "伊斯坦布尔",
+        "cityname_en": "Istanbul",
+        "lat": 41.0082,
+        "lon": 28.9784,
+        "countryname_zh": "土耳其",
+        "countryname_en": "Turkey",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "多哈",
+        "cityname_en": "Doha",
+        "lat": 25.276987,
+        "lon": 51.5195,
+        "countryname_zh": "卡塔尔",
+        "countryname_en": "Qatar",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "伦敦",
+        "cityname_en": "London",
+        "lat": 51.5074,
+        "lon": -0.1278,
+        "countryname_zh": "英国",
+        "countryname_en": "United Kingdom",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "巴黎",
+        "cityname_en": "Paris",
+        "lat": 48.8566,
+        "lon": 2.3522,
+        "countryname_zh": "法国",
+        "countryname_en": "France",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "法兰克福",
+        "cityname_en": "Frankfurt",
+        "lat": 50.1109,
+        "lon": 8.6821,
+        "countryname_zh": "德国",
+        "countryname_en": "Germany",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "阿姆斯特丹",
+        "cityname_en": "Amsterdam",
+        "lat": 52.3676,
+        "lon": 4.9041,
+        "countryname_zh": "荷兰",
+        "countryname_en": "Netherlands",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "慕尼黑",
+        "cityname_en": "Munich",
+        "lat": 48.1351,
+        "lon": 11.5820,
+        "countryname_zh": "德国",
+        "countryname_en": "Germany",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "罗马",
+        "cityname_en": "Rome",
+        "lat": 41.9028,
+        "lon": 12.4964,
+        "countryname_zh": "意大利",
+        "countryname_en": "Italy",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "莫斯科",
+        "cityname_en": "Moscow",
+        "lat": 55.7558,
+        "lon": 37.6173,
+        "countryname_zh": "俄罗斯",
+        "countryname_en": "Russia",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "马德里",
+        "cityname_en": "Madrid",
+        "lat": 40.4168,
+        "lon": -3.7038,
+        "countryname_zh": "西班牙",
+        "countryname_en": "Spain",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "柏林",
+        "cityname_en": "Berlin",
+        "lat": 52.5200,
+        "lon": 13.4050,
+        "countryname_zh": "德国",
+        "countryname_en": "Germany",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "苏黎世",
+        "cityname_en": "Zurich",
+        "lat": 47.3769,
+        "lon": 8.5417,
+        "countryname_zh": "瑞士",
+        "countryname_en": "Switzerland",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "都柏林",
+        "cityname_en": "Dublin",
+        "lat": 53.3498,
+        "lon": -6.2603,
+        "countryname_zh": "爱尔兰",
+        "countryname_en": "Ireland",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "巴塞罗那",
+        "cityname_en": "Barcelona",
+        "lat": 41.3851,
+        "lon": 2.1734,
+        "countryname_zh": "西班牙",
+        "countryname_en": "Spain",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "哥本哈根",
+        "cityname_en": "Copenhagen",
+        "lat": 55.6761,
+        "lon": 12.5683,
+        "countryname_zh": "丹麦",
+        "countryname_en": "Denmark",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "维也纳",
+        "cityname_en": "Vienna",
+        "lat": 48.2082,
+        "lon": 16.3738,
+        "countryname_zh": "奥地利",
+        "countryname_en": "Austria",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "圣彼得堡",
+        "cityname_en": "St. Petersburg",
+        "lat": 59.9343,
+        "lon": 30.3351,
+        "countryname_zh": "俄罗斯",
+        "countryname_en": "Russia",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "东京",
+        "cityname_en": "Tokyo",
+        "lat": 35.682839,
+        "lon": 139.759455,
+        "countryname_zh": "日本",
+        "countryname_en": "Japan",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "新德里",
+        "cityname_en": "Delhi",
+        "lat": 28.6139,
+        "lon": 77.2090,
+        "countryname_zh": "印度",
+        "countryname_en": "India",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "首尔",
+        "cityname_en": "Seoul",
+        "lat": 37.5665,
+        "lon": 126.9780,
+        "countryname_zh": "韩国",
+        "countryname_en": "South Korea",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "新加坡",
+        "cityname_en": "Singapore",
+        "lat": 1.3521,
+        "lon": 103.8198,
+        "countryname_zh": "新加坡",
+        "countryname_en": "Singapore",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "曼谷",
+        "cityname_en": "Bangkok",
+        "lat": 13.7563,
+        "lon": 100.5018,
+        "countryname_zh": "泰国",
+        "countryname_en": "Thailand",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "奥克兰",
+        "cityname_en": "Auckland",
+        "lat": -36.8485,
+        "lon": 174.7633,
+        "countryname_zh": "新西兰",
+        "countryname_en": "New Zealand",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "悉尼",
+        "cityname_en": "Sydney",
+        "lat": -33.8651,
+        "lon": 151.2093,
+        "countryname_zh": "澳大利亚",
+        "countryname_en": "Australia",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "墨尔本",
+        "cityname_en": "Melbourne",
+        "lat": -37.8136,
+        "lon": 144.9631,
+        "countryname_zh": "澳大利亚",
+        "countryname_en": "Australia",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "珀斯",
+        "cityname_en": "Perth",
+        "lat": -31.9505,
+        "lon": 115.8605,
+        "countryname_zh": "澳大利亚",
+        "countryname_en": "Australia",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "温哥华",
+        "cityname_en": "Vancouver",
+        "lat": 49.2827,
+        "lon": -123.1207,
+        "countryname_zh": "加拿大",
+        "countryname_en": "Canada",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "西雅图",
+        "cityname_en": "Seattle",
+        "lat": 47.6062,
+        "lon": -122.3321,
+        "countryname_zh": "美国",
+        "countryname_en": "United States",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "旧金山",
+        "cityname_en": "San Francisco",
+        "lat": 37.7749,
+        "lon": -122.4194,
+        "countryname_zh": "美国",
+        "countryname_en": "United States",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "洛杉矶",
+        "cityname_en": "Los Angeles",
+        "lat": 34.0522,
+        "lon": -118.2437,
+        "countryname_zh": "美国",
+        "countryname_en": "United States",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "凤凰城",
+        "cityname_en": "Phoenix",
+        "lat": 33.4484,
+        "lon": -112.0740,
+        "countryname_zh": "美国",
+        "countryname_en": "United States",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "拉斯维加斯",
+        "cityname_en": "Las Vegas",
+        "lat": 36.1699,
+        "lon": -115.1398,
+        "countryname_zh": "美国",
+        "countryname_en": "United States",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "纽约",
+        "cityname_en": "New York",
+        "lat": 40.7128,
+        "lon": -74.0060,
+        "countryname_zh": "美国",
+        "countryname_en": "United States",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "华盛顿",
+        "cityname_en": "Washington",
+        "lat": 38.8951,
+        "lon": -77.0369,
+        "countryname_zh": "美国",
+        "countryname_en": "United States",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "波士顿",
+        "cityname_en": "Boston",
+        "lat": 42.3601,
+        "lon": -71.0589,
+        "countryname_zh": "美国",
+        "countryname_en": "United States",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "蒙特利尔",
+        "cityname_en": "Montreal",
+        "lat": 45.5017,
+        "lon": -73.5673,
+        "countryname_zh": "加拿大",
+        "countryname_en": "Canada",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "丹佛",
+        "cityname_en": "Denver",
+        "lat": 39.7392,
+        "lon": -104.9903,
+        "countryname_zh": "美国",
+        "countryname_en": "United States",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "亚特兰大",
+        "cityname_en": "Atlanta",
+        "lat": 33.7490,
+        "lon": -84.3880,
+        "countryname_zh": "美国",
+        "countryname_en": "United States",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "达拉斯",
+        "cityname_en": "Dallas",
+        "lat": 32.7767,
+        "lon": -96.7970,
+        "countryname_zh": "美国",
+        "countryname_en": "United States",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "多伦多",
+        "cityname_en": "Toronto",
+        "lat": 43.651070,
+        "lon": -79.347015,
+        "countryname_zh": "加拿大",
+        "countryname_en": "Canada",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "芝加哥",
+        "cityname_en": "Chicago",
+        "lat": 41.8781,
+        "lon": -87.6298,
+        "countryname_zh": "美国",
+        "countryname_en": "United States",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "墨西哥城",
+        "cityname_en": "Mexico City",
+        "lat": 19.4326,
+        "lon": -99.1332,
+        "countryname_zh": "墨西哥",
+        "countryname_en": "Mexico",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "巴西利亚",
+        "cityname_en": "Brasilia",
+        "lat": -15.7801,
+        "lon": -47.9292,
+        "countryname_zh": "巴西",
+        "countryname_en": "Brazil",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "布宜诺斯艾利斯",
+        "cityname_en": "Buenos Aires",
+        "lat": -34.6118,
+        "lon": -58.4173,
+        "countryname_zh": "阿根廷",
+        "countryname_en": "Argentina",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "里约热内卢",
+        "cityname_en": "Rio de Janeiro",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "countryname_zh": "巴西",
+        "countryname_en": "Brazil",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "圣保罗",
+        "cityname_en": "Sao Paulo",
+        "lat": -23.5505,
+        "lon": -46.6333,
+        "countryname_zh": "巴西",
+        "countryname_en": "Brazil",
+        "scenics": []
+    },
+    {
+        "cityname_zh": "圣地亚哥",
+        "cityname_en": "Santiago",
+        "lat": -33.4489,
+        "lon": -70.6693,
+        "countryname_zh": "智利",
+        "countryname_en": "Chile",
+        "scenics": []
+    }
+]

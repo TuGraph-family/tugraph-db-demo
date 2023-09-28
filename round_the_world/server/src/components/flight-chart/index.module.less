@@ -1,0 +1,178 @@
+@import url(../../styles.less);
+
+.flightChart {
+  position: absolute;
+  width: 1.7361rem;
+  height: 0.9028rem;
+  background-color: @bg;
+  left: 0.4167rem;
+  top: 2.25rem;
+  z-index: 9999;
+  border-radius: 0.0694rem;
+  .sizeBg {
+    width: 1.3889rem;
+    height: 0.9028rem;
+    position: absolute;
+    left: 0.2222rem;
+    display: block;
+  }
+  .size {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 0.9028rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: end;
+    transform: scale(0.6);
+    width: 0.2222rem;
+    .sizeItem {
+      display: flex;
+      color: #fff;
+      justify-content: flex-start;
+      align-items: center;
+      .zh {
+        font-size: 0.0833rem;
+      }
+      .en {
+        font-size: 0.0833rem;
+      }
+    }
+  }
+  .flightRect {
+    position: absolute;
+    bottom: 0.1389rem;
+    left: 0.2222rem;
+    width: 1.3611rem;
+    height: 0.6111rem;
+    z-index: 999;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    .flightRectItem {
+      display: flex;
+      justify-content: space-between;
+      flex-direction: column;
+      position: absolute;
+      left: 0.0694rem;
+      bottom: -0.125rem;
+      .tooltips {
+        background-color: rgba(44, 45, 49, 1);
+        width: 0.3333rem;
+        height: 0.1667rem;
+        border-radius: 0.0139rem;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        transform: translateY(-0.0556rem);
+        align-items: center;
+        &::after {
+          content: '';
+          width: 0;
+          height: 0;
+          border: 0.0694rem solid transparent;
+          border-top: 0.0694rem solid rgba(44, 45, 49, 1);
+          position: absolute;
+          left: 0.0972rem;
+          bottom: -0.1111rem;
+        }
+        .p1 {
+          display: flex;
+          justify-content: flex-start;
+          transform: scale(0.6);
+          margin-left: 10%;
+
+          .lightText {
+            background-color: rgb(22, 80, 255);
+            font-size: 0.0833rem;
+            line-height: 0.0833rem;
+            height: 0.0833rem;
+            border-radius: 0.0139rem;
+            color: #fff;
+            text-align: center;
+            transform: scale(0.6);
+            margin-left: -0.0417rem;
+          }
+          .normalText {
+            font-size: 0.0833rem;
+            line-height: 0.0833rem;
+            height: 0.0833rem;
+            border-radius: 0.0139rem;
+            color: #fff;
+            text-align: center;
+            transform: scale(0.5);
+            white-space: nowrap;
+            text-indent: -0.0694rem;
+          }
+        }
+        .p2 {
+          display: flex;
+          justify-content: flex-start;
+          transform: scale(0.6);
+          margin-left: -10%;
+          margin-top: -0.0139rem;
+          .normalText {
+            font-size: 0.0833rem;
+            line-height: 0.0833rem;
+            height: 0.0833rem;
+            border-radius: 0.0139rem;
+            color: #fff;
+            text-align: center;
+            transform: scale(0.5);
+            white-space: nowrap;
+            text-indent: -0.0694rem;
+          }
+          .icon {
+            display: block;
+            width: 0.1042rem;
+            height: 0.1042rem;
+            transform: scale(0.3);
+            margin-left: -0.0486rem;
+          }
+          .lightText {
+            background-color: rgb(22, 80, 255);
+            font-size: 0.0833rem;
+            line-height: 0.0833rem;
+            height: 0.0833rem;
+            border-radius: 0.0139rem;
+            color: #fff;
+            text-align: center;
+            transform: scale(0.6);
+            margin-left: -0.1042rem;
+          }
+        }
+      }
+      .label {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .icon {
+          width: 0.1042rem;
+          height: 0.1042rem;
+          display: block;
+          transform: scale(0.5);
+        }
+        .text {
+          color: #fff;
+          font-size: 0.0833rem;
+          transform: scale(0.6);
+          margin-left: -0.0694rem;
+        }
+      }
+      .unReadyRectangle {
+        width: 0.0694rem;
+        height: 0;
+        margin: 0 auto;
+        background-color: #fff;
+      }
+      .readyRectangle {
+        width: 0.0694rem;
+        height: 0;
+        margin: 0 auto;
+        background-color: rgb(22, 80, 255);
+      }
+    }
+  }
+}

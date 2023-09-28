@@ -1,0 +1,95 @@
+.flightSteps {
+  position: absolute;
+  left: 0.4167rem;
+  top: 3.1944rem;
+  width: 1.7361rem;
+  border-radius: 0.0694rem;
+  height: 0.48rem;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 9999;
+  .current {
+    position: absolute;
+    left: 0.1667rem;
+    top: 0.0694rem;
+    width: 1.4583rem;
+    height: 0.0931rem;
+    .icon {
+      display: block;
+      width: 0.2083rem;
+      height: 0.0931rem;
+      position: absolute;
+      left: 0;
+      top: 0;
+    }
+  }
+
+  .step {
+    transform: scale(0.7);
+    position: absolute;
+    width: 2.0833rem;
+    height: 0.1181rem;
+    top: 0.1667rem;
+    left: -0.1528rem;
+    .total {
+      background: url('https://mdn.alipayobjects.com/huamei_qcdryc/afts/img/A*X-x7SrM9mnAAAAAAAAAAAAAADgOBAQ/original')
+        no-repeat;
+      background-size: cover;
+      border-radius: 0.0417rem;
+      overflow: hidden;
+      width: 2.0833rem;
+      height: 0.1181rem;
+      z-index: 98;
+      left: 0;
+      top: 0;
+      position: absolute;
+    }
+    .progress {
+      background: url('https://mdn.alipayobjects.com/huamei_qcdryc/afts/img/A*hl9DTZcrQNAAAAAAAAAAAAAADgOBAQ/original')
+        no-repeat;
+      width: 2.0833rem;
+      height: 0.1181rem;
+      background-size: cover;
+      border-radius: 0.0417rem;
+      overflow: hidden;
+      position: absolute;
+      left: 0;
+      top: 0;
+      z-index: 99;
+    }
+  }
+
+  .drag {
+    transform: scale(0.7);
+    position: absolute;
+    width: 2.0833rem;
+    height: 0.2083rem;
+    top: 0.1389rem;
+    left: -0.1389rem;
+    .tag {
+      background: url('https://mdn.alipayobjects.com/huamei_qcdryc/afts/img/A*0-MeQp_6vNQAAAAAAAAAAAAADgOBAQ/original')
+        no-repeat;
+      border-radius: 0.0417rem;
+      overflow: hidden;
+      width: 0.1563rem;
+      height: 0.1563rem;
+      z-index: 98;
+      left: 0;
+      top: 0;
+      position: absolute;
+    }
+  }
+  .label {
+    width: 1.7361rem;
+    position: absolute;
+    left: 0;
+    height: 0.0833rem;
+    display: flex;
+    justify-content: space-around;
+    bottom: 0.1111rem;
+    left: 0;
+    .labelItem {
+      color: white;
+      font-size: 0.0833rem;
+    }
+  }
+}

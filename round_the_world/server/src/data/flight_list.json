@@ -1,0 +1,777 @@
+[
+  {
+    "cost": 10309.449999999999,
+    "id": 0,
+    "paths": [
+      {
+        "cost": 9939.31,
+        "destination": "London",
+        "destination_airport": "London Heathrow Airport",
+        "end_time": "2019-07-17 12:29:18",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "Tokyo",
+        "origin_airport": "Tokyo Haneda International Airport",
+        "start_time": "2019-07-17 00:52:01",
+        "time": 11.620000000000001
+      },
+      {
+        "cost": 370.14,
+        "destination": "Paris",
+        "destination_airport": "Charles de Gaulle International Airport",
+        "end_time": "2021-01-30 12:45:41",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "London",
+        "origin_airport": "London Heathrow Airport",
+        "start_time": "2021-01-30 12:03:23",
+        "time": 0.7000000000000001
+      }
+    ],
+    "time": 12.32
+  },
+  {
+    "cost": 10143.39,
+    "id": 1,
+    "paths": [
+      {
+        "cost": 9939.31,
+        "destination": "London",
+        "destination_airport": "London Heathrow Airport",
+        "end_time": "2019-07-17 12:29:18",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "Tokyo",
+        "origin_airport": "Tokyo Haneda International Airport",
+        "start_time": "2019-07-17 00:52:01",
+        "time": 11.620000000000001
+      },
+      {
+        "cost": 204.08,
+        "destination": "Paris",
+        "destination_airport": "Charles de Gaulle International Airport",
+        "end_time": "2022-05-13 17:38:18",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "London",
+        "origin_airport": "London Heathrow Airport",
+        "start_time": "2022-05-13 16:50:30",
+        "time": 0.8
+      }
+    ],
+    "time": 12.420000000000002
+  },
+  {
+    "cost": 10347.21,
+    "id": 2,
+    "paths": [
+      {
+        "cost": 9939.31,
+        "destination": "London",
+        "destination_airport": "London Heathrow Airport",
+        "end_time": "2019-07-17 12:29:18",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "Tokyo",
+        "origin_airport": "Tokyo Haneda International Airport",
+        "start_time": "2019-07-17 00:52:01",
+        "time": 11.620000000000001
+      },
+      {
+        "cost": 407.9,
+        "destination": "Paris",
+        "destination_airport": "Charles de Gaulle International Airport",
+        "end_time": "2022-08-08 14:35:18",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "London",
+        "origin_airport": "London Luton Airport",
+        "start_time": "2022-08-08 13:48:35",
+        "time": 0.78
+      }
+    ],
+    "time": 12.4
+  },
+  {
+    "cost": 10235.65,
+    "id": 3,
+    "paths": [
+      {
+        "cost": 9939.31,
+        "destination": "London",
+        "destination_airport": "London Heathrow Airport",
+        "end_time": "2019-07-17 12:29:18",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "Tokyo",
+        "origin_airport": "Tokyo Haneda International Airport",
+        "start_time": "2019-07-17 00:52:01",
+        "time": 11.620000000000001
+      },
+      {
+        "cost": 296.34,
+        "destination": "Paris",
+        "destination_airport": "Paris-Le Bourget Airport",
+        "end_time": "2022-09-12 19:08:41",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "London",
+        "origin_airport": "London Stansted Airport",
+        "start_time": "2022-09-12 18:21:51",
+        "time": 0.78
+      }
+    ],
+    "time": 12.4
+  },
+  {
+    "cost": 10327.59,
+    "id": 4,
+    "paths": [
+      {
+        "cost": 9939.31,
+        "destination": "London",
+        "destination_airport": "London Heathrow Airport",
+        "end_time": "2019-07-17 12:29:18",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "Tokyo",
+        "origin_airport": "Tokyo Haneda International Airport",
+        "start_time": "2019-07-17 00:52:01",
+        "time": 11.620000000000001
+      },
+      {
+        "cost": 388.28,
+        "destination": "Paris",
+        "destination_airport": "Charles de Gaulle International Airport",
+        "end_time": "2019-01-29 09:42:37",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "London",
+        "origin_airport": "London Heathrow Airport",
+        "start_time": "2019-01-29 09:04:44",
+        "time": 0.6300000000000001
+      }
+    ],
+    "time": 12.250000000000002
+  },
+  {
+    "cost": 9628.32,
+    "id": 5,
+    "paths": [
+      {
+        "cost": 9258.18,
+        "destination": "London",
+        "destination_airport": "London Heathrow Airport",
+        "end_time": "2022-12-06 15:18:51",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "Tokyo",
+        "origin_airport": "Tokyo Haneda International Airport",
+        "start_time": "2022-12-06 01:22:46",
+        "time": 13.93
+      },
+      {
+        "cost": 370.14,
+        "destination": "Paris",
+        "destination_airport": "Charles de Gaulle International Airport",
+        "end_time": "2021-01-30 12:45:41",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "London",
+        "origin_airport": "London Heathrow Airport",
+        "start_time": "2021-01-30 12:03:23",
+        "time": 0.7000000000000001
+      }
+    ],
+    "time": 14.629999999999999
+  },
+  {
+    "cost": 9462.26,
+    "id": 6,
+    "paths": [
+      {
+        "cost": 9258.18,
+        "destination": "London",
+        "destination_airport": "London Heathrow Airport",
+        "end_time": "2022-12-06 15:18:51",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "Tokyo",
+        "origin_airport": "Tokyo Haneda International Airport",
+        "start_time": "2022-12-06 01:22:46",
+        "time": 13.93
+      },
+      {
+        "cost": 204.08,
+        "destination": "Paris",
+        "destination_airport": "Charles de Gaulle International Airport",
+        "end_time": "2022-05-13 17:38:18",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "London",
+        "origin_airport": "London Heathrow Airport",
+        "start_time": "2022-05-13 16:50:30",
+        "time": 0.8
+      }
+    ],
+    "time": 14.73
+  },
+  {
+    "cost": 9666.08,
+    "id": 7,
+    "paths": [
+      {
+        "cost": 9258.18,
+        "destination": "London",
+        "destination_airport": "London Heathrow Airport",
+        "end_time": "2022-12-06 15:18:51",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "Tokyo",
+        "origin_airport": "Tokyo Haneda International Airport",
+        "start_time": "2022-12-06 01:22:46",
+        "time": 13.93
+      },
+      {
+        "cost": 407.9,
+        "destination": "Paris",
+        "destination_airport": "Charles de Gaulle International Airport",
+        "end_time": "2022-08-08 14:35:18",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "London",
+        "origin_airport": "London Luton Airport",
+        "start_time": "2022-08-08 13:48:35",
+        "time": 0.78
+      }
+    ],
+    "time": 14.709999999999999
+  },
+  {
+    "cost": 9554.52,
+    "id": 8,
+    "paths": [
+      {
+        "cost": 9258.18,
+        "destination": "London",
+        "destination_airport": "London Heathrow Airport",
+        "end_time": "2022-12-06 15:18:51",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "Tokyo",
+        "origin_airport": "Tokyo Haneda International Airport",
+        "start_time": "2022-12-06 01:22:46",
+        "time": 13.93
+      },
+      {
+        "cost": 296.34,
+        "destination": "Paris",
+        "destination_airport": "Paris-Le Bourget Airport",
+        "end_time": "2022-09-12 19:08:41",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "London",
+        "origin_airport": "London Stansted Airport",
+        "start_time": "2022-09-12 18:21:51",
+        "time": 0.78
+      }
+    ],
+    "time": 14.709999999999999
+  },
+  {
+    "cost": 9646.460000000001,
+    "id": 9,
+    "paths": [
+      {
+        "cost": 9258.18,
+        "destination": "London",
+        "destination_airport": "London Heathrow Airport",
+        "end_time": "2022-12-06 15:18:51",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "Tokyo",
+        "origin_airport": "Tokyo Haneda International Airport",
+        "start_time": "2022-12-06 01:22:46",
+        "time": 13.93
+      },
+      {
+        "cost": 388.28,
+        "destination": "Paris",
+        "destination_airport": "Charles de Gaulle International Airport",
+        "end_time": "2019-01-29 09:42:37",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "London",
+        "origin_airport": "London Heathrow Airport",
+        "start_time": "2019-01-29 09:04:44",
+        "time": 0.6300000000000001
+      }
+    ],
+    "time": 14.56
+  },
+  {
+    "cost": 10540.65,
+    "id": 10,
+    "paths": [
+      {
+        "cost": 10170.51,
+        "destination": "London",
+        "destination_airport": "London Heathrow Airport",
+        "end_time": "2021-03-26 15:10:28",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "Tokyo",
+        "origin_airport": "Tokyo Haneda International Airport",
+        "start_time": "2021-03-26 02:53:49",
+        "time": 12.28
+      },
+      {
+        "cost": 370.14,
+        "destination": "Paris",
+        "destination_airport": "Charles de Gaulle International Airport",
+        "end_time": "2021-01-30 12:45:41",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "London",
+        "origin_airport": "London Heathrow Airport",
+        "start_time": "2021-01-30 12:03:23",
+        "time": 0.7000000000000001
+      }
+    ],
+    "time": 12.979999999999999
+  },
+  {
+    "cost": 10374.59,
+    "id": 11,
+    "paths": [
+      {
+        "cost": 10170.51,
+        "destination": "London",
+        "destination_airport": "London Heathrow Airport",
+        "end_time": "2021-03-26 15:10:28",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "Tokyo",
+        "origin_airport": "Tokyo Haneda International Airport",
+        "start_time": "2021-03-26 02:53:49",
+        "time": 12.28
+      },
+      {
+        "cost": 204.08,
+        "destination": "Paris",
+        "destination_airport": "Charles de Gaulle International Airport",
+        "end_time": "2022-05-13 17:38:18",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "London",
+        "origin_airport": "London Heathrow Airport",
+        "start_time": "2022-05-13 16:50:30",
+        "time": 0.8
+      }
+    ],
+    "time": 13.08
+  },
+  {
+    "cost": 10578.41,
+    "id": 12,
+    "paths": [
+      {
+        "cost": 10170.51,
+        "destination": "London",
+        "destination_airport": "London Heathrow Airport",
+        "end_time": "2021-03-26 15:10:28",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "Tokyo",
+        "origin_airport": "Tokyo Haneda International Airport",
+        "start_time": "2021-03-26 02:53:49",
+        "time": 12.28
+      },
+      {
+        "cost": 407.9,
+        "destination": "Paris",
+        "destination_airport": "Charles de Gaulle International Airport",
+        "end_time": "2022-08-08 14:35:18",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "London",
+        "origin_airport": "London Luton Airport",
+        "start_time": "2022-08-08 13:48:35",
+        "time": 0.78
+      }
+    ],
+    "time": 13.059999999999999
+  },
+  {
+    "cost": 10466.85,
+    "id": 13,
+    "paths": [
+      {
+        "cost": 10170.51,
+        "destination": "London",
+        "destination_airport": "London Heathrow Airport",
+        "end_time": "2021-03-26 15:10:28",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "Tokyo",
+        "origin_airport": "Tokyo Haneda International Airport",
+        "start_time": "2021-03-26 02:53:49",
+        "time": 12.28
+      },
+      {
+        "cost": 296.34,
+        "destination": "Paris",
+        "destination_airport": "Paris-Le Bourget Airport",
+        "end_time": "2022-09-12 19:08:41",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "London",
+        "origin_airport": "London Stansted Airport",
+        "start_time": "2022-09-12 18:21:51",
+        "time": 0.78
+      }
+    ],
+    "time": 13.059999999999999
+  },
+  {
+    "cost": 10558.79,
+    "id": 14,
+    "paths": [
+      {
+        "cost": 10170.51,
+        "destination": "London",
+        "destination_airport": "London Heathrow Airport",
+        "end_time": "2021-03-26 15:10:28",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "Tokyo",
+        "origin_airport": "Tokyo Haneda International Airport",
+        "start_time": "2021-03-26 02:53:49",
+        "time": 12.28
+      },
+      {
+        "cost": 388.28,
+        "destination": "Paris",
+        "destination_airport": "Charles de Gaulle International Airport",
+        "end_time": "2019-01-29 09:42:37",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "London",
+        "origin_airport": "London Heathrow Airport",
+        "start_time": "2019-01-29 09:04:44",
+        "time": 0.6300000000000001
+      }
+    ],
+    "time": 12.91
+  },
+  {
+    "cost": 7075.79,
+    "id": 15,
+    "paths": [
+      {
+        "cost": 6705.65,
+        "destination": "London",
+        "destination_airport": "London Heathrow Airport",
+        "end_time": "2021-05-20 14:46:19",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "Tokyo",
+        "origin_airport": "Tokyo Haneda International Airport",
+        "start_time": "2021-05-20 02:42:53",
+        "time": 12.06
+      },
+      {
+        "cost": 370.14,
+        "destination": "Paris",
+        "destination_airport": "Charles de Gaulle International Airport",
+        "end_time": "2021-01-30 12:45:41",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "London",
+        "origin_airport": "London Heathrow Airport",
+        "start_time": "2021-01-30 12:03:23",
+        "time": 0.7000000000000001
+      }
+    ],
+    "time": 12.76
+  },
+  {
+    "cost": 6909.73,
+    "id": 16,
+    "paths": [
+      {
+        "cost": 6705.65,
+        "destination": "London",
+        "destination_airport": "London Heathrow Airport",
+        "end_time": "2021-05-20 14:46:19",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "Tokyo",
+        "origin_airport": "Tokyo Haneda International Airport",
+        "start_time": "2021-05-20 02:42:53",
+        "time": 12.06
+      },
+      {
+        "cost": 204.08,
+        "destination": "Paris",
+        "destination_airport": "Charles de Gaulle International Airport",
+        "end_time": "2022-05-13 17:38:18",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "London",
+        "origin_airport": "London Heathrow Airport",
+        "start_time": "2022-05-13 16:50:30",
+        "time": 0.8
+      }
+    ],
+    "time": 12.860000000000001
+  },
+  {
+    "cost": 7113.549999999999,
+    "id": 17,
+    "paths": [
+      {
+        "cost": 6705.65,
+        "destination": "London",
+        "destination_airport": "London Heathrow Airport",
+        "end_time": "2021-05-20 14:46:19",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "Tokyo",
+        "origin_airport": "Tokyo Haneda International Airport",
+        "start_time": "2021-05-20 02:42:53",
+        "time": 12.06
+      },
+      {
+        "cost": 407.9,
+        "destination": "Paris",
+        "destination_airport": "Charles de Gaulle International Airport",
+        "end_time": "2022-08-08 14:35:18",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "London",
+        "origin_airport": "London Luton Airport",
+        "start_time": "2022-08-08 13:48:35",
+        "time": 0.78
+      }
+    ],
+    "time": 12.84
+  },
+  {
+    "cost": 7001.99,
+    "id": 18,
+    "paths": [
+      {
+        "cost": 6705.65,
+        "destination": "London",
+        "destination_airport": "London Heathrow Airport",
+        "end_time": "2021-05-20 14:46:19",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "Tokyo",
+        "origin_airport": "Tokyo Haneda International Airport",
+        "start_time": "2021-05-20 02:42:53",
+        "time": 12.06
+      },
+      {
+        "cost": 296.34,
+        "destination": "Paris",
+        "destination_airport": "Paris-Le Bourget Airport",
+        "end_time": "2022-09-12 19:08:41",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "London",
+        "origin_airport": "London Stansted Airport",
+        "start_time": "2022-09-12 18:21:51",
+        "time": 0.78
+      }
+    ],
+    "time": 12.84
+  },
+  {
+    "cost": 7093.929999999999,
+    "id": 19,
+    "paths": [
+      {
+        "cost": 6705.65,
+        "destination": "London",
+        "destination_airport": "London Heathrow Airport",
+        "end_time": "2021-05-20 14:46:19",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "Tokyo",
+        "origin_airport": "Tokyo Haneda International Airport",
+        "start_time": "2021-05-20 02:42:53",
+        "time": 12.06
+      },
+      {
+        "cost": 388.28,
+        "destination": "Paris",
+        "destination_airport": "Charles de Gaulle International Airport",
+        "end_time": "2019-01-29 09:42:37",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "London",
+        "origin_airport": "London Heathrow Airport",
+        "start_time": "2019-01-29 09:04:44",
+        "time": 0.6300000000000001
+      }
+    ],
+    "time": 12.690000000000001
+  },
+  {
+    "cost": 12243.75,
+    "id": 20,
+    "paths": [
+      {
+        "cost": 11873.61,
+        "destination": "London",
+        "destination_airport": "London Heathrow Airport",
+        "end_time": "2022-10-07 13:26:50",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "Tokyo",
+        "origin_airport": "Tokyo Haneda International Airport",
+        "start_time": "2022-10-07 00:47:14",
+        "time": 12.66
+      },
+      {
+        "cost": 370.14,
+        "destination": "Paris",
+        "destination_airport": "Charles de Gaulle International Airport",
+        "end_time": "2021-01-30 12:45:41",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "London",
+        "origin_airport": "London Heathrow Airport",
+        "start_time": "2021-01-30 12:03:23",
+        "time": 0.7000000000000001
+      }
+    ],
+    "time": 13.36
+  },
+  {
+    "cost": 12077.69,
+    "id": 21,
+    "paths": [
+      {
+        "cost": 11873.61,
+        "destination": "London",
+        "destination_airport": "London Heathrow Airport",
+        "end_time": "2022-10-07 13:26:50",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "Tokyo",
+        "origin_airport": "Tokyo Haneda International Airport",
+        "start_time": "2022-10-07 00:47:14",
+        "time": 12.66
+      },
+      {
+        "cost": 204.08,
+        "destination": "Paris",
+        "destination_airport": "Charles de Gaulle International Airport",
+        "end_time": "2022-05-13 17:38:18",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "London",
+        "origin_airport": "London Heathrow Airport",
+        "start_time": "2022-05-13 16:50:30",
+        "time": 0.8
+      }
+    ],
+    "time": 13.46
+  },
+  {
+    "cost": 12281.51,
+    "id": 22,
+    "paths": [
+      {
+        "cost": 11873.61,
+        "destination": "London",
+        "destination_airport": "London Heathrow Airport",
+        "end_time": "2022-10-07 13:26:50",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "Tokyo",
+        "origin_airport": "Tokyo Haneda International Airport",
+        "start_time": "2022-10-07 00:47:14",
+        "time": 12.66
+      },
+      {
+        "cost": 407.9,
+        "destination": "Paris",
+        "destination_airport": "Charles de Gaulle International Airport",
+        "end_time": "2022-08-08 14:35:18",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "London",
+        "origin_airport": "London Luton Airport",
+        "start_time": "2022-08-08 13:48:35",
+        "time": 0.78
+      }
+    ],
+    "time": 13.44
+  },
+  {
+    "cost": 12169.95,
+    "id": 23,
+    "paths": [
+      {
+        "cost": 11873.61,
+        "destination": "London",
+        "destination_airport": "London Heathrow Airport",
+        "end_time": "2022-10-07 13:26:50",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "Tokyo",
+        "origin_airport": "Tokyo Haneda International Airport",
+        "start_time": "2022-10-07 00:47:14",
+        "time": 12.66
+      },
+      {
+        "cost": 296.34,
+        "destination": "Paris",
+        "destination_airport": "Paris-Le Bourget Airport",
+        "end_time": "2022-09-12 19:08:41",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "London",
+        "origin_airport": "London Stansted Airport",
+        "start_time": "2022-09-12 18:21:51",
+        "time": 0.78
+      }
+    ],
+    "time": 13.44
+  },
+  {
+    "cost": 12261.890000000001,
+    "id": 24,
+    "paths": [
+      {
+        "cost": 11873.61,
+        "destination": "London",
+        "destination_airport": "London Heathrow Airport",
+        "end_time": "2022-10-07 13:26:50",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "Tokyo",
+        "origin_airport": "Tokyo Haneda International Airport",
+        "start_time": "2022-10-07 00:47:14",
+        "time": 12.66
+      },
+      {
+        "cost": 388.28,
+        "destination": "Paris",
+        "destination_airport": "Charles de Gaulle International Airport",
+        "end_time": "2019-01-29 09:42:37",
+        "flight_number": "",
+        "flight_type": "",
+        "origin": "London",
+        "origin_airport": "London Heathrow Airport",
+        "start_time": "2019-01-29 09:04:44",
+        "time": 0.6300000000000001
+      }
+    ],
+    "time": 13.290000000000001
+  }
+]

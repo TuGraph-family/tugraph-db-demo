@@ -1,0 +1,166 @@
+.mapMask {
+  position: fixed;
+  z-index: 999999999;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  left: 0;
+  top: 0;
+  min-height: 100vh;
+  min-width: 100vw;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  .content {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 100%;
+    height: 100%;
+    transform: translate(-50%, -50%);
+    border: 1px solid red;
+    //   &::before {
+    //     position: absolute;
+    //     top: -0.0069rem;
+    //     left: 0;
+    //     height: 0.1875rem;
+    //     width: 7.2917rem;
+    //     content: '';
+    //     background-color: rgb(0, 72, 249);
+    //     border-radius: 0.1042rem 0.1042rem 0 0;
+    //   }
+    //   .title {
+    //     font-size: 0.1493rem;
+    //     color: #fff;
+    //     padding: 0.0139rem 0.0417rem;
+    //     background-color: rgb(0, 72, 249);
+    //     width: fit-content;
+    //     border-radius: 0.0347rem;
+    //     margin-bottom: 0.0833rem;
+    //   }
+    //   .desc {
+    //     color: #fff;
+    //     font-size: 0.0972rem;
+    //     margin-bottom: 0.25rem;
+    //     max-width: 4.4444rem;
+    //     white-space: break-spaces;
+    //   }
+    //   .icon1 {
+    //     position: absolute;
+    //     display: block;
+    //     width: 1.1111rem;
+    //     height: 0.7986rem;
+    //     border-radius: 0.0694rem;
+    //     overflow: hidden;
+    //     right: 0.4444rem;
+    //     top: 0.5rem;
+    //   }
+    //   .icon2 {
+    //     position: absolute;
+    //     display: block;
+    //     width: 0.6597rem;
+    //     height: 0.6597rem;
+    //     border-radius: 0.0694rem;
+    //     overflow: hidden;
+    //     right: 1.125rem;
+    //     top: 1.2083rem;
+    //   }
+    //   .icon3 {
+    //     position: absolute;
+    //     display: block;
+    //     width: 0.7639rem;
+    //     height: 0.8194rem;
+    //     border-radius: 0.0694rem;
+    //     overflow: hidden;
+    //     right: 0.6806rem;
+    //     top: 1.7639rem;
+    //   }
+    //   .icon4 {
+    //     position: absolute;
+    //     display: block;
+    //     width: 0.4514rem;
+    //     height: 0.4514rem;
+    //     border-radius: 0.0694rem;
+    //     overflow: hidden;
+    //     right: 1.1111rem;
+    //     top: 2.5139rem;
+    //   }
+    //   .startButton {
+    //     position: absolute;
+    //     width: 2.5694rem;
+    //     height: 0.4861rem;
+    //     border-radius: 0.0694rem;
+    //     background-color: rgb(0, 72, 249);
+    //     bottom: -0.2431rem;
+    //     left: 50%;
+    //     transform: translateX(-50%);
+    //     font-size: 0.2778rem;
+    //     color: #fff;
+    //     cursor: pointer;
+    //     line-height: 0.4861rem;
+    //     text-align: center;
+    //     border: 0.0069rem #fff solid;
+    //   }
+    .title {
+      color: #fff;
+      font-size: 0.4861rem;
+      position: relative;
+      left: 4rem;
+      top: 1.8rem;
+    }
+    .subTitle {
+      color: #fff;
+      font-size: 0.1944rem;
+      position: relative;
+      left: 4.8rem;
+      top: 1.8rem;
+      padding: 0.0278rem 0.0833rem;
+      border-radius: 0.0833rem;
+      background-color: blue;
+      width: fit-content;
+    }
+    .logo {
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      position: relative;
+      left: 5rem;
+      top: 2.2rem;
+      .text {
+        color: #fff;
+        font-size: 0.1667rem;
+        width: fit-content;
+      }
+      .icon {
+        margin-left: 0.0833rem;
+        display: block;
+        height: 0.1667rem;
+      }
+    }
+    .copyright {
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      align-items: center;
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      text-align: center;
+      width: 100%;
+      & p {
+        color: rgb(123, 123, 123);
+        width: fit-content;
+        font-size: 0.0972rem;
+        line-height: 0.0694rem;
+      }
+    }
+  }
+}
+
+.gif {
+  width: 100%;
+  height: 100%;
+  display: block;
+  cursor: pointer;
+}

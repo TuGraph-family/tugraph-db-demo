@@ -1,0 +1,45 @@
+.flightView {
+  background: linear-gradient(#2b2e36, #0b0d11);
+  width: auto;
+  border-radius: 0 0.0694rem 0.0694rem 0;
+  z-index: 9999999;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  border-left: none;
+  border-right: 0.0069rem solid rgb(65, 66, 69);
+  border-bottom: 0.0069rem solid rgb(65, 66, 69);
+  position: relative;
+  &::before {
+    position: absolute;
+    top: 0.1389rem;
+    left: 0.375rem;
+    height: 0;
+    width: 1.875rem;
+    background: transparent;
+    content: '';
+    box-shadow: 0 0 0.1667rem 0.0833rem #000;
+    z-index: 99999;
+  }
+  &::after {
+    position: absolute;
+    bottom: 0.1389rem;
+    left: 0.375rem;
+    height: 0;
+    width: 1.875rem;
+    background: transparent;
+    content: '';
+    box-shadow: 0 0 0.1667rem 0.0833rem #000;
+    z-index: 99999;
+  }
+  .back {
+    position: absolute;
+    width: 0.1042rem;
+    height: 0.1042rem;
+    right: 0.0521rem;
+    top: 0.0521rem;
+    cursor: pointer;
+    z-index: 12;
+  }
+}

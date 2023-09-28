@@ -1,0 +1,114 @@
+.filterType {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  align-items: center;
+  height: 1.7361rem;
+  width: 0.2639rem;
+  box-sizing: border-box;
+  transform: translateX(-0.0417rem);
+  .filterTypeItem {
+    background: linear-gradient(#292a2d, #000);
+    width: 0.2639rem;
+    height: 0.8681rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    cursor: pointer;
+    border: 0.0069rem solid rgb(65, 66, 69);
+    border-radius: 0.0694rem 0 0 0.0694rem;
+    box-sizing: border-box;
+    transition: all 0.2s linear;
+    will-change: change;
+    position: relative;
+    & span {
+      display: inline-block;
+      white-space: wrap;
+      width: 0.1389rem;
+      text-align: center;
+      font-size: 0.0833rem;
+      color: #fff;
+      vertical-align: middle;
+    }
+  }
+  .filterTypeItemSelected {
+    background: linear-gradient(#292a2d, #000);
+    width: 0.2639rem;
+    height: 0.8681rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    cursor: pointer;
+    border-left: 0.0069rem solid rgb(65, 66, 69);
+    border-radius: 0.0694rem 0 0 0.0694rem;
+    box-sizing: border-box;
+    transition: all 0.2s linear;
+    will-change: change;
+    position: relative;
+    &::before {
+      content: '';
+      position: absolute;
+      width: 0.1319rem;
+      height: 0.8681rem;
+      left: 0;
+      top: 0;
+      background: radial-gradient(
+        0.0417rem 0.1111rem at top 50% left 0,
+        rgba(22, 80, 255, 0.8) 0.0694rem,
+        transparent 0.1806rem
+      );
+    }
+    & span {
+      display: inline-block;
+      white-space: wrap;
+      width: 0.1389rem;
+      text-align: center;
+      font-size: 0.0972rem;
+      color: #fff;
+      vertical-align: middle;
+      font-weight: bold;
+    }
+  }
+  .filterPriceTypeItemSelected {
+    background: linear-gradient(#292a2d, #000);
+    width: 0.2639rem;
+    height: 0.8681rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    cursor: pointer;
+    border-left: 0.0069rem solid rgb(65, 66, 69);
+    border-radius: 0.0694rem 0 0 0.0694rem;
+    box-sizing: border-box;
+    transition: all 0.2s linear;
+    will-change: change;
+    position: relative;
+    &::before {
+      content: '';
+      position: absolute;
+      width: 50%;
+      height: 0.8681rem;
+      left: 0;
+      top: 0;
+      border-radius: 0.0694rem 0 0 0.0694rem;
+      background: radial-gradient(
+        0.0417rem 0.1111rem at top 50% left 0,
+        rgba(255, 134, 3, 0.8) 0.0694rem,
+        transparent 0.1806rem
+      );
+    }
+    & span {
+      display: inline-block;
+      white-space: wrap;
+      width: 0.1389rem;
+      text-align: center;
+      font-size: 0.0972rem;
+      color: #fff;
+      vertical-align: middle;
+      font-weight: bold;
+    }
+  }
+}
