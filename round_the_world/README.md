@@ -79,7 +79,35 @@
 5. 重复步骤3、4，直到S为空
 6. 返回result
 
-## 部署流程
+## 一键部署
+
+执行
+```bash
+    bash control.sh
+```
+即可部署服务。运行时间较长，执行期间不要中断脚本。
+
+执行完成后，即可在 localhost:8000 或者 {HOST_IP}:8000 页面进行查看。
+
+## 网页示例
+
+### 登录页面
+
+![data](./images/main_page.jpg)
+
+### 查询页面
+
+在登录页面点击后进入查询页面
+
+![data](./images/flight_page.jpg)
+
+### 查询示例
+
+在左下角的城市列表中选择不超过8个城市，可返回推荐的航班规划，在满足前后航班间隔在2-6小时的要求下，返回费用最低和飞行时间最短的10条路径规划。
+
+![data](./images/search_example.jpg)
+
+## 详细部署流程
 
 前置条件：TuGraph已安装
 
@@ -153,21 +181,3 @@ optional arguments:
     npm start
 ```
 即可启动航班网站服务。启动后可在 localhost:8000 或者 {HOST_IP}:8000 页面进行查看。详细命令可参考server/READMe.md文件。
-
-## 网页示例
-
-### 登录页面
-
-![data](./images/main_page.jpg)
-
-### 查询页面
-
-在登录页面点击后进入查询页面
-
-![data](./images/flight_page.jpg)
-
-### 查询示例
-
-在左下角的城市列表中选择不超过8个城市，可返回推荐的航班规划，在满足前后航班间隔在2-6小时的要求下，返回费用最低和飞行时间最短的10条路径规划。
-
-![data](./images/search_example.jpg)
