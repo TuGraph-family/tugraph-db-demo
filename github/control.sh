@@ -13,7 +13,7 @@ function start {
 
 function download_data() {
   cd data
-  wget https://lvshan-public.oss-cn-hangzhou-zmf.aliyuncs.com/yongchao.ly/wangjun/zy/github-demo/gitdemo_data.tar.gz
+  wget https://tugraph-web-static.oss-cn-beijing.aliyuncs.com/github-demo/gitdemo_data.tar.gz
   tar -xzvf gitdemo_data.tar.gz
   cd ..
 }
