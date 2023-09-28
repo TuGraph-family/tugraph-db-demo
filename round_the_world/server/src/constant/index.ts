@@ -3,8 +3,8 @@ import { getPxToRem } from '@/utils';
 export const PROXY_HOST = `http://127.0.0.1:9091`;
 export const PROXY_HTTP = 'http://127.0.0.1:7071';
 export const PUBLISH_HTTP = 'http://127.0.0.1:7071';
-export const CURRENT_HTTP =
-  process.env.NODE_ENV === 'production' ? PUBLISH_HTTP : PROXY_HTTP;
+export const CURRENT_HTTP = 'http://127.0.0.1:7071';
+  // process.env.NODE_ENV === 'production' ? PUBLISH_HTTP : PROXY_HTTP;
 export const TOKEN =
   'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdF9sb2dpbl90aW1lIjoiMTY5MDQ0NjA0Ni40ODg1OTUiLCJpc3MiOiJmbWEuYWkiLCJyZWZyZXNoX3RpbWUiOiIxNjkwNDQ2MDQ2LjQ4ODU4NyJ9.DWE-rTnNyC80HB0omoZ3uL3YvMBNAgWZDSMEmy-hGaw';
 export const HTTP_TOKEN =

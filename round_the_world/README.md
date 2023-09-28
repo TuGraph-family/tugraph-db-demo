@@ -81,13 +81,17 @@
 
 ## 一键部署
 
-执行
+将脚本control.sh中的 TUGRAPH_PATH改为本机tugraph-db地址，并按照默认编译步骤完成tugraph-db编译。然后执行
 ```bash
     bash control.sh
 ```
 即可部署服务。运行时间较长，执行期间不要中断脚本。
 
 执行完成后，即可在 localhost:8000 或者 {HOST_IP}:8000 页面进行查看。
+
+### runtime镜像
+
+若使用runtime镜像，
 
 ## 网页示例
 
