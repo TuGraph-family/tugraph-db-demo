@@ -122,7 +122,7 @@
   ],
   "files": [
     {
-      "path": "/data/clk/demo/vertex_list",
+      "path": "./raw_data/vertex_list",
       "format": "CSV",
       "label": "city",
       "columns": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "path": "/data/clk/demo/edge_list",
+      "path": "./raw_data/edge_list",
       "format": "CSV",
       "label": "flight",
       "SRC_ID": "city",

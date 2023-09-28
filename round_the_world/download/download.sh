@@ -15,9 +15,8 @@ download_single_file() {
   start_day=$(date -d "$year-$month-01" +"%Y%m%d")
   end_day=$(date -d "$year-$month-$num_days" +"%Y%m%d")
 
-  if $year -eq 2021 && $month -eq 5;
-  then
-    end_day=30
+  if [ $year -eq 2021 ] && [ $month -eq 5 ]; then
+    end_day=20210530
   fi
 
   # Concatenate the start and end day with an underscore in between
@@ -43,4 +42,29 @@ download_specific_month() {
 export -f download_single_file
 export -f download_specific_month
 
-parallel -k download_specific_month ::: {1..12}
+#parallel -k download_specific_month ::: {1..12}
+
+mode="small"
+if [ "$#" -eq 0 ]; then
+    echo "default download mode: small"
+
+elif [ "$#" -eq 1 ]; then
+    mode=$1
+    if [ "$mode" == "small" ] || [ "$mode" == "all" ] ; then
+      echo "download mode: ${mode}"
+    else
+      echo "parameter should be small or all"
+      exit 1
+    fi
+else
+    echo "should only have 1 parameter"
+    exit 1
+fi
+
+if [ "$mode" == "small" ]; then
+  download_single_file 2020 1
+else
+  parallel -k download_specific_month ::: {1..12}
+fi
+
+cat ./*.csv > ../raw_data/flightlist.csv

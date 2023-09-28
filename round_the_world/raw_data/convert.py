@@ -145,7 +145,7 @@ return: [(src_city_name, dst_city_name,
           distance, time_cost
           original flight info in flight file)]
 '''
-def grep_flights(airport_info, flight_file='flightlist_20190701_20190731.csv', edge_file='./edge_list'):
+def grep_flights(airport_info, flight_file='flightlist.csv', edge_file='./edge_list'):
     airport_list = airport_info[0]
     airport_city_list = airport_info[1]
     airport_country_list = airport_info[2]
@@ -219,8 +219,8 @@ def grep_flights(airport_info, flight_file='flightlist_20190701_20190731.csv', e
 def dump_vertex(airport_info, vertex_file):
     city_list = airport_info[1]
     city_set = set(city_list)
-    print("city_list.size = ", len(city_list))
-    print("city_set.size = ", len(city_set))
+    # print("city_list.size = ", len(city_list))
+    # print("city_set.size = ", len(city_set))
     with open(vertex_file, "w+") as file:
         for vertex in city_set:
             file.write(vertex + "\n")
@@ -238,7 +238,7 @@ if __name__ == '__main__':
     ap.add_argument('-a', dest='airport_file', action='store', help='airport file path',
                     default='airports-extended.dat')
     ap.add_argument('-f', dest='flight_file', action='store', help='flight file path',
-                    default='flightlist_20190701_20190731.csv')
+                    default='flightlist.csv')
     ap.add_argument('-v', dest='vertex_file', action='store', help='output vertex file',
                     default='./vertex_list')
     ap.add_argument('-e', dest='edge_file', action='store', help='output edge file',

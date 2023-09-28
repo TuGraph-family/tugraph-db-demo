@@ -76,22 +76,10 @@ struct Flight {
 
     json ToJson() {
         json j;
-
-        if (origin_ == "Hong Kong") {
-            j["origin"] = "Shanghai";
-            j["origin_airport"] = "Shanghai Pudong International Airport";
-        } else {
-            j["origin"] = origin_;
-            j["origin_airport"] = origin_airport_;
-        }
-        if (destination_ == "Hong Kong") {
-            j["destination"] = "Shanghai";
-            j["destination_airport"] = "Shanghai Pudong International Airport";
-        } else {
-            j["destination"] = destination_;
-            j["destination_airport"] = destination_airport_;
-        }
-
+        j["origin"] = origin_;
+        j["origin_airport"] = origin_airport_;
+        j["destination"] = destination_;
+        j["destination_airport"] = destination_airport_;
         j["time"] = time_cost_;
         j["cost"] = money_cost_;
         j["flight_number"] = flight_number_;
@@ -199,6 +187,131 @@ int binarySearch(const std::vector<Flight>& sortedFlights, const Flight* flight,
     return mid;
 }
 
+void print_degree(GraphDB&& db) {
+    auto txn = db.CreateReadTxn();
+    auto num_vertices = txn.GetNumVertices();
+    auto vit = txn.GetVertexIterator();
+    std::vector<std::pair<size_t, std::string>> vertex_degree;
+    for (size_t vid = 0; vid < num_vertices; vid++) {
+        vit.Goto(vid);
+        std::string name = vit.GetField("name").AsString();
+        auto degree = vit.GetNumOutEdges();
+        vertex_degree.push_back(std::make_pair(degree, name));
+    }
+    std::sort(vertex_degree.rbegin(), vertex_degree.rend());
+    for (auto ele : vertex_degree) {
+        std::cout << ele.second << ", " << ele.first << std::endl;
+    }
+}
+
+void check_sorted(GraphDB&& db) {
+    auto txn = db.CreateReadTxn();
+    auto num_vertices= txn.GetNumVertices();
+    auto vit = txn.GetVertexIterator();
+    for (size_t vid = 0; vid < num_vertices; vid++) {
+        vit.Goto(vid);
+        size_t prev = 0;
+        if (vid < 100)
+            std::cout << "==== vid = " << vid << " ====" << std::endl;
+        for (auto eit = vit.GetOutEdgeIterator();eit.IsValid(); eit.Next()) {
+            auto start_time_seconds = eit.GetField("start_time_seconds").AsInt64();
+            if (start_time_seconds >= prev) {
+                prev = start_time_seconds;
+            } else {
+                std::cout << "vid = " << vid << ", prev = " << prev
+                          << ", start_time_seconds = " << start_time_seconds << std::endl;
+            }
+            if (vid < 100) {
+                std::cout << "start_time_seconds = " << start_time_seconds << std::endl;
+            }
+        }
+    }
+}
+
+void check_edges(GraphDB& db) {
+    auto txn = db.CreateReadTxn();
+    auto num_vertices = txn.GetNumVertices();
+    auto vit = txn.GetVertexIterator();
+    for (size_t vid = 0; vid < num_vertices; vid++) {
+        vit.Goto(vid);
+        auto src_name = vit.GetField("name").AsString();
+        if (src_name == "") {
+            std::cout << "Error: src_name is empty" << std::endl;
+        }
+        for (auto eit = vit.GetOutEdgeIterator(); eit.IsValid(); eit.Next()) {
+            auto dst = eit.GetDst();
+            auto src_airport_name = eit.GetField("src_airport_name").AsString();
+            if (src_airport_name == "") {
+                std::cout << "Error: src_airport is empty" << std::endl;
+            }
+
+            auto dst_airport_name = eit.GetField("dst_airport_name").AsString();
+            if (dst_airport_name == "") {
+                std::cout << "Error: dst_airprot is empty" << std::endl;
+            }
+            if (src_airport_name == dst_airport_name) {
+                std::cout << "src and dst airport is equal: " << src_airport_name << ", " << dst_airport_name << std::endl;
+            }
+
+            auto src_country_name = eit.GetField("src_country_name").AsString();
+            if (src_country_name == "") {
+                std::cout << "src_country_name is empty" << std::endl;
+            }
+
+            auto dst_country_name = eit.GetField("dst_country_name").AsString();
+            if (dst_country_name == "") {
+                std::cout << "dst_country_name is empty" << std::endl;
+            }
+
+            auto start_time_seconds = eit.GetField("start_time_seconds").AsInt64();
+            if (start_time_seconds == 0) {
+                std::cout << "start_time_seconds is 0" << std::endl;
+            }
+
+            auto end_time_seconds = eit.GetField("end_time_seconds").AsInt64();
+            if (end_time_seconds == 0) {
+                std::cout << "end_time seconds is 0" << std::endl;
+            }
+            if (end_time_seconds <= start_time_seconds) {
+                std::cout << "start_time_seconds is larger than end_time_seconds: " << start_time_seconds
+                          << ", " << end_time_seconds << std::endl;
+            }
+
+            auto money_cost = eit.GetField("money_cost").AsDouble();
+            if (money_cost == 0.) {
+                std::cout << "money_cost is 0" << std::endl;
+            }
+
+            auto time_cost = eit.GetField("time_cost").AsInt64();
+            if (time_cost == 0) {
+                std::cout << "time_cost is 0" << std::endl;
+            }
+
+            auto callsign = eit.GetField("callsign").AsString();
+            if (callsign == "") {
+                std::cout << "callsign is empty" << std::endl;
+            }
+
+            auto typecode = eit.GetField("typecode").AsString();
+            if (typecode == "") {
+                std::cout << "typecode is empty" << std::endl;
+            }
+
+            auto src_airport_code = eit.GetField("src_airport_code").AsString();
+            auto dst_airport_code = eit.GetField("dst_airport_code").AsString();
+            auto firstseen = eit.GetField("firstseen").ToString();
+            if (firstseen == "") {
+                std::cout << "firstseen is empty" << std::endl;
+            }
+
+            auto lastseen = eit.GetField("lastseen").ToString();
+            if (lastseen == "") {
+                std::cout << "lastseen is empty" << std::endl;
+            }
+        }
+    }
+}
+
 extern "C" bool Process(GraphDB& db, const std::string& request, std::string& response) {
     auto start_time = get_time();
 
@@ -218,151 +331,18 @@ extern "C" bool Process(GraphDB& db, const std::string& request, std::string& re
         return false;
     }
 
+//    print_degree(db);
+//    check_sorted(db);
+//    check_edges(db);
+
     int start_seconds = date_to_seconds(start_day);
     int end_seconds = date_to_seconds(end_day) + 3600 * 24;
-//    std::cout << "start_day = " << start_day << ", end_day = " << end_day << std::endl;
-//    std::cout << "start_seconds = " << start_seconds << ", end_seconds = " << end_seconds << std::endl;
 
     auto txn = db.CreateReadTxn();
-
-    // print vertex by degree decremental order.
-    if (false) {
-        auto num_vertices = txn.GetNumVertices();
-        auto vit = txn.GetVertexIterator();
-        std::vector<std::pair<size_t, std::string>> vertex_degree;
-        for (size_t vid = 0; vid < num_vertices; vid++) {
-            vit.Goto(vid);
-            std::string name = vit.GetField("name").AsString();
-            auto degree = vit.GetNumOutEdges();
-            vertex_degree.push_back(std::make_pair(degree, name));
-        }
-        std::sort(vertex_degree.rbegin(), vertex_degree.rend());
-        for (auto ele : vertex_degree) {
-            std::cout << ele.second << ", " << ele.first << std::endl;
-        }
-        return 0;
-    }
-
-    // check if edges are stored by start_time_seconds incremental order.
-    if (false) {
-        auto num_vertices= txn.GetNumVertices();
-        auto vit = txn.GetVertexIterator();
-        for (size_t vid = 0; vid < num_vertices; vid++) {
-            vit.Goto(vid);
-            size_t prev = 0;
-            if (vid < 100)
-                std::cout << "==== vid = " << vid << " ====" << std::endl;
-            for (auto eit = vit.GetOutEdgeIterator();eit.IsValid(); eit.Next()) {
-                auto start_time_seconds = eit.GetField("start_time_seconds").AsInt64();
-                if (start_time_seconds >= prev) {
-                    prev = start_time_seconds;
-                } else {
-                    std::cout << "vid = " << vid << ", prev = " << prev
-                        << ", start_time_seconds = " << start_time_seconds << std::endl;
-                }
-                if (vid < 100) {
-                    std::cout << "start_time_seconds = " << start_time_seconds << std::endl;
-                }
-            }
-        }
-        return 0;
-    }
-
-    // check if columns are as expected.
-    if (false) {
-        auto num_vertices = txn.GetNumVertices();
-        auto vit = txn.GetVertexIterator();
-        for (size_t vid = 0; vid < num_vertices; vid++) {
-            vit.Goto(vid);
-            auto src_name = vit.GetField("name").AsString();
-            if (src_name == "") {
-                std::cout << "Error: src_name is empty" << std::endl;
-            }
-            for (auto eit = vit.GetOutEdgeIterator(); eit.IsValid(); eit.Next()) {
-                auto dst = eit.GetDst();
-                auto src_airport_name = eit.GetField("src_airport_name").AsString();
-                if (src_airport_name == "") {
-                    std::cout << "Error: src_airport is empty" << std::endl;
-                }
-
-                auto dst_airport_name = eit.GetField("dst_airport_name").AsString();
-                if (dst_airport_name == "") {
-                    std::cout << "Error: dst_airprot is empty" << std::endl;
-                }
-                if (src_airport_name == dst_airport_name) {
-                    std::cout << "src and dst airport is equal: " << src_airport_name << ", " << dst_airport_name << std::endl;
-                }
-
-                auto src_country_name = eit.GetField("src_country_name").AsString();
-                if (src_country_name == "") {
-                    std::cout << "src_country_name is empty" << std::endl;
-                }
-
-                auto dst_country_name = eit.GetField("dst_country_name").AsString();
-                if (dst_country_name == "") {
-                    std::cout << "dst_country_name is empty" << std::endl;
-                }
-
-                auto start_time_seconds = eit.GetField("start_time_seconds").AsInt64();
-                if (start_time_seconds == 0) {
-                    std::cout << "start_time_seconds is 0" << std::endl;
-                }
-
-                auto end_time_seconds = eit.GetField("end_time_seconds").AsInt64();
-                if (end_time_seconds == 0) {
-                    std::cout << "end_time seconds is 0" << std::endl;
-                }
-                if (end_time_seconds <= start_time_seconds) {
-                    std::cout << "start_time_seconds is larger than end_time_seconds: " << start_time_seconds
-                        << ", " << end_time_seconds << std::endl;
-                }
-
-                auto money_cost = eit.GetField("money_cost").AsDouble();
-                if (money_cost == 0.) {
-                    std::cout << "money_cost is 0" << std::endl;
-                }
-
-                auto time_cost = eit.GetField("time_cost").AsInt64();
-                if (time_cost == 0) {
-                    std::cout << "time_cost is 0" << std::endl;
-                }
-
-                auto callsign = eit.GetField("callsign").AsString();
-                if (callsign == "") {
-                    std::cout << "callsign is empty" << std::endl;
-                }
-
-                auto typecode = eit.GetField("typecode").AsString();
-                if (typecode == "") {
-                    std::cout << "typecode is empty" << std::endl;
-                }
-
-                auto src_airport_code = eit.GetField("src_airport_code").AsString();
-                auto dst_airport_code = eit.GetField("dst_airport_code").AsString();
-                auto firstseen = eit.GetField("firstseen").ToString();
-                if (firstseen == "") {
-                    std::cout << "firstseen is empty" << std::endl;
-                }
-
-                auto lastseen = eit.GetField("lastseen").ToString();
-                if (lastseen == "") {
-                    std::cout << "lastseen is empty" << std::endl;
-                }
-            }
-        }
-
-        return 0;
-    }
 
     std::vector<size_t> city_vids;
     std::unordered_map<size_t, int > vid_to_index;
     std::unordered_map<std::string, int> city_to_index;
-    for (int i = 0; i < cities.size(); i++) {
-        if (cities[i] == "Shanghai") {
-            cities[i] = "Hong Kong";
-        }
-        std::cout << cities[i] << std::endl;
-    }
 
     for (int index = 0; index < cities.size(); index++) {
         auto city = cities[index];
