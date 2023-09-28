@@ -62,7 +62,7 @@ else
 fi
 
 if [ "$mode" == "small" ]; then
-  download_single_file 2020 1
+  download_single_file 2019 1
 else
   parallel -k download_specific_month ::: {1..12}
 fi

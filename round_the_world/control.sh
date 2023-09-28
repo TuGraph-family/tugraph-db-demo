@@ -1,6 +1,6 @@
 # /bin/bash
 
-$func_name="start_all"
+func_name="start_all"
 if [ "$#" -eq 0 ]; then
   echo "default: run all processes"
 else
@@ -14,27 +14,30 @@ TUGRAPH_PATH=${HOME}/tugraph-db/build/output
 
 function download {
   cd download
-  bash download.sh
+#  bash download.sh
+  cd ..
 }
 
 function convert {
   cd raw_data
   python3 convert.py
+  cd ..
 }
 
 function import {
-  ${TUGRAPH_PATH}/build/output/lgraph_import -c ./raw_data/import.json -d ./lgraph_db --overwrite true --v3 0
+  ${TUGRAPH_PATH}/lgraph_import -c ./raw_data/import.json -d ./lgraph_db --overwrite true --v3 0
 }
 
 function start_tugraph {
-  ${TUGRAPH_PATH}/build/output/lgraph_server -c ./lgraph_standalone.json -d start --unlimited_token 1
+  ${TUGRAPH_PATH}/lgraph_server -c ./raw_data/lgraph_standalone.json -d start --unlimited_token 1
 }
 
 function stop_tugraph {
-  ${TUGRAPH_PATH}/build/output/lgraph_server -c ./lgraph_standalone.json -d stop
+  ${TUGRAPH_PATH}/lgraph_server -c ./raw_data/lgraph_standalone.json -d stop
 }
 
 function load_algorithm {
+  cd plugin
   bash make_demo.sh
   python3 reload.sh
 }
@@ -43,6 +46,7 @@ function start_demo_server {
   cd server
   npm install
   npm start
+  cd ..
 }
 
 function start_all {

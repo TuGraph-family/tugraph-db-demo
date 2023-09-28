@@ -11,12 +11,12 @@
 
 ## 2. 目录结构
 
+- download：下载目录，下载脚本和后续下载的文件位于该文件夹
+- images：图片目录，文档使用的图片位于该文件夹
+- plugin：算法目录，代码文件和编译加载所需要的脚本均位于该文件夹
+- raw_data：源数据目录，数据处理脚本、城市文件、下载后的航班数据、处理后的点边数据、导入配置文件均位于该目录
 - server：自定义网站服务的文件夹
-- download：下载目录，下载脚本和后续下载的文件位于该目录
-- raw_data：源数据目录，数据处理脚本、城市文件、下载后的航班数据、处理后的点边数据均位于该目录
-- import.json：导入配置文件
-- demo.cpp：算法文件
-- reload.sh：更新算法的脚本
+- control.sh：自动化部署脚本
 
 ## 数据说明
 
@@ -24,7 +24,7 @@
 
 - 数据来源：https://zenodo.org/record/7923702
 - 时间范围：2019.1-2022.12
-- 航班数量：117258215
+- 航班总数量：117258215
 - 关键字段：
   - callsign：航班号，可直接使用
   - typecode：航班类型，可直接使用
@@ -91,7 +91,7 @@
 
 ### runtime镜像
 
-若使用runtime镜像，
+若使用runtime镜像，将 TUGRAPH_PATH置为空字符串，然后执行control.sh脚本即可。
 
 ## 网页示例
 
@@ -113,7 +113,7 @@
 
 ## 详细部署流程
 
-前置条件：TuGraph已安装
+前置条件：TuGraph已安装，版本推荐4.0.0。（部署测试版本为4.0.0）
 
 ### 数据下载
 
@@ -124,7 +124,7 @@
 ```
 
 参数：
-- mode：值为small或all，分别为下载2020.1月份数据和下载2019-2022全部数据。默认值为small
+- mode：值为small或all，分别为下载2019.1月份数据和下载2019-2022全部数据。默认值为small
 
 下载后的数据会进行解压，压缩文件和解压后的文件均在download目录。脚本会将所有解压后的文件合并到../raw_data/flightlist.csv文件中。
 
@@ -156,7 +156,7 @@ optional arguments:
 
 使用lgraph_import将图数据加载到数据库。若使用默认编译过程，lgraph_import维护[tugraph-db]/build/output目录下。[tugraph-db]为tugraph-db所在路径。执行以下命令：
 ```bash
-    [tugraph-db]/build/output/lgraph_import -c ./raw_data/import.json -d ./lgraph_db --overwrite true --v3 0
+    [tugraph-db]/build/output/lgraph_import -c raw_data/import.json -d ./lgraph_db --overwrite true --v3 0
 ```
 将图数据导入到lgraph_db目录中。
 
@@ -164,13 +164,13 @@ optional arguments:
 
 使用lgraph_server启动图数据库。lgraph_server所在目录与lgraph_import相同。执行以下命令：
 ```bash
-    [tugraph-db]/build/output/lgraph_server -c ./lgraph_standalone.json -d start --unlimited_token 1
+    [tugraph-db]/build/output/lgraph_server -c ./raw_data/lgraph_standalone.json -d start --unlimited_token 1
 ```
 启动服务。可通过本机7071端口访问确认导入是否成功。
 
 ### 编译算法
 
-将make_demo.sh文件中的 TUGRAPH_PATH改为本机上的tugraph-db目录，执行
+在plugin目录下，将make_demo.sh文件中的 TUGRAPH_PATH改为本机上的tugraph-db目录，执行
 ```bash
     bash make_demo.sh
     python3 reload.sh
